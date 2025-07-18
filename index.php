@@ -1,5 +1,5 @@
 <?php
-// Cloud Run + Apache + PHP 動作確認用のテストファイル
+// Cloud Run + Apache + PHP 動作確認用のテストファイルaaaa
 
 // Cloud Run のポート番号などの環境変数も出力
 $port = getenv('PORT') ?: '不明';
