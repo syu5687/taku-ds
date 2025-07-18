@@ -1,1 +1,6 @@
+# 画像ファイル（無視したい icon 系）
+icon.png
 *.ico
+/
+# macOS システムファイル
+.DS_Store
