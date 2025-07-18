@@ -29,8 +29,8 @@ $db_name = getenv('DB_NAME') ?: '未設定';
 </head>
 <body>
   <h1>✅ Cloud Run 動作テスト</h1>
-  <p>このページは Cloud Run + Apache + PHP が正しく動作していることを確認するためのテストです0。</p>
-  
+  <p>このページは Cloud Run + Apache + PHP が正しく動作していることを確認するためのテストです。</p>
+  <span>....</span>
   <h2>環境変数</h2>
   <pre>
 PORT: <?= htmlspecialchars($port) ?>
