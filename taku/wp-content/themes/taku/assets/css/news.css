@@ -1,0 +1,200 @@
+.areaNews {}
+.areaNews .wrapNews {}
+.areaNews .wrapNews .contentItem {
+	display: flex;
+	flex-wrap: wrap;
+}
+#noticeNews {
+	padding-top: 63px;
+}
+.areaNews .wrapNews .contentItem .iframeNews {}
+.areaNews .wrapNews .contentItem:has(p > img) .iframeNews {
+	width: 48%;
+	margin-right: 18px;
+}
+.areaNews .wrapNews .contentItem .iframeNews .boxNews {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	margin-bottom: 19px;
+}
+.areaNews .wrapNews .contentItem .iframeNews .boxNews .timeNews {
+	font-size: 16px;
+	font-weight: bold;
+	margin-right: 23px;
+}
+.areaNews .wrapNews .contentItem .iframeNews .boxNews .txtNoticeNews {
+	font-size: 14px;
+	font-weight: bold;
+	background: #EF5350;
+	color: #ffffff;
+	padding: 2px 12px;
+	border-radius: 12px;
+	display: inline-block;
+}
+.areaNews .wrapNews .contentItem .iframeNews .boxContentNews p:first-child {
+	margin-top: 0;
+}
+.areaNews .wrapNews .contentItem .iframeNews .boxContentNews p {
+	font-size: 16px;
+	font-weight: 500;
+	margin-top: 24px;
+}
+.areaNews .wrapNews .contentItem .iframeNews .boxContentNews span {
+	color: #F0534F;
+	font-weight: bold;
+}
+.areaNews .wrapNews .contentItem .iframeNews .boxContentNews strong {
+	font-weight: bold;
+	color: #F0534F;
+	margin: 0;
+	display: block;
+}
+
+.areaNews .wrapNews .contentItem p:has(>img) {
+	width: 45.5%;
+}
+
+.areaNews .wrapNews .contentItem .iframeNews .boxContentNews div {
+}
+.areaNews .wrapNews .contentItem .iframeNews .boxContentNews div>p {
+    margin: 0;
+}
+.areaNews .wrapNews .contentItem p img {
+	aspect-ratio: 406/298;
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+	object-position: center;
+}
+.areaNews .wrapNews .contentItem .iframeNews .boxContentNews div>ul {}
+.areaNews .wrapNews .contentItem .iframeNews .boxContentNews div>ul li {
+	font-size: 16px;
+	font-weight: 500
+}
+
+.areaNews .wrapNews .contentItem .iframeCampaignNews {
+    padding: 0 4px;
+}
+.areaNews .wrapNews .contentItem .iframeCampaignNews .subCampaingNews {
+	font-size: 16px;
+	font-weight: 500;
+	margin-bottom: 41px;
+}
+
+.areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews {
+	border: 1px solid #50B482;
+	border-radius: 10px;
+	padding: 26px 24px 36px;
+	width: 97.5%;
+	margin: 0 auto;
+}
+.areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews .txtCampaingNews {
+	font-size: 16px;
+	font-weight: 500;
+	margin-bottom: 24px;
+}
+.areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews .txtCampaingNews .campaignNewsFsz20 {
+	font-size: 20px;
+}
+.areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews .txtCampaingNews .campaignNewsRed {
+	color: #EF5350;
+	font-weight: bold;
+}
+.areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews .noteCampaignNews {
+	font-size: 16px;
+	font-weight: 500;
+	padding: 0 3px;
+}
+.areaNews .wrapNews .bannerCampaignNews  {
+    max-width: 771px;
+    width: 100%;
+    padding: 0 20px;
+    margin: -15px auto 60px;
+}
+.areaNews .wrapNews .bannerCampaignNews img {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 731/405;
+    object-fit: contain;
+    object-position: center;
+}
+
+@media (max-width: 768px) {
+	#noticeNews {
+		padding-top: clamp(42.5px, 11.3vw, 50px);
+	}
+	.areaNews .wrapNews .contentItem .iframeNews .boxNews .timeNews {
+	    font-size: clamp(14px, 2.5vw, 18px);
+		line-height: 1.6;
+	}
+	.areaNews .wrapNews .contentItem .iframeNews .boxNews .txtNoticeNews {
+	    font-size: clamp(14px, 2.5vw, 16px);
+		line-height: 1.6;
+	}
+
+	.areaNews .wrapNews .contentItem .iframeNews .boxContentNews p {
+	    font-size: clamp(14px, 2.5vw, 18px);
+		line-height: 1.6;
+	}
+
+	.areaNews .wrapNews .contentItem {
+		flex-direction: column;
+	}
+
+	.areaNews .wrapNews .contentItem:has(p > img) .iframeNews {
+		width: 100%;
+		margin-bottom: 20px;
+		margin-right: 0;
+	}
+	.areaNews .wrapNews .contentItem p:has(>img) {
+		width: 100%;
+	}
+
+	.areaNews .wrapNews .bannerCampaignNews {
+		max-width: 771px;
+		width: 100%;
+		padding: 0 20px;
+		margin: 0 auto 20px;
+	}
+	.areaNews .wrapNews .contentItem .iframeCampaignNews {
+		padding: 0;
+	}
+	.areaNews .wrapNews .contentItem .iframeCampaignNews .subCampaingNews {
+	    font-size: clamp(14px, 2.5vw, 18px);
+		line-height: 1.6;
+	    margin-bottom: 20px;
+		padding: 0 14px;
+	}
+
+	.areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews {
+		width: 96.6%;
+	}
+
+	.areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews .txtCampaingNews {
+	    font-size: clamp(14px, 2.5vw, 18px);
+		line-height: 1.6;
+	}
+
+	.areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews .txtCampaingNews .campaignNewsFsz20 {
+	    font-size: clamp(18px, 4.7vw, 22px);
+		line-height: 1.6;
+	}
+
+	.areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews .noteCampaignNews {
+	    font-size: clamp(14px, 2.5vw, 18px);
+		line-height: 1.6;
+	}
+}
+
+@media (max-width: 529px) {
+	.areaNews .wrapNews .contentItem .iframeNews .boxNews .timeNews,
+	.areaNews .wrapNews .contentItem .iframeNews .boxNews .txtNoticeNews,
+	.areaNews .wrapNews .contentItem .iframeNews .boxContentNews p,
+	.areaNews .wrapNews .contentItem .iframeCampaignNews .subCampaingNews,
+	.areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews .txtCampaingNews,
+	.areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews .txtCampaingNews .campaignNewsFsz20,
+	.areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews .noteCampaignNews {
+		line-height: 1.5;
+	}
+}

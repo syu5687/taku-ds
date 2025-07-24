@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Group_377" data-name="Group 377" transform="translate(-518 -2454)">
+    <g id="Ellipse_26" data-name="Ellipse 26" transform="translate(518 2454)" fill="#fff" stroke="#50b482" stroke-width="5">
+      <circle cx="50" cy="50" r="50" stroke="none"/>
+      <circle cx="50" cy="50" r="47.5" fill="none"/>
+    </g>
+    <g id="学生帽のアイコン素材" transform="translate(536 2406.969)">
+      <path id="Path_98" data-name="Path 98" d="M63.229,84.7,34.908,71.668a6.961,6.961,0,0,0-5.816,0L.77,84.7a1.325,1.325,0,0,0,0,2.407l28.321,13.037a6.951,6.951,0,0,0,5.816,0L57.26,89.86v10.36a1.776,1.776,0,0,0-.3,3.469l-1.511,9.974H62.4l-1.511-9.974a1.776,1.776,0,0,0-.3-3.469V88.326l2.639-1.215a1.325,1.325,0,0,0,0-2.407Z" fill="#50b482"/>
+      <path id="Path_99" data-name="Path 99" d="M130.694,295.975a9.619,9.619,0,0,1-4.048-.888l-13.853-6.377v12.7c0,2.789,8.428,6.328,17.9,6.328s17.9-3.539,17.9-6.328v-12.7l-13.853,6.377A9.613,9.613,0,0,1,130.694,295.975Z" transform="translate(-98.694 -190.469)" fill="#50b482"/>
+    </g>
+  </g>
+</svg>

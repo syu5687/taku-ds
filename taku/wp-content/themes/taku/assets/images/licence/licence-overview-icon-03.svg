@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Group_374" data-name="Group 374" transform="translate(-518 -1338)">
+    <g id="Ellipse_23" data-name="Ellipse 23" transform="translate(518 1338)" fill="#fff" stroke="#50b482" stroke-width="5">
+      <circle cx="50" cy="50" r="50" stroke="none"/>
+      <circle cx="50" cy="50" r="47.5" fill="none"/>
+    </g>
+    <g id="シンプルな書類ファイル" transform="translate(488.195 1358.084)">
+      <rect id="Rectangle_147" data-name="Rectangle 147" width="26.687" height="2.55" transform="translate(64.102 46.065)" fill="#50b482"/>
+      <rect id="Rectangle_148" data-name="Rectangle 148" width="26.687" height="2.55" transform="translate(64.102 35.723)" fill="#50b482"/>
+      <rect id="Rectangle_149" data-name="Rectangle 149" width="26.687" height="2.551" transform="translate(64.102 25.383)" fill="#50b482"/>
+      <rect id="Rectangle_150" data-name="Rectangle 150" width="12.579" height="2.55" transform="translate(78.21 15.043)" fill="#50b482"/>
+      <path id="Path_91" data-name="Path 91" d="M95.632,0H73.561a5.979,5.979,0,0,0-4.225,1.749L55.568,15.518a5.975,5.975,0,0,0-1.75,4.225v34.65a5.447,5.447,0,0,0,5.441,5.441H95.632a5.447,5.447,0,0,0,5.441-5.441V5.439A5.446,5.446,0,0,0,95.632,0Zm-24,3.78V16.01c0,1.322-.515,1.837-1.837,1.837H57.564ZM98.014,54.393a2.384,2.384,0,0,1-2.381,2.381H59.259a2.384,2.384,0,0,1-2.382-2.381V20.568H71.433a2.923,2.923,0,0,0,2.919-2.92V3.06h21.28a2.383,2.383,0,0,1,2.381,2.379Z" fill="#50b482"/>
+    </g>
+  </g>
+</svg>
