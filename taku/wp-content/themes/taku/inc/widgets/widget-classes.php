@@ -1,8 +1,0 @@
-<?php
-/**
- *  SETUP NEW WIDGETS
- */
-
-
-
-
