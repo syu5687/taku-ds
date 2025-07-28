@@ -1,0 +1,1321 @@
+
+
+.areaLicence .contentTab .licenceStep .stepList {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 892px;
+    margin: 10px auto 53px;
+}
+.areaLicence .contentTab .licenceStep .stepList li {
+    position: relative;
+    width: calc(20% - 38px);
+}
+.areaLicence .contentTab .licenceStep .stepList li {
+    text-align: center;
+}
+.areaLicence .contentTab .licenceStep .stepList li:not(:last-child) {
+    margin-right: 42px;
+}
+.areaLicence .contentTab .licenceStep .stepList li:not(:last-child)::before {
+    content: "";
+    position: absolute;
+    bottom: 35%;
+    right: -37px;
+    transform: translateY(-50%);
+    width: 32px;
+    aspect-ratio: 32/10;
+    background: url(../images/licence/icon-dots.svg)no-repeat top left/100%;
+}
+.areaLicence .contentTab .licenceStep .stepList li .stepPhoto {
+    margin-bottom: -12px;
+}
+.areaLicence .contentTab .licenceStep .stepList li .stepPhoto img {
+    width: 81.3%;
+    aspect-ratio: 114 / 43;
+}
+.areaLicence .contentTab .licenceStep .stepList li .stepName {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #FFD800;
+    line-height: 1.25;
+    padding: 0 5px 11px;
+}
+.areaLicence .contentTab .licenceStep .stepList li .stepName::before {
+    content: "";
+    position: absolute;
+    bottom: 13px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 17px;
+    aspect-ratio: 17/15;
+    background: url(../images/licence/icon-triangle.svg)no-repeat top left/100%;
+}
+.areaLicence .contentTab .licenceStep .stepList li.stepRed .stepName{
+    background: #EF5350;
+    color: #fff;
+}
+.areaLicence .licenceStep .wrapBasicPlan .titleItemContent {
+    justify-content: left;
+    padding: 0px 50px;
+}
+.areaLicence .licenceStep .wrapBasicPlan .titleItemContent .step {
+    position: relative;
+    display: inline-block;
+    margin-right: 28px;
+}
+.areaLicence .licenceStep .wrapBasicPlan .titleItemContent .step::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: -16px;
+    transform: translateY(-50%);
+    width: 1px;
+    height: 77%;
+    background-color: #fff;
+}
+.areaLicence .licenceStep .wrapBasicPlan .stepWrap {
+    width: 100%;
+    max-width: 892px;
+    margin: 0 auto;
+}
+.areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepTable table {
+    width: 100%;
+}
+.areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepTable td {
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #EFEFEF;
+    padding: 14px 10px 14px 26px;
+}
+.areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepTable td:first-child {
+    width: 156px;
+}
+.areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepTable tr:nth-child(2n) td {
+    background-color: #fff;
+}
+.areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepTable td .red {
+    color: #EF5350;
+}
+.areaLicence .stepTwo .stepWrap .twoNote {
+    font-size: 20px;
+    font-weight: bold;
+    color: #50B482;
+    margin-bottom: 27px;
+}
+.areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepSub {
+    font-size: 16px;
+    font-weight: 500;
+}
+.areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepSub a {
+    color: #EF5350;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    pointer-events: none;
+}
+.areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepBg {
+    display: inline-block;
+    width: 100%;
+    max-width: 666px;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: rgba(80,180,130,0.2);
+    padding: 9px 18px 21px;
+}
+.areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepRed {
+    font-size: 18px;
+    font-weight: 500;
+    color: #EF5350;
+    line-height: 1.45;
+    margin-bottom: 22px;
+}
+.areaLicence .stepThree .stepSub {
+    margin-bottom: 20px;
+}
+.areaLicence .stepThree .stepThreeList {
+    font-size: 16px;
+    font-weight: 500;
+    background-color: rgba(80,180,130,0.2);;
+    border-radius: 10px;
+    padding: 12px 22px 16px;
+    margin-bottom: 31px;
+}
+.areaLicence .stepThree .stepThreeList li .green {
+    color: #50B482;
+}
+.areaLicence .stepThree .stepRed + .stepSub {
+    margin-bottom: 52px;
+}
+.areaLicence .licenceBtn {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.areaLicence .licenceBtn .btnBox {
+    margin: 0 13px;
+}
+.areaLicence .licenceBtn .btnBox a {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #50B482;
+    border: 1px solid #50B482;
+    border-radius: 15px;
+    padding: 5px 51px 5px 16px;
+}
+.areaLicence .licenceBtn .btnBox a::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 12px;
+    transform: translateY(-50%);
+    width: 31px;
+    aspect-ratio: 1/1;
+    background: url(../images/licence/icon-arrow-green.svg)no-repeat top left/100%;
+}
+.areaLicence .licenceBtn .btnBox.btnRed a {
+    color: #EF5350;
+    border-color: #EF5350;
+}
+.areaLicence .licenceBtn .btnBox.btnRed a::before {
+    background-image: url(../images/licence/icon-arrow-red.svg);
+}
+.areaLicence .licenceStep .wrapBasicPlan.stepFour .stepWrap .stepRed {
+    margin-bottom: 10px;
+}
+.areaLicence .stepFour .stepWrap .stepSub {
+    margin-left: 18px;
+    margin-bottom: 45px;
+}
+.areaLicence .stepFour .stepWrap .stepSub + .stepRed {
+    margin-bottom: 29px;
+}
+.areaLicence .stepFour .stepWrap .stepBg {
+    margin-top: -18px;
+}
+.areaLicence .licenceStep .wrapBasicPlan.stepFive .stepWrap .stepSub  {
+    margin-bottom: 30px;
+}
+.areaLicence .licenceStep .wrapBasicPlan.stepFive .stepWrap .stepBg {
+    padding: 10px 22px 19px;
+    margin-bottom: 14px;
+}
+.areaLicence .licenceStep .wrapBasicPlan.stepFive .stepWrap .stepBg .space {
+    display: inline-block;
+    margin-left: 15px;
+}
+.areaLicence .licenceStep .wrapBasicPlan.stepFive .stepWrap .stepBg + .stepSub {
+    margin-bottom: 0;
+}
+
+
+
+
+
+/* licencePrice */
+.areaLicence .licencePrice .wrapBasicPlan.priceRegular {
+    margin: 0 0 47px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTableWrap {
+    margin-bottom: 26px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTableBox:not(:last-child) {
+    margin-bottom: 22px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable {
+    width: 100%;
+    max-width: 732px;
+    overflow-x: auto;
+    padding-bottom: 10px;
+    margin: 0 auto;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable::-webkit-scrollbar {
+    height: 10px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable::-webkit-scrollbar-thumb {
+    background: #b7b7b7;
+    border-radius: 10px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable table{
+    width: max-content;
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable th, 
+.areaLicence .licencePrice .wrapBasicPlan .priceTable td {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 4px 5px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable th {
+    color: #fff;
+    background-color: #6C6C6C;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable tr:not(:nth-child(2)) th:first-child {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 104px;
+    padding: 14px 5px;
+    border-bottom: 1px solid #fff;
+    border-right: 1px solid #000;
+    background-color: #000;
+    color: #fff;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable tr:not(:nth-child(2)) th:first-child::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: -3px;
+    transform: translateY(-50%);
+    width: 100%;
+    height: 100%;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable tr:not(:nth-child(2)) th:first-child::after {
+    content: "";
+    position: absolute;
+    bottom: -1px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(100% + 4px);
+    height: 1px;
+    background-color: #fff;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable.tableSmall tr:not(:nth-child(2)) th:first-child::after {
+    content: none;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable tr:last-child th:first-child::after {
+    background-color: #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable tr:last-child th:first-child {
+    border-bottom-color: #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable th {
+    background: #555;
+    color: #fff;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable tr:first-child th:nth-child(2) {
+    width: 83px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable tr:first-child th:nth-child(3) {
+    width: 128px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable tr:first-child th:nth-child(4) {
+    width: 94px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable tr:first-child th:nth-child(5) {
+    width: 96px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable tr:first-child th:nth-child(6) {
+    width: 91px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable tr:nth-child(odd) td {
+    border-bottom: none;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable tr:nth-child(2n) td {
+    border-top: none;
+    background-color: #EFEFEF;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable th.yellow {
+    width: 128px;
+    background: #FFD700;
+    color: #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable td.yellow {
+    background: #FFD700;
+    font-weight: bold;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable td {
+    border: 1px solid #000;
+    border-top: none;
+    padding: 18px 5px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable td.dashedLeft {
+    border-left-style: dashed;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable td.dashedRight {
+    border-right-style: dashed;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable.tableSmall th {
+    padding: 0 5px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable.tableSmall tr:not(:nth-child(2)) th:first-child {
+    width: 100px;
+    border-bottom-width: 2px;
+    border-bottom-color: #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable.tableSmall tr:first-child th:nth-child(2) {
+    width: 151px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable.tableSmall tr:first-child th:nth-child(3) {
+    width: 159px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable.tableSmall tr:first-child th:nth-child(4) {
+    width: 186px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable.tableSmall tr:first-child th:nth-child(5) {
+    width: 128px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .priceTable.tableSmall td {
+    padding: 17px 5px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .regularList {
+    width: 100%;
+    max-width: 872px;
+    margin: 0 auto;
+}
+.areaLicence .licencePrice .wrapBasicPlan .regularList li {
+    position: relative;
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+    padding-left: 10px;
+}
+.areaLicence .licencePrice .wrapBasicPlan .regularList li.red {
+    color: #EF5350;
+}
+.areaLicence .licencePrice .wrapBasicPlan .regularList li::before {
+    content: "";
+    position: absolute;
+    top: 11px;
+    left: 0;
+    width: 4px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    background-color: #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan .regularList li.red::before {
+    background-color: #EF5350;
+} 
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable {
+    margin: 0;
+    overflow-y: inherit;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable:first-child {
+    max-width: none;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:not(:nth-child(2)) th {
+    padding: 13px 5px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr th.blBlack {
+    border-left: 1px solid #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:first-child th {
+    border-right: 1px solid #000;
+    padding: 4px 5px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:nth-child(2) th {
+    padding: 6px 5px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:first-child th .tableBg {
+    display: block;
+    color: #000;
+    background-color: #fff;
+    border-radius: 20px;
+    text-align: center;
+    padding: 3px 5px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr th.fs14 {
+    font-size: 14px;
+    line-height: 1.2;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:not(:nth-child(2)) th:first-child {
+    width: 91px;
+    border-left-color: #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:first-child th:nth-child(2) {
+    width: 90px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:first-child th:nth-child(3) {
+    width: 276px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable:not(:first-child) tr:not(:nth-child(2)) th:first-child {
+    background-color: #555;
+    border-bottom-color: #555;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:first-child th {
+    border-top: 2px solid #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:last-child th,
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:last-child td {
+    border-top: 2px solid #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:not(:nth-child(2)) th:first-child {
+    border-left: 2px solid #000;
+    border-bottom: 2px solid #fff;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable th:last-child,
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable td:last-child {
+    border-right-width: 2px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:not(:last-child) td {
+    border-bottom: none;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr td {
+    padding: 14px 5px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:last-child td {
+    border-top: none;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable table {
+    border: none;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable .space {
+    width: 29px;
+    border-top-width: 2px;
+    border: none!important;
+    background-color: #fff!important;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable .space + th,
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable .space + td {
+    border-left: 2px solid #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable .nextSpace,
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:first-child th.nextSpace {
+    border-right: 2px solid #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:nth-child(2) th.prevSpace {
+    border-left: 2px solid #000;
+}
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:last-child th:first-child,
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:last-child td {
+    border-bottom-width: 2px;
+    border-color: #000;
+}
+
+.areaLicence .licencePrice .wrapBasicPlan.priceDetail .detailSub {
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: -6px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentSub {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 27px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList {
+    width: 96.9%;
+    margin: 0 auto 33px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 14px 10px 13px 30px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li:nth-child(odd) {
+    background-color: #EFEFEF;
+}
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li .paymentName {
+    width: 137px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li .paymentDetail {
+    width: calc(100% - 143px);
+}
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li .red {
+    color: #EF5350;
+}
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li.icon .paymentDetail{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li .paymentPhoto {
+    display: inline-block;
+    width: 268px;
+    margin-right: -6px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li .paymentPhoto img {
+    width: 100%;
+    aspect-ratio: 268/55;
+}
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentPhoto {
+    width: 202px;
+}
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentPhoto img {
+    width: 100%;
+    aspect-ratio: 202/169;
+}
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList + .paymentSub {
+    margin-bottom: 35px;
+}
+/* licencePrice */
+
+/* licencePlan */
+.licencePlan .planSub {
+    font-size: 16px;
+    font-weight: 500;
+}
+.licencePlan .listItem + .contentItem {
+    margin: 26px 0 38px;
+}
+.licencePlan .planBasic .planSub {
+    margin-bottom: 25px;
+}
+.licencePlan .planBasic .basicList {
+    margin-bottom: 42px;
+}
+.licencePlan .planBasic .basicList li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    border: 1px solid #50B482;
+    border-radius: 10px;
+    padding: 38px 27px 39px 43px;
+}
+.licencePlan .planBasic .basicList li:not(:last-child) {
+    margin-bottom: 36px;
+}
+.licencePlan .planBasic .basicList li .basicDetail {
+    width: 52.4%;
+}
+.licencePlan .planBasic .basicList li .basicDetail .planSub {
+    margin-bottom: 0;
+}
+.licencePlan .planBasic .basicList li .basicPhoto {
+    width: 44.7%;
+} 
+.licencePlan .planBasic .basicList li .basicPhoto img{
+    width: 100%;
+    aspect-ratio: 368/270;
+} 
+.licencePlan .planBasic .basicWrap {
+    background-color: rgba(255,216,0,0.2);
+    border-radius: 10px;
+    padding: 38px 34px 28px;
+    margin-bottom: 23px;
+}
+.licencePlan .planBasic .basicWrap .basicIntro {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 121px;
+    aspect-ratio: 121 / 122;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #50B482;
+    margin: 0 auto 21px;
+    text-align: center;
+    line-height: 1.45;
+    padding-bottom: 2px;
+}
+.licencePlan .planBasic .basicWrap .basicIntro:before {
+    content: "";
+    position: absolute;
+    bottom: -11px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 12px solid #50B482;
+}
+.licencePlan .planBasic .basicWrap .introList {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.licencePlan .planBasic .basicWrap .introList li {
+    width: 47%;
+}
+.licencePlan .planAutomatic .automaticWrap {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 52px;
+}
+.licencePlan .planAutomatic .automaticWrap .planSub {
+    width: calc(100% - 244px);
+}
+.licencePlan .planAutomatic .automaticWrap .planSub .green {
+    color: #50B482;
+}
+.licencePlan .planAutomatic .automaticWrap .planSub .red {
+    color: #EF5350;
+}
+.licencePlan .planAutomatic .automaticWrap .autoPhoto {
+    width: 261px;
+    margin-left: -20px;
+    margin-right: -33px;
+    margin-bottom: 24px;
+}
+.licencePlan .planAutomatic .automaticWrap .autoPhoto img {
+    width: 100%;
+    aspect-ratio: 261/231;
+}
+.licencePlan .planSafety .planSub {
+    margin-bottom: 25px;
+}
+.licencePlan .planSafety .safetyWrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: 1px solid #50B482;
+    border-radius: 10px;
+    padding: 32px 38px;
+}
+.licencePlan .planSafety .safetyWrap .safetyBox {
+    width: 48.7%;
+    border-radius: 10px;
+    background-color: rgba(255,216,0,0.3);
+    padding: 28px 29px;
+}
+.licencePlan .planSafety .safetyWrap .safetyBox.bigBox {
+    width: 100%;
+    padding-bottom:21px;
+    margin-bottom: 33px;
+}
+.licencePlan .planSafety .safetyWrap .safetyBox .boxName {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 22px;
+}
+.licencePlan .planSafety .safetyWrap .safetyBox.bigBox .boxName {
+    margin-bottom: 15px;
+}
+.licencePlan .planSafety .safetyWrap .safetyBox .boxTable {
+    margin-bottom: 23px;
+}
+.licencePlan .planSafety .safetyWrap .safetyBox .boxTable table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.licencePlan .planSafety .safetyWrap .safetyBox .boxTable th {
+    width: 25%;
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #6C6C6C;
+    padding: 15px 5px;
+}
+.licencePlan .planSafety .safetyWrap .safetyBox .boxTable tr:first-child th:first-child {
+    background-color: transparent;
+}
+.licencePlan .planSafety .safetyWrap .safetyBox .boxTable tr:not(:first-child) th {
+    background-color: #000000;
+} 
+.licencePlan .planSafety .safetyWrap .safetyBox .boxTable tr:nth-child(even) td {
+    background-color: #fff;
+}
+.licencePlan .planSafety .safetyWrap .safetyBox .boxTable tr:nth-child(odd) td {
+    background-color: #EFEFEF;
+}
+.licencePlan .planSafety .safetyWrap .safetyBox .boxTable td {
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+}
+.licencePlan .planSafety .safetyWrap .safetyBox .planSub {
+    margin-bottom: 0;
+}
+.licencePlan .planSpeed .speedSub {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.45;
+    margin-bottom: 48px;
+}
+.licencePlan .planSpeed .speedSub .line {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+.licencePlan .planSpeed .speedSub .red {
+    color: #EF5350;
+} 
+.licencePlan .planTheory .titleItemContent .note {
+    display: inline-block;
+    transform: translateY(3px);
+    font-size: 18px;
+}
+.licencePlan .planTheory .theoryList {
+    display: flex;
+    flex-wrap: wrap;
+}
+.licencePlan .planTheory .theoryList li {
+    width: calc(100%/3);
+}
+.licencePlan .planTheory .theoryList li img {
+    width: 100%;
+    aspect-ratio: 297/420;
+}
+/* licencePlan */
+
+
+/* licenceOverview */
+.licenceOverview .overviewNote {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: #EF5350;
+    margin: 20px 0 30px;
+}
+.licenceOverview .overList li .overName {
+    position: relative;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    background-color: #50B482;
+    border-radius: 40px;
+    padding: 6px 20px 8px 116px;
+    margin-bottom: 41px;
+    z-index: 1;
+}
+.licenceOverview .overList li .overName .icon {
+    position: absolute;
+    top: 44%;
+    left: 0;
+    transform: translateY(-50%);
+    width: 100px;
+    aspect-ratio: 1/1;
+}
+.licenceOverview .overList li .overName .icon img {
+    width: 100%;
+    height: 100%;
+}
+.licenceOverview .overList li .overBox {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding-bottom: 91px;
+    padding-left: 96px;
+}
+.licenceOverview .overList li:last-child .overBox {
+    padding-bottom: 0;
+}
+.licenceOverview .overList li:not(:last-child) .overBox:before {
+    content: "";
+    position: absolute;
+    top: -25px;
+    left: 44px;
+    width: 12px;
+    height: 100%;
+    background: url(../images/licence/licence-overview-icon-dots.svg)repeat-y top left / 100% 100%;
+}
+.licenceOverview .overList li .overBox .overPhoto {
+    width: 44%;
+}
+.licenceOverview .overList li .overBox .overPhoto img {
+    width: 100%;
+    aspect-ratio: 350/200;
+}
+.licenceOverview .overList li .overBox .overSub {
+    font-size: 16px;
+    font-weight: 500;
+    width: 51.1%;
+    margin-top: 9px;
+}
+.licenceOverview .overList li .overBox .overSub .red {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.45;
+    color: #EF5350;
+}
+.licenceOverview .overList li .overBox .overSub .green {
+    display: inline-block;
+    margin-left: 16px;
+    color: #50B482;
+}
+.licenceOverview .overList li .overBox .overSub .note {
+    display: block;
+    margin-left: 56px;
+    font-size: 14px;
+}
+.licenceOverview .overList li .overBox .overSub .fs14 {
+    display: inline-block;
+    font-size: 14px;
+}
+.licenceOverview .overList li:last-child .overBox .overSub .green {
+    margin-left: 0;
+    font-weight: bold;
+} 
+/* licenceOverview */
+@media(max-width: 930px) {
+    .areaLicence .contentTab .licenceStep .stepList li {
+        width: calc(20% - 20px);
+    }
+    .areaLicence .contentTab .licenceStep .stepList li:not(:last-child) {
+        margin-right: 25px;
+    }
+    .areaLicence .contentTab .licenceStep .stepList li:not(:last-child)::before {
+        right: -23px;
+        width: 20px;
+    }
+    .areaLicence .contentTab .licenceStep .stepList li .stepName {
+        font-size: 14px;
+    }
+}
+@media(max-width: 1000px) and (min-width:769px) {
+    .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepTable td:first-child {
+        width: 115px;
+    }
+}
+@media(max-width: 988px) and (min-width:769px) {
+    .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li .paymentPhoto {
+        margin-top: 10px;
+    }
+}
+@media(max-width: 950px) and (min-width:769px) {
+    .licenceOverview .overList li .overName {
+        padding-left: 95px;
+    }
+    .licenceOverview .overList li .overName .icon {
+        top: 50%;
+        width: 80px;
+    }
+    .licenceOverview .overList li .overBox {
+        padding-left: 75px;
+    }
+    .licenceOverview .overList li:not(:last-child) .overBox:before {
+        left: 5.2%;
+        top: -15px;
+    }
+    .licenceOverview .overList li .overBox .overSub {
+        width: 53%;
+    }
+}
+@media(max-width: 900px) and (min-width:769px) {
+    .areaLicence .licenceBtn .btnBox {
+        margin: 0 5px;
+    }
+    .areaLicence .licenceBtn .btnBox a {
+        font-size: 20px;
+    }
+}
+@media(max-width: 850px) and (min-width:769px) {
+    .licencePlan .planBasic .basicWrap .introList li {
+        width: 100%;
+    }
+    .licencePlan .planBasic .basicWrap .introList li:first-child {
+        margin-bottom: 20px;
+    }
+    .licencePlan .planSafety .safetyWrap .safetyBox {
+        width: 100%;
+    }
+    .licencePlan .planSafety .safetyWrap .safetyBox:not(:last-child) {
+        margin-bottom: 33px;
+    }
+}
+@media(min-width:769px) {
+    .areaLicence .contentTab .licenceStep .stepList li a:hover .stepName {
+        background-color: #50B482;
+        color: #fff;
+    }
+    .areaLicence .licenceBtn .btnBox a:hover {
+        background-color: #50B482;
+        color: #fff;
+    }
+    .areaLicence .licenceBtn .btnBox a:hover::before {
+        background-image: url(../images/licence/icon-arrow-white-green.svg);
+    }
+    .areaLicence .licenceBtn .btnBox.btnRed a:hover {
+        background-color: #EF5350;
+    }
+    .areaLicence .licenceBtn .btnBox.btnRed a:hover::before {
+        background-image: url(../images/licence/icon-arrow-white-red.svg);
+    }
+    .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepSub a:hover {
+        text-decoration: none;
+    }
+    
+    .licencePlan .titleSenior {
+        margin-bottom: 18px;
+    }
+}
+
+@media(max-width: 768px) {
+    .areaLicence .licenceStep .wrapBasicPlan .titleItemContent {
+        padding: 10px 20px;
+    }
+    .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepTable td {
+        padding: 14px 5px 14px 10px;
+    }
+    .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepTable td:first-child {
+        width: 90px;
+    }
+    .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepTable td,
+    .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepSub,
+    .areaLicence .stepThree .stepThreeList,
+    .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepBg {
+        font-size: clamp(14px, 3.7vw, 18px);
+        line-height: 1.6;
+    }
+    .areaLicence .stepTwo .stepWrap .twoNote,
+    .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepRed {
+        font-size: clamp(15px, 3.8vw, 20px);
+    }
+    .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepSub {
+        margin-bottom: clamp(20px, 6vw, 25px);
+    }
+    .areaLicence .licenceBtn .btnBox {
+        margin: 10px 15px;
+    }
+    .areaLicence .licenceBtn .btnBox a {
+        height: 60px;
+        font-size: clamp(15px, 3.8vw, 20px);
+    }
+    .areaLicence .licenceBtn .btnBox a::before {
+        width: clamp(20px, 6vw, 25px);
+    }
+
+    /* licencePrice */
+    
+    
+    .areaLicence .licencePrice .wrapBasicPlan .priceTable::-webkit-scrollbar {
+        height: 5px;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan .priceTableWrap,
+    .areaLicence .licencePrice .wrapBasicPlan .priceTableBox:not(:last-child) {
+        margin-bottom: clamp(20px, 5vw, 30px);
+    }
+    .areaLicence .licencePrice .wrapBasicPlan .priceTable th, 
+    .areaLicence .licencePrice .wrapBasicPlan .priceTable td,
+    .areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr th.fs14 {
+        font-size: clamp(14px, 3.7vw, 18px);
+        line-height: 1.6;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan .priceTable tr:not(:nth-child(2)) th:first-child::after {
+        bottom: -2px;
+        width: calc(100% + 6px);
+        height: 2px;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan .priceTable {
+        margin-bottom: 10px;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan .tableNote {
+        font-size: clamp(14px, 3.7vw, 18px);
+        line-height: 1.6;
+        text-align: right;
+    } 
+    
+    .areaLicence .licencePrice .wrapBasicPlan .priceTable tr:not(:nth-child(2)) th:first-child {
+        width: 120px;
+        border-width: 2px;
+    } 
+    .areaLicence .licencePrice .wrapBasicPlan .regularList li {
+        font-size: clamp(14px, 3.7vw, 18px);
+        line-height: 1.6;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.priceDetail .detailSub {
+        font-size: clamp(14px, 3.7vw, 18px);
+        line-height: 1.6;
+        margin: 0;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList {
+        width: 100%;
+        margin-bottom: 22px;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li:nth-child(odd) {
+        background-color: #fff;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li {
+        font-size: clamp(14px, 3.7vw, 18px);
+        line-height: 1.6;
+        padding: 0;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li .paymentName {
+        width: 100%;
+        padding: 17px 15px 14px;
+        background-color: #EFEFEF;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li .paymentDetail {
+        width: 100%;
+        padding: 11px 14px 20px;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable:first-child {
+        position: relative;
+        width: auto;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable:first-child table {
+        position: relative;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable:first-child tr:first-child th:first-child::after {
+        content: "";
+        position: absolute;
+        top: -3px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: calc(100% + 6px);
+        height: 100%;
+        border-top: 3px solid #000;
+        border-bottom: 3px solid #fff;
+        background: transparent;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li.icon .paymentDetail {
+        justify-content: center;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li .paymentPhoto {
+        margin: 13px 0 0;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentSub {
+        font-size: clamp(14px, 3.7vw, 18px);
+        line-height: 1.6;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList + .paymentSub {
+        margin-bottom: 49px;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentPhoto {
+        margin: 0 auto;
+    }
+    /* licencePrice */
+
+    /* licencePlan */
+    .licencePlan .listItem + .contentItem {
+        margin: 0 0 clamp(20px, 6vw, 25px);
+    }
+    .licencePlan .planSub {
+        font-size: clamp(14px, 3.7vw, 18px);
+        line-height: 1.6;
+    }
+    .licencePlan .planBasic .basicList li {
+        padding: 20px;
+    }
+    .licencePlan .planBasic .basicList li .basicDetail {
+        width: 100%;
+    }
+    .licencePlan .titleItem + p {
+        padding: 0 15px;
+    }
+    .licencePlan .planBasic .planSub {
+        text-align: justify;
+        margin-bottom: clamp(20px, 5vw, 30px);
+    }
+    .licencePlan .planBasic .basicList li .basicPhoto {
+        width: 100%;
+    }
+    .licencePlan .planBasic .basicWrap {
+        padding: 20px;
+    }
+    .licencePlan .planBasic .basicWrap .introList li {
+        width: 100%;
+    }
+    .licencePlan .planBasic .basicWrap .introList li:first-child {
+        margin-bottom: clamp(30px, 6vw, 40px);
+    }
+    .licencePlan .planBasic .basicWrap .introList li .planSub {
+        margin-bottom: 0;
+    }
+    .licencePlan .planAutomatic .automaticWrap {
+        flex-direction: column-reverse;
+        margin-bottom: clamp(30px, 6vw, 40px);
+    }
+    .licencePlan .planAutomatic .automaticWrap .planSub {
+        width: 100%;
+    }
+    .licencePlan .planAutomatic .automaticWrap .autoPhoto {
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto clamp(20px, 5vw, 30px);
+    }
+    .licencePlan .planSafety .safetyWrap {
+        padding: 20px;
+    }
+    .licencePlan .planSafety .safetyWrap .safetyBox.bigBox {
+        padding: 20px;
+    }
+    .licencePlan .planSafety .safetyWrap .safetyBox {
+        width: 100%;
+        padding: 20px;
+    }
+    .licencePlan .planSafety .safetyWrap .safetyBox:not(:last-child) {
+        margin-bottom: clamp(20px, 5vw, 30px);
+    }
+    .licencePlan .planSafety .safetyWrap .safetyBox .boxName {
+        font-size: clamp(16px, 4.2vw, 22px);
+        margin-bottom: clamp(20px, 5vw, 30px);
+    }
+    .licencePlan .planSafety .safetyWrap .safetyBox .boxTable {
+        width: 100%;
+        overflow-x: auto;
+    }
+    .licencePlan .planSafety .safetyWrap .safetyBox .boxTable table {
+        width: max-content;
+    }
+    .licencePlan .planSafety .safetyWrap .safetyBox .boxTable th {
+        width: 146px;
+    }
+    .licencePlan .planSafety .safetyWrap .safetyBox .boxTable th,
+    .licencePlan .planSafety .safetyWrap .safetyBox .boxTable td {
+        font-size: clamp(14px, 3.7vw, 18px);
+        line-height: 1.6;
+    }
+    .licencePlan .planSpeed .speedSub {
+        font-size: clamp(14px, 3.7vw, 18px);
+        line-height: 1.6;
+        margin-bottom: clamp(20px, 5vw, 30px);
+    }
+    .licencePlan .planTheory .titleItemContent .note {
+        font-size: clamp(12px, 3.2vw, 14px);
+        transform: translateY(clamp(2px,0.5vw,4px));
+    }
+    /* licencePlan */
+    .licenceOverview .overviewNote {
+        font-size: clamp(18px, 4.8vw, 24px);
+    }
+    .licenceOverview .overList li .overName .icon {
+        width: clamp(50px,15vw,90px);
+    }
+    .licenceOverview .overList li .overName {
+        font-size: clamp(15px,4vw,20px);
+        padding: 1.5vw 6vw 1.5vw clamp(70px,19vw,100px);
+        margin-bottom: clamp(20px, 5vw, 30px);
+    }
+    .licenceOverview .overList li:not(:last-child) {
+        margin-bottom: 0;
+    }
+    .licenceOverview .overList li:not(:last-child) .overBox:before {
+        left: 6%;
+        width: clamp(8px, 2vw, 10px);
+        background: url(../images/licence/licence-overview-icon-dots-sp.svg)repeat-y top left/ 100%;
+    }
+    .licenceOverview .overList li .overBox {
+        padding-bottom: clamp(20px, 5vw, 30px);
+        padding-left: clamp(50px, 15vw, 90px);
+    }
+    .licenceOverview .overList li .overBox .overSub {
+        font-size: clamp(14px, 3.7vw, 18px);
+        line-height: 1.6;
+    }
+    .licenceOverview .overList li .overBox .overSub .red {
+        font-size: clamp(15px,4vw,20px);
+    }
+    .licenceOverview .overList li .overBox .overSub .fs14,
+    .licenceOverview .overList li .overBox .overSub .note {
+        font-size: clamp(14px, 3.7vw, 18px);
+        line-height: 1.6;
+    }
+    .licenceOverview .overList li .overBox {
+        padding-bottom: clamp(30px, 8vw, 40px);
+    }
+}
+
+
+
+@media(max-width: 700px) {
+    .areaLicence .contentTab .licenceStep .stepList {
+        justify-content: center;
+        margin-bottom: clamp(20px, 5vw, 30px);
+    }
+    .areaLicence .contentTab .licenceStep .stepList li {
+        width: calc(100%/3 - 10px);
+        margin-bottom: 25px;
+    }
+    .areaLicence .contentTab .licenceStep .stepList li:nth-child(3n) {
+        margin-right: 0;
+    } 
+    .areaLicence .contentTab .licenceStep .stepList li:not(:nth-child(3n)) {
+        margin-right: 15px;
+    }
+    .areaLicence .contentTab .licenceStep .stepList li:last-child {
+        margin-right: 0;
+    }
+    .areaLicence .contentTab .licenceStep .stepList li:not(:last-child)::before {
+        content: none;
+    }
+    .areaLicence .contentTab .licenceStep .stepList li .stepName {
+        font-size: clamp(14px, 3.7vw, 18px);
+    }
+    .areaLicence .contentTab .licenceStep .stepList li .stepName::before {
+        bottom: 5px;
+        width: 14px;
+    }
+}
+@media(max-width: 529px) {
+    .areaLicence .licencePrice .wrapBasicPlan .priceTable th, 
+    .areaLicence .licencePrice .wrapBasicPlan .priceTable td,
+    .areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr th.fs14 ,
+    .areaLicence .licencePrice .wrapBasicPlan .tableNote,
+    .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepTable td,
+    .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepSub,
+    .areaLicence .stepThree .stepThreeList,
+    .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepBg
+    .areaLicence .licencePrice .wrapBasicPlan .regularList li,
+    .areaLicence .licencePrice .wrapBasicPlan.priceDetail .detailSub ,
+    .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li,
+    .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentSub,
+    .licencePlan .planSub,
+    .licencePlan .planSafety .safetyWrap .safetyBox .boxTable th,
+    .licencePlan .planSafety .safetyWrap .safetyBox .boxTable td,
+    .licencePlan .planSpeed .speedSub,
+    .licenceOverview .overList li .overBox .overSub,
+    .licenceOverview .overList li .overBox .overSub .fs14,
+    .licenceOverview .overList li .overBox .overSub .note {
+        line-height: 1.5;
+    }
+}
+@media(max-width: 430px) {
+    .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepTable td:first-child {
+        width: 80px;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan .priceTable tr:not(:nth-child(2)) th:first-child {
+        width: 89px;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan .priceTable tr:first-child th:nth-child(2) {
+        width: 72px;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan .priceTable tr:first-child th:nth-child(3) {
+        width: 108px;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan .priceTable.tableSmall tr:not(:nth-child(2)) th:first-child {
+        width: 89px;
+    }
+    .areaLicence .licencePrice .wrapBasicPlan.priceDetail .contentItem .priceTableWrap .priceTable tr:not(:nth-child(2)) th:first-child {
+        width: 89px;
+    }
+    .areaLicence .licenceBtn .btnBox a {
+        height: 50px;
+    }
+    .licencePlan .planSafety .safetyWrap .safetyBox .boxTable th {
+        width: 120px;
+    }
+    .licencePlan .planTheory .theoryList li {
+        width: 100%;
+    }
+    .licencePlan .planTheory .theoryList li:not(:last-child) {
+        margin-bottom: 20px;
+    }
+    .licenceOverview .overList li:not(:last-child) .overBox:before {
+        left: 7.5%;
+    }
+    .licenceOverview .overList li .overBox .overPhoto {
+        width: 100%;
+        margin-bottom:20px;
+    }
+    .licenceOverview .overList li .overBox .overSub {
+        width: 100%;
+        margin: 0;
+    }
+    .licenceOverview .overList li:not(:last-child) {
+        margin-bottom: 0;
+    }
+}

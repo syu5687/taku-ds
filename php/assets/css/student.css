@@ -1,0 +1,388 @@
+.mainContent {
+    width: 100%;
+    background: #50B482;
+    padding: 266px 0;
+}
+
+.contentItem {
+    padding:  0 50px;
+}
+
+.itemTab {
+    width: 100%;
+    background: white;
+    border-radius: 20px;
+    border-top-left-radius: 0;
+}
+.titleItemContent {
+    /* margin-bottom: 32px; */
+}
+.itemTab .noticeImg {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 9px;
+}
+.itemTab .noticeImg img {
+    aspect-ratio: 364 / 192;
+    max-width: 364px;
+    width: 100%;
+}
+.titleItem {
+    margin-top: 33.5px;
+    margin-bottom: 21px;
+}
+/* .itemTab h3 {
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1.42;
+    background: #50B482;
+    border-radius: 20px;
+    text-align: center;
+    padding: 1.5px 20px;
+    margin-bottom: 35px;
+    margin-top: 49px;
+}
+.itemTab h4 {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.45;
+    color: #50B482;
+}
+
+ */
+ .itemTab .hlTitlte {
+    font-size: 16px;
+    font-weight: bold;
+    color: #50B482;
+    line-height: 1.5;
+    padding-top: 3px;
+ }
+.itemTab p {
+    /* padding: 0 54px; */
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 24px;
+    color: #000000;
+}
+.itemTab .wrapBasicPlan:last-of-type p:last-of-type {
+    margin-bottom: 0;
+    border-bottom: 0;
+}
+.itemTab .titleSenior {
+    margin: 0 14px;
+}
+.itemTab p .fixSpc {
+    padding-left: 9px;
+}
+.itemTab p.note {
+    color: #EF5350;
+    margin-top: 32px;
+}
+/* tab2 */
+.calendarWrap {
+    max-width: 812px;
+    margin: 0 auto;
+    text-align: center;
+}
+.calendarWrap iframe {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 812 / 724;
+}
+.tableWrap {
+    margin-top: 43px;
+}
+table {
+    max-width: 452px;
+    width: 100%;
+    margin: 0 auto;
+}
+table td {
+    width: 50%;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #000000;
+    padding: 14px 10px;
+}
+table td:nth-child(2n) {
+    text-align: end;
+    padding-right: 65px;
+}
+table tr:nth-child(2n - 1) td {
+    background: #EFEFEF;
+}
+/* tab3  */
+.itemTab p.red {
+    color: #EF5350;
+    font-weight: bold;
+}
+.itemTab h5.busTitle {
+    color: #000000;
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 84px;
+    margin-top: -3px;
+}
+.itemTab h5.busTitle:not(:first-of-type) {
+    margin-top: 48px;
+}
+.itemTab .busAllImg {
+    margin-top: -7px;
+    margin-bottom: 79px;
+}
+.itemTab .busImg {
+    margin: 20px 16px 50px;
+    
+}
+.itemTab .busImg.fixBus {
+    margin-top: 18px;
+}
+.itemTab .busImg img {
+    aspect-ratio: 837 / 455;
+    max-width: 837px;
+    width: 100%;
+}
+.itemTab .fxFlex {
+    display: flex;
+}
+.itemTab .fxFlex.bus {
+    padding-bottom: 46px;
+}
+.itemTab .fxFlex  .scheduleText {
+    max-width: 484px;
+    padding-right: 0;
+    width: 100%;
+    margin-right: 35px;
+}
+.itemTab .fxFlex  .scheduleText .fxScheduleText {
+    display: block;
+    margin-top: 24px;
+}
+.itemTab .fxFlex  .scheduleImg {
+    padding: 0;
+    margin-top: -13px;
+    margin-bottom: 0;
+    display: block;
+    
+}
+.itemTab .fxFlex  .scheduleImg img{
+    aspect-ratio: 333 / 431.67;
+    max-width: 333px;
+}
+.itemTab .tel {
+    color: #50B482;
+    font-weight: bold;
+}
+.itemTab .fxFlex .precautionImg {
+    padding: 0;
+    margin-top: -5px;
+    margin-bottom: 0;
+    margin-left: 3px;
+}
+.itemTab .fxFlex .precautionImg img {
+    aspect-ratio: 330 / 430;
+}
+/* tab4 */
+#notes {
+    padding-top: 60px;
+}
+.itemTab .noteContent {
+    border-radius: 10px;
+    border: 1px solid #50B482;
+    max-width: 892px;
+    margin: 52px auto 0;
+    padding: 25px 40px;
+}
+.itemTab .noteContent p {
+    padding: 0;
+}
+.itemTab .noteContent p .fxMargin {
+    margin-top: 12px;
+    display: block;
+}
+.itemTab .noteContent .brder {
+    padding: 0 0 25px 0;
+    border-bottom: 1px dashed;
+    margin-bottom: 25px;
+}
+.itemTab .noteContent .fxBrder {
+    padding: 0 0 25px 0;
+    border-bottom: 1px dashed;
+    margin-bottom: 25px;
+    font-size: 16px;
+}
+.itemTab .noteContent .brder .noteTxt {
+    display: block;
+}
+
+/* .itemTab .noteContent .brder a {
+    display: block;
+    color: #50B482;
+    margin-top: 24px;
+    font-size: 16px;
+    font-weight: bold;
+} */
+.itemTab .noteContent .brder .lnThrough {
+    text-decoration: line-through;
+    display: block;
+}
+.itemTab .noteContent .brder .fxMargin img {
+    width: 99px;
+    aspect-ratio: 99 / 96;
+}
+.listLink li a {
+    text-align: start;
+}
+.listLink {
+    margin-top: 12px;
+}
+.fxMargin {
+    display: block;
+    margin-top: 24px;
+}
+.listLink li .noArrow {
+    width: 100%;
+    word-break: break-all;
+    padding-right: 0;
+}
+.listLink li .noArrow::after {
+    display: none;
+}
+.fxSpace {
+    margin-top: 25px;
+    display: block
+}
+@media (min-width: 769px) {
+    .tel {
+        pointer-events: none;
+    }
+}
+@media (max-width: 835px) {
+    .wrapTab .listTab li {
+        min-width: 75px;
+    }
+}
+@media (max-width: 768px) {
+    .contentItem {
+        padding: 0;
+    }
+    .titleItem {
+        margin-bottom: 18px;
+    }
+    .itemTab {
+        border-radius: 0;
+        padding-bottom: 0;
+    }
+    .inner {
+        padding: 0 4%;
+    }
+    .itemTab h3,
+    .itemTab h4,
+    .itemTab p,
+    .itemTab h5,
+    .itemTab td,
+    .itemTab h5.busTitle,
+    .itemTab .noteContent .fxBrder {
+        font-size: clamp(14px,2.5vw,18px);
+    }
+    .itemTab .titleItem {
+        margin-top: 37px;
+        margin-bottom: 18px;
+        padding-right: 0;
+    }
+    .itemTab p {
+        margin-bottom: 20px;
+        line-height: 1.428;
+        text-align: justify;
+    }
+    .itemTab .noticeImg {
+        margin-top: 0;
+        margin-bottom: 24px;
+    }
+    /* tab 2 */
+    .calendarWrap iframe{
+        aspect-ratio: 3 / 4;
+    }
+    .itemTab table td {
+        padding: 10px;
+    }
+    table td:nth-child(2n) {
+        text-align: center;
+    }
+    /* tab3  */
+    .itemTab .fxFlex {
+        flex-direction: column;
+    }
+    .itemTab .fxFlex.bus {
+        padding-bottom: 0;
+    }
+    .itemTab h5.busTitle:not(:first-of-type)  {
+        margin-top: 25px;
+    }
+    .itemTab h5.busTitle {
+        margin-top: 25px;
+        padding-left: 0;
+    }
+    .itemTab .busImg {
+        margin: 20px 13px 25px;
+    }
+    .itemTab .busAllImg {
+        margin-bottom: 30px;
+    }
+    .itemTab .fxFlex .scheduleText,
+    .itemTab .fxFlex .scheduleText {
+        width: 100%;
+        max-width: unset;
+    }
+    .itemTab .fxFlex .scheduleImg,
+    .itemTab .fxFlex .precautionImg {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .itemTab .fxFlex .scheduleImg img {
+        max-width: 333px;
+        width: 100%;
+    }
+    /* tab4 */
+    .itemTab .noteContent {
+        margin-top: 28px;
+        padding-left: 4%;
+        padding-right: 4%;
+    }
+    .itemTab .noteContent .brder a {
+        font-size: clamp(14px, 2.5vw, 18px);
+    }
+    .itemTab .wrapBasicPlan:last-of-type p:last-of-type {
+        padding-bottom: 0;
+    }
+    .wrapTab .listTab li {
+        height: auto;
+    }
+    .wrapTab .listTab li a {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        padding-left: 1.4vw;
+        padding-right: 1.4vw;
+    }
+    .wrapBasicPlan p {
+        padding: 0 15px;
+    }
+    .wrapBasicPlan .fixSp {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    #note {
+        padding-top: 42.5px;
+    }
+}
+@media (min-width: 560px) and (max-width: 768px) {
+    .itemTab p {
+        line-height: 1.6;
+    }
+}

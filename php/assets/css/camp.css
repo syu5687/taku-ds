@@ -1,0 +1,1243 @@
+.wrapTitlePage {
+    margin-bottom: 29px;
+}
+.enrollLink {
+    text-align: end;
+    margin-bottom: 20px;
+}
+.enrollLink a {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.45;
+    color: white;
+}
+.pointList {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 892px;
+    width: 100%;
+    margin: 54px auto;
+    row-gap: 28px;
+}
+.pointList li {
+    flex: 0 0 calc((100% - 154px) / 3);
+    margin-right: 77px;
+}
+.pointList li:nth-child(3n) {
+    margin-right: 0;
+}
+.pointList li p {
+    padding: 0;
+}
+.pointList li .pointImg {
+    margin-bottom: 18px;
+    position: relative;
+    padding-top: 22.714%;
+    padding-left: 17.72%;
+}
+.pointList li .pointImg .pointNum{
+    display: block;
+    position: absolute;
+    max-width: 41.512%;
+    top: 0;
+    left: 0;
+}
+.pointList li .pointImg .pointImage {
+    display: block;
+   
+}
+.pointList li .pointImg .pointNum img {
+    aspect-ratio: 1 / 1;
+}
+.pointList li .pointImg .pointImage img {
+    aspect-ratio: 1 / 1 ;
+    max-width: 200px;
+    width: 100%;
+    height: 100%;
+}
+.pointList li .pointTitle { 
+    font-size: 20px;
+    line-height: 1.45;
+    font-weight: bold;
+    color: #50B482;
+    padding-left: 13px;
+    margin-bottom: 18px;
+    
+}
+.pointList li.fxSize .pointTitle {
+    font-size: 17.7px;
+    padding-left: 13px;
+    padding-top: 5px;
+    margin-bottom: 19px;
+}
+.pointList li .pointTxt {
+    margin-bottom: 0;
+    margin-top: -1px;
+    font-size: 16px;
+}
+.wrapBasicPlan .priceTxt {
+    margin: 0 15px 34px;
+}
+.priceList {
+    margin-top: 18px;
+}
+.priceList li{
+    margin-bottom: 37px;
+    display: block;
+    text-align: center;
+}
+.priceList li:last-child {
+    margin-bottom: 0;
+}
+.priceList li .blockWrap {
+    margin-top: 0;
+    padding-bottom: 35px;
+}
+.priceList li .blockWrap .titleSenior {
+    max-width:  fit-content;
+    margin-bottom: 15px;
+}
+.priceList li .blockWrap .blockTxt {
+    text-align: start;
+     margin-bottom: 26px;
+}
+.priceList li .blockWrap .blockTxt .bold {
+    font-weight: bold;
+    font-size: 20px;
+}
+.priceList li .blockWrap .tpcImg:last-child {
+    margin-bottom: 0;
+}
+.priceList li img {
+    max-width: 862px;
+    width: 100%;
+}
+#meeting .blockWrap {
+    padding: 23px;
+}
+.wrapBasicPlan .campLocate {
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-bottom: 0;
+}
+.campLocate img {
+    max-width: 518px;
+    width: 100%;
+    aspect-ratio: 518 / 315;
+    display: block;
+}
+.tableWrap {
+    margin-top: 35px;
+    display: block;
+    margin-bottom: 40px;
+}
+.tableWrap table {
+    max-width: 811.5px; 
+    width: 100%;
+    margin: 0 auto;
+    border-top: 1px solid #000;
+    box-sizing: border-box;
+}
+table tr {
+    border-bottom: 1px solid #000;
+    box-sizing: border-box;
+}
+table tr th{
+    color: #000000;
+    background: #EFEFEF;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.5;
+    padding: 13.5px 10px;
+    width: 21.93%;
+}
+table tr td {   
+    width: fit-content;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.5;
+    padding: 0 36px;
+}
+.red {
+    color: #EF5350;
+}
+table tr td  .red{
+    margin-left: 45px;
+}
+.wrapBasicPlan .cter {
+    max-width: 812px;
+    margin: 0 auto 24px;
+}
+
+.wrapBasicPlan .campInfoWrap {
+    margin-top: 60px;
+    background: rgba(213, 213, 213, 0.3);
+    border-radius: 10px;
+    padding: 33px 33px 30px;
+}
+
+.campInfoWrap .tableWrap{
+    margin-top: 19px;
+    margin-bottom: 30px;
+}
+.campInfoWrap th, .campInfoWrap th {
+    width: 17%;
+}
+.campInfoWrap th, .campInfoWrap td {
+    background: white;
+}
+.campInfoWrap td {
+    padding-left: 20px  ;
+}
+.wrapBasicPlan .campInfoWrap p {
+    padding: 0 8px;
+    margin-bottom: 0;
+}
+.wrapBasicPlan .campNoteWrap {
+    margin-top: 41px;
+    border-radius: 10px;
+    border: 1px solid #EE534F;
+    padding: 36px 33px 19px;
+}
+.wrapBasicPlan .campNoteWrap p {
+    margin-top: 25px;
+    max-width: 704px;
+}
+.campNoteWrap p {
+    margin-top: 14px;
+}
+.wrapBasicPlan p {
+    margin-bottom: 31px;
+    font-size: 16px;
+}
+
+.wrapBasicPlan .listLink {
+    margin-top: 44px;
+}
+.wrapBasicPlan p.fxL {
+    padding: 0 15px;
+}
+.wrapTab .listTab li {
+    min-width: 145px;
+}
+.wrapTab .listTab li:last-child {
+    margin-right: 0;
+}
+.listLink .fxLink {
+    margin-bottom: 33px;
+}
+.contentItem  {
+    padding: 0 50px;
+}
+
+/* tab2  */
+#pricePlan .tableWrap{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#pricePlan .tableWrap.tableScroll {
+    overflow-x: auto;
+    overflow-y:initial;
+    max-width: 892px;
+    width: 100%;
+    padding-bottom: 10px;
+}
+#pricePlan table {
+    width: max-content;
+    max-width: unset;
+    border-top: 0;
+    border-collapse: collapse;
+}
+#pricePlan .tableWrap.tableScroll::-webkit-scrollbar {
+    height: 10px;
+} 
+#pricePlan .tableWrap.tableScroll::-webkit-scrollbar-track {
+    border-radius: 10px;
+} 
+#pricePlan .tableWrap.tableScroll::-webkit-scrollbar-thumb {
+    background: #b7b7b7;
+    border-radius: 10px;
+}
+#pricePlan table tr {
+    border-bottom: 0;
+}
+#pricePlan table tr:nth-child(2n + 1) td{
+    background: #EFEFEF;
+}
+#pricePlan table tr th {
+    text-align: center;
+    padding-left: 0;
+    padding-right: 0;
+}
+#pricePlan table tr .col {
+    background: #000000;
+    color: white;
+    width: 189px;
+    border-bottom: 2px solid white;
+    border-right: 2px solid #000;
+    border-bottom: 1px solid #000;
+    padding: 14.4px 24px;
+    line-height: 1.5;
+    position: sticky;
+    top: 0;
+    left: 1px;
+}
+#pricePlan table tr .col::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: -3px;
+    transform: translateY(-50%);
+    width: 100%;
+    height: 100%;
+    border-left: 3px solid #000;
+    border-right: 3px solid #000;
+}
+#pricePlan table tr:last-child .col::after {
+    display: none;
+} 
+#pricePlan table tr .col::after {
+    content: "";
+    position: absolute;
+    bottom: -1px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(100% + 4px);
+    height: 2px;
+    background-color: #fff;
+    z-index: 1;
+}
+
+#pricePlan table tr:last-child .col {
+    border-bottom: 0;
+}
+#pricePlan table tr .row {
+    width: calc((891px - 189px) / 6);
+    padding: 0 10px;
+    background: #6C6C6C;
+    color: white;
+    line-height: 1.25;
+}
+#pricePlan table td {
+    width: calc((891px - 189px) / 6);
+    padding: 0;
+    text-align: center;
+    font-weight: 500;
+    border-left: 1px solid #000000;
+    line-height: 1.25;
+}
+#pricePlan table td:first-child {
+    border-left: none;
+}
+#pricePlan .text.tableNotes{
+    margin-top: 39px;
+    margin-bottom: 0;
+    padding: 0 16px;
+}
+#pricePlan .text {
+    margin-top: 24px;
+    padding: 0 16px;
+    margin-bottom: 0;
+}
+#discount .text {
+    padding: 2px 16px 0;
+}
+#discount .text .red {
+    display: block;
+}
+#discount .titleItem {
+    margin-bottom: 17px;
+}
+.blockWrap {
+    margin-top: 48px;
+    background: rgba(255, 216, 0, 0.3);
+    border-radius: 10px;
+    margin: 48px 15px 0;
+    padding: 20px 25px 26px;
+}
+.blockWrap .text {
+    padding: 6px 0 0;
+    margin-bottom: 17px;
+}
+#discount .blockWrap .text {
+    padding: 7px 0 0;
+}
+#discount .blockWrap .listLink {
+    margin-top: 21px;
+    margin-left: 1px;
+}
+.blockWrap .text .bold {
+    font-weight: bold;
+}
+#discount .listLink {
+    margin-top: 24px;
+    margin-left: 2px;
+}
+#warranty .tableWrap {
+    max-width: 891.5px;
+    margin-bottom: 16px;
+}
+#warranty .tableWrap table {
+    margin: 0;
+    width: 100%;
+    max-width: unset;
+}   
+#warranty .tableWrap table th {
+    width: 20%;
+}
+#warranty .tableWrap table td {
+    padding: 0 32px;
+}
+#warranty .tableNotes {
+    padding: 0 16px;
+    margin-bottom: 0;
+}
+#warranty .titleItem {
+    margin-top: 53px;
+    margin-bottom: 16px;
+}
+#warranty .blockWrap {
+    margin: 41px 15px 0;
+    padding-bottom: 20px;
+}
+#warranty .blockWrap .titleSenior {
+    margin-bottom: 20px;
+}
+#warranty .blockWrap .text {
+    margin-bottom: 28px;
+}
+#licenseAndEnrollDates .tableWrap{
+    margin-top: 26px;
+    margin-bottom: 30px;
+}
+#licenseAndEnrollDates .tableWrap table{
+    margin: 0;
+    max-width: 891.5px;
+}
+#licenseAndEnrollDates .tableWrap table tr {
+    display: flex;
+}
+#licenseAndEnrollDates .tableWrap table tr th {
+    max-width: 442px;
+    width: 100%;
+    text-align: start;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#licenseAndEnrollDates .tableWrap table tr th .thText{
+    transform: translateX(-22px);
+}
+#licenseAndEnrollDates .tableWrap table tr th .thTime  {
+    transform: translateX(-31px);
+}
+#licenseAndEnrollDates .tableWrap table tr td {
+    display: flex;
+    max-width: 449.5px;
+    width: 100%;
+    padding: 0 61px;
+    align-items: center;
+}
+#licenseAndEnrollDates .tableWrap table tr td .red {
+    margin-left: 0;
+    font-size: 20px;
+    margin-top: -4px;
+}
+#licenseAndEnrollDates .tableNotes{
+    padding: 0 17px;
+    margin-bottom: 0;
+}
+/* #tab 3  */
+#eventCalendar {
+    padding-top: 60px;
+}
+#eventCalendar .text {
+    margin-bottom: 20px;
+}
+#eventCalendar .listLink {
+    margin-top: 0;
+}
+.wrapBasicPlan .eventCalendarImg {
+    width: 100%;
+    margin-top: 19px;
+    margin-bottom: 0;
+}
+.wrapBasicPlan .eventCalendarImg img{
+    aspect-ratio: 918 / 1285;
+    max-width: 918px;
+    width: 100%;
+}
+.wrapBasicPlan .hotelInfoWrap {
+    display: flex;
+}
+.wrapBasicPlan .hotelImg {
+    max-width: 255px;
+    width: 100%;
+    margin-right: 47px;
+    margin-bottom: 0;
+}
+.wrapBasicPlan .hotelImg img {
+    aspect-ratio: 255 / 253;
+    max-width: 255px;
+    width: 100% ;
+    height: auto;
+    display: block;
+}
+.wrapBasicPlan .infoWrap {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+}
+#accommodation .titleItem{
+    margin-bottom: 21px;
+}
+#accommodation .text {
+    margin-bottom: 24px;
+}
+#accommodation .text:last-of-type {
+    margin-bottom: 0;
+}
+#accommodation .listLink {
+    margin-top: auto;
+    margin-bottom: 2px;
+}
+#accommodation .mapWrap {
+    margin-top: 44px;
+    max-width: 892px;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+}
+#accommodation .mapWrap iframe {
+    aspect-ratio: 892 / 308;
+    width: 100%;
+}
+#hotelAvailable .contentItem {
+    display: block;
+    padding-top: 9px;
+}
+#hotelAvailable .listLink {
+    margin-top: 0;
+    padding: 0 41px;
+}
+#hotelAvailable .listLink li {
+    margin-bottom: 26px;
+}
+#hotelAvailable .listLink li:last-child {
+    margin-bottom: 0;
+}
+/* tab 4  */
+
+/* Pop up */
+.popupFlowOriginal {
+    display: none;
+}
+
+.popupFlowOriginal.showPopup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 99;
+    width: 100%;
+    height: 100%;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 999;
+}
+
+.popupFlowOriginal .wrapFlowOriginal {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.popupFlowOriginal .wrapFlowOriginal .boxOriginal {
+    max-height: 85vh;
+    overflow-y: scroll;
+    overflow-x: initial;
+    position: relative;
+}
+.popupFlowOriginal .wrapFlowOriginal  {
+    max-width: 1415px;
+    width: 70vw;
+}
+.popupFlowOriginal .wrapFlowOriginal  .closePopup {
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    transform: rotate(45deg);
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.popupFlowOriginal .wrapFlowOriginal  .closePopup span {
+    cursor: pointer;
+    position: fixed;
+    width: 36px;
+    height: 4px;
+    background: #000000;
+}
+
+.popupFlowOriginal .wrapFlowOriginal .closePopup span:nth-child(1) {
+    transform: rotate(90deg);
+}
+
+.popupFlowOriginal .wrapFlowOriginal .boxOriginal .storeOriPhoto {
+    width: 100%;
+    max-height: 75vh;
+
+}
+.popupFlowOriginal .wrapFlowOriginal .boxOriginal .storeOriPhoto img {
+    aspect-ratio: 1415 / 1752;
+    max-width: 1415px;
+    width: 100%;
+}
+body.fixed {
+    overflow: hidden;
+}
+/* #tab 5  */
+#campFlow {
+    padding-top: 123px;
+}
+#campFlow .contentItem {
+    padding: 0 54px;
+}
+#campFlow .titleItemContent{
+    position: relative;
+    justify-content: start;
+    padding-left: 114px;
+    margin-bottom: 41px;
+    line-height: 1.462;
+    z-index: 1;
+}
+#campFlow .titleItemContent .icon {
+    position: absolute;
+    max-width: 100px;
+    width: 100%;
+    left: -3px;
+    transform: translateY(-2px);
+}
+#campFlow .titleItemContent .icon img {
+    aspect-ratio: 1 / 1;
+}
+#campFlow .flowInfo {
+    padding-left: 93px;
+    padding-bottom: 92px;
+    display: flex;
+    position: relative;
+}
+#campFlow li:last-child .flowInfo {
+    padding-bottom: 0;
+}
+#campFlow .flowInfo::before {
+    content: "";
+    position: absolute;
+    top: -25px;
+    left: 44px;
+    width: 12px;
+    height: 100%;
+    background: url("../images/licence/licence-overview-icon-dots.svg") repeat-y top left / 100% 100%;
+}
+#campFlow .flowList li:last-child .flowInfo::before {
+    display: none;
+}
+#campFlow .flowInfo .flowImg {
+    max-width: 350px;
+    width: 100%;
+    margin-right: 39px;
+}
+#campFlow .flowInfo .flowImg img {
+    aspect-ratio: 350 / 200;
+}
+#campFlow .flowInfo .flowTxt {
+    width: 100%;
+    padding-top: 9px;
+    padding-right: 42px;
+    font-size: 16px;
+}
+#campFlow .flowInfo .listLink {
+    margin-top: 12px;
+    width: fit-content;
+}
+#campFlow .flowInfo .listLink li {
+    margin-bottom: 12px;
+}
+
+/* tab5 */
+#termsAndConditions {
+    padding-top: 60px;
+}
+#termsAndConditions .titleItem:first-of-type {
+    margin-top: 0;
+}
+#termsAndConditions .titleItem{
+    margin-bottom: 10px;
+    margin-top: 59px;
+}
+#termsAndConditions .text {
+    padding: 0 16px;
+    margin-bottom: 24px;
+}
+#termsAndConditions .text .blueul {
+    color: #011DFF;
+    text-underline-offset: 3px;
+    -webkit-text-decoration-line: underline;
+    text-decoration: 1px underline #011DFF;
+    -webkit-text-decoration-color: #011DFF;
+}
+#termsAndConditions .note {
+    margin-top: 55px;
+    margin-bottom: 0;
+}
+.bold {
+    font-weight: bold;
+}
+
+@media (min-width: 769px) {
+    .enrollLink a:hover {
+        color: #FFD800;
+    }
+}
+@media (max-width:1480px) {
+    .wrapTab .listTab li {
+        min-width: clamp(90px, 12vw , 145px);
+        max-width:clamp(150px, 22.3vw, 306px);
+        
+    }
+}
+@media (max-width: 1086px) {
+    .pointList {
+        justify-content: space-between;
+    }
+    .pointList li {
+        flex: 0 0 calc((100% - 95px) / 2);
+        margin-right: 0;
+    }
+    .pointList li:nth-child(2n) {
+        margin-right: 0;
+    }
+    .pointList li:nth-child(3n) {
+        margin-right: 0;
+    }
+    .pointList li:nth-child(6n) {
+        margin-right: 0;
+    }
+    .pointList li .pointImg {
+        width: fit-content;
+    }
+    .pointList li .pointImg {
+        padding-top: 54px;
+        padding-left: 45px;
+    }
+    .pointList li .pointImg .pointNum {
+        max-width: 101px;
+    }
+}
+@media (max-width: 1081px) {
+    .wrapTab .listTab li {
+        min-width: clamp(90px, 12.2vw, 145px);
+        max-width: clamp(150px, 21.4vw, 200px);
+    }
+    .wrapTab .listTab li a{
+        font-size: clamp(14px, 1.7vw, 16px);
+    }
+    #campFlow .flowInfo::before {
+        top: -20px;
+    }
+}   
+@media (max-width: 960px) {
+    #campFlow .flowInfo  {
+        justify-content: space-between;
+    }
+    #campFlow .flowInfo .flowTxt {
+        padding-right: 0;
+    }
+    #campFlow .flowInfo .flowImg {
+        width: 41%;
+        max-width: initial;
+        margin-right: 0;
+    }
+    #campFlow .flowInfo .flowImg img {
+        width: 100%;
+    }
+    #campFlow .flowInfo .flowTxt {
+        width: 51%;
+    }
+}
+@media (max-width:960px) and (min-width:769px) {
+    #licenseAndEnrollDates .tableWrap table tr th {
+        max-width: 50%;
+        padding: 13.5px 10px;
+    }
+    #licenseAndEnrollDates .tableWrap table tr td {
+        max-width: 50%;
+        padding: 0 30px;
+    }
+    #licenseAndEnrollDates .tableWrap table tr th .thText,
+    #licenseAndEnrollDates .tableWrap table tr th .thTime {
+        transform: none;
+    }
+}
+@media (max-width: 800px) {
+    .campInfoWrap th, .campInfoWrap th { 
+        width: 20%;
+    }
+}
+@media (max-width: 768px) {
+    .wrapTab .listTab li {
+        width: 47.6%;
+        max-width: unset;
+        margin-right: 0;
+        margin-bottom: 1.5vw;
+        min-width: unset;
+    }
+    .wrapTab .listTab li a {
+        font-size: clamp(14px, 3.7vw, 18px);
+    }
+    .pointList {
+        margin-top: 0;
+        row-gap: 5px;
+    }
+    .pointList li {
+        flex: 0 0 100%;
+        margin-right: 0;
+        display: flex;
+    }
+    .pointList li .pointImg {
+        max-width: 30.133vw;
+        width: 100%;
+        padding-left: 0;
+        padding-top: 6.1vw;
+        margin-right: 2.3vw;
+    }
+    .pointList li .pointImg .pointNum {
+        max-width: 12.8vw;
+    }
+    .pointList li .pointImg .pointImage {
+        min-width: 113px;
+    }
+    .pointList li .pointImg .pointImage img {
+        max-width: 100%;
+    }
+    .pointList li .pointTitle,
+    .pointList li.fxSize .pointTitle {
+        margin-top: 39px;
+        font-size: clamp(14px,2.5vw,18px);
+        padding-bottom: 10px;
+        margin-bottom: 11px;
+    }
+    .pointList li .pointTxt {
+        font-size: clamp(14px,2.5vw,18px);
+        margin-left: 0;
+        line-height: 1.428;
+    }
+    .wrapBasicPlan p {
+        font-size: clamp(14px, 3.7vw, 18px);
+        line-height: 1.428;
+        margin-bottom: 36px;
+    }
+    .wrapBasicPlan p.fxL {
+        padding: 0 14px;
+    }
+    .wrapBasicPlan .priceTxt {
+        margin:  0 14px;
+        margin-bottom: 10px;
+    }
+    .priceList li .blockWrap {
+        padding: 16px 12.5px 26px;
+        margin: 0 15px;
+    }
+    .priceList li  {
+        text-align: center;
+        margin-bottom: 33px;
+    }
+    .priceList li .blockWrap .titleSenior {
+        margin-bottom: 13px;
+    }
+    .priceList li .blockWrap .blockTxt{
+        margin-bottom: 7px;
+    }
+    .priceList li .blockWrap .tpcImg {
+        margin-bottom: 12px;
+    }
+    .priceList li img {
+        max-width: 295px;
+    }
+    .priceList li .blockWrap .blockTxt .bold {
+        font-size: clamp(16px,3vw,22px);
+    }
+    table tr td,
+    table tr th {
+        font-size: 14px
+    }
+    table tr th {
+        width: 30%;
+    }
+    /* TODO  */
+    .contentItem {
+        padding: 0;
+    }
+    .wrapBasicPlan .campInfoWrap {
+        margin-top: 50px;
+        padding: 15px
+    }
+    .campInfoWrap th {
+        width: 30%;
+    }
+    .campInfoWrap td {
+        padding-right: 20px;
+        padding-top: 13.5px;
+        padding-bottom: 13.5px;
+    }
+    .campInfoWrap .tableWrap {
+        margin-bottom: 15px;
+    }
+    .wrapBasicPlan .campNoteWrap {
+        padding: 15px;
+    }
+    .wrapBasicPlan .campNoteWrap p {
+        margin-top: 15px;
+        margin-bottom: 0;
+    }
+    .wrapBasicPlan.meeting {
+        margin-bottom: 48px;
+    }
+    .wrapBasicPlan .listLink {
+        margin-top: 30px;
+        margin-bottom: 0;
+    }
+    .wrapBasicPlan .hotelInfoWrap {
+        flex-direction: column;
+    }
+    .wrapBasicPlan .hotelImg {
+        margin: 0 auto;
+    }
+    #accommodation .titleItem {
+        margin-top: 15px;
+    }
+    #accommodation .text:last-of-type {
+        margin-bottom: 24px;
+    }
+    #accommodation .mapWrap {
+        margin-top: 24px;
+    }
+    #accommodation .mapWrap iframe {
+        aspect-ratio: 375 / 297;
+    }
+    #accommodation .titleItem {
+        margin-top: 37px;
+        margin-bottom: 18px;
+    }
+    #accommodation .text {
+        padding: 0 13px;
+    }
+    #hotelAvailable .listLink {
+        padding: 0 13px;
+    }
+    #hotelAvailable .listLink li {
+        margin-bottom: 20px;
+    }
+    #accommodation .listLink {
+        margin-bottom: 0;
+    }
+    #accommodation .listLink li {
+        padding: 0 16px;
+    }
+    #pricePlan .text.tableNotes {
+        margin-top: 24px;
+    }
+    #pricePlan .text.tableNotes,
+    #pricePlan .text {
+        padding: 0;
+    }
+    #pricePlan table tr .col {
+        width: 123px;
+        padding: 14.5px 5px;
+    }
+    #pricePlan table tr .col::after {
+        bottom: -2px;
+    }
+    #pricePlan table td {
+        padding: 0;
+    }
+    #pricePlan .text.tableNotes.sp {
+        margin-top: 10px;
+        font-size: clamp(14px, 3.7vw, 18px); 
+        margin-bottom: 0;
+        text-align: right;
+    }
+    #discount .text {
+        padding: 0 16px;
+    }
+    #warranty .text.fxP {
+        padding: 0 16px;
+    }
+    .blockWrap,
+    #warranty .blockWrap  {
+        margin: 31px 0 0;
+        padding: 15px;
+    }
+    #warranty .tableWrap {
+        margin-top: 0;
+    }
+    #warranty .tableWrap table th {
+        width: 30%;
+    }
+    #warranty .titleItem {
+        margin-top: 38px;
+    }
+    #warranty .blockWrap .text {
+        padding: 0;
+        margin-bottom: 0;
+    }
+    #warranty .blockWrap .titleSenior {
+        margin-bottom: 8px;
+    }
+    .titleItem {
+        margin-top: 38px;
+    }
+    #licenseAndEnrollDates .tableWrap {
+        margin: 0 0 31px;
+    }
+    #licenseAndEnrollDates .tableWrap table tr th {
+        flex-wrap: wrap;
+        padding: 0;
+        flex-direction: row;
+        justify-content: center;
+        padding: 10px 5vw;
+    }
+    #licenseAndEnrollDates .tableWrap table tr td {
+        padding: 0 5vw;
+    }
+    #licenseAndEnrollDates .tableWrap table tr td .red {
+        font-size: clamp(16px,3vw,22px);
+    }
+    #licenseAndEnrollDates .tableWrap table tr th .thText {
+        margin-right: 10px;
+    }
+    #licenseAndEnrollDates .tableWrap table tr th .thText,
+    #licenseAndEnrollDates .tableWrap table tr th .thTime {
+        transform: none;
+        text-align: start;
+        width: 100%;
+        margin-right: 0;
+        display: block;
+    }
+    #licenseAndEnrollDates .tableNotes {
+        padding: 0 16px;
+    }
+    .enrollLink {
+        margin-bottom: 10px;
+    }
+    .enrollLink a {
+        font-size: clamp(16px,3vw,22px);
+    }
+    .wrapTitlePage {
+        margin-bottom: clamp(10px, 2.9vw, 20px);
+    }
+    #campFlow {
+        padding-top: 65.5px;
+    }
+    
+    #campFlow .contentItem {
+        padding: 0;
+    }
+    #campFlow .titleItemContent .icon {
+        width: clamp(50px, 15vw, 90px);
+        left: 0;
+        transform: translateY(-2px);
+    }
+    #campFlow .titleItemContent {
+        font-size: clamp(15px, 4vw, 20px);
+        padding: 1.5vw 6vw 1.5vw clamp(70px, 19vw, 100px);
+        line-height: 1;
+    }
+    #campFlow .flowInfo {
+        padding-left: clamp(50px, 15vw, 90px);
+        flex-direction: column;
+        padding-bottom: clamp(30px, 8vw, 40px);
+    }
+    #campFlow .flowInfo::before {
+        left: 7.2%;
+        top: -6px;
+        width: clamp(8px, 2vw, 10px);
+        background: url("../images/licence/licence-overview-icon-dots-sp.svg") repeat-y top left / 100%;
+    }
+    #campFlow .titleItemContent {
+        margin-bottom: 20px;
+    }
+    #campFlow .flowInfo .listLink {
+        margin-top: 18px;
+    }
+    #campFlow .flowInfo .listLink li {
+        margin-bottom: 12px;
+    }
+    #campFlow .flowList li {
+        margin-bottom: 0;
+    }
+    #campFlow .flowList li:last-child {
+        margin-bottom: 0;
+    }
+    #campFlow .flowInfo .flowImg {
+        width: 100%;
+    }
+    #campFlow .flowInfo .flowTxt {
+        width: 100%;
+        padding-top: 0;
+        margin-top: 18px;
+    }
+    #campFlow .text {
+        font-size: clamp(14px, 3.7vw, 18px);
+    }
+    #termsAndConditions {
+        padding-top: 65.5px;
+    }
+    #termsAndConditions .titleItem {
+        margin-bottom: 17px;
+        margin-top: 38px;
+    }
+    #termsAndConditions .note {
+        margin-top: 30px;
+    }
+    .popupFlowOriginal .wrapFlowOriginal {
+        height: 100%;
+        overflow-x: initial;
+        overflow-y: initial;
+    }
+    .popupFlowOriginal .wrapFlowOriginal  {
+        width: 92vw;
+    }
+    .popupFlowOriginal .wrapFlowOriginal .boxOriginal {
+        overflow: initial;
+        max-height: min-content;
+    }
+    .popupFlowOriginal .wrapFlowOriginal .boxOriginal .storeOriPhoto {
+        width: 100%;
+        max-height: unset;
+    }
+    .popupFlowOriginal .wrapFlowOriginal .boxOriginal .storeOriPhoto img {
+        object-fit: contain;
+    }
+    .popupFlowOriginal .wrapFlowOriginal  .closePopup  {
+        right: 4%;
+        top: 4%;
+    }
+    .popupFlowOriginal .wrapFlowOriginal  .closePopup span {
+        cursor: pointer;
+        position: fixed;
+        width: 21px;
+        height: 2px;
+        background: #000000;
+
+    }
+    #pricePlan .tableWrap.tableScroll::-webkit-scrollbar {
+        height: 5px;
+    }
+    #pricePlan table tr .col::before {
+        height: 100%;
+        top: 49.5%;
+        border-width: 3px;
+    }
+    body.fix {
+        overflow: hidden;
+    }
+    #eventCalendar {
+        padding-top: 65.5px;
+    }
+    #movingCost .listItem {
+        padding-left: 4px;
+        padding-right: 4px;
+    }
+}
+@media (min-width:550px) and (max-width: 768px) {
+    .pointList {
+        row-gap: 20px;
+    }
+    .pointList li .pointTitle, .pointList li.fxSize .pointTitle {
+        margin-bottom: 0    ;
+    }
+    .pointList li .pointTxt {
+        margin-top: 24px;
+        line-height: 1.6;
+    }
+    .wrapBasicPlan p {
+        line-height: 1.6;
+    }
+    #accommodation .mapWrap iframe {
+        aspect-ratio: 575 / 375;
+    }
+    #campFlow .flowInfo {
+        flex-direction: row;
+    }
+    #campFlow .flowInfo .flowImg {
+        width: 40%;
+    }
+    #campFlow .flowInfo .flowTxt {
+        width: 55%;
+        margin-top: 0;
+    }
+    #campFlow .flowInfo::before {
+        left: 43.5px;
+        transform: translateX(-50%);
+        width: clamp(8px, 2vw, 10px);
+    }
+    #campFlow .titleItemContent {
+        margin-bottom: 40px;
+    }
+    #campFlow .flowList li {
+        margin-bottom: 0;
+    }
+    #termsAndConditions {
+        padding-top: 65.5px;
+    }
+    .priceList .blockWrap .pc {
+        display: block;
+    }
+    .priceList .blockWrap .sp {
+        display: none;
+    }
+    .priceList li img {
+        max-width: unset;
+        width: 100%;
+    }
+    .priceList li .blockWrap .blockTxt {
+        margin-bottom: 15px;
+    }
+    #pricePlan table tr th,
+    #pricePlan table tr td {
+        font-size: 16px;
+    }
+    #licenseAndEnrollDates .tableWrap table tr th {
+        padding: 10 7vw;
+    }
+    #pricePlan table tr .col {
+        padding: 14.5px 5px;
+    }
+}
+@media (max-width:460px) {
+    #licenseAndEnrollDates .tableWrap table tr td {
+        padding: 0 clamp(7.5px, 1.5vw, 23px);
+    }
+}
+@media (orientation:landscape) and (max-width: 768px){
+    .popupFlowOriginal .wrapFlowOriginal .boxOriginal .storeOriPhoto {
+        max-height: 75vh;
+    }
+    .popupFlowOriginal .wrapFlowOriginal .boxOriginal {
+        overflow-y: scroll;
+    }
+}
+

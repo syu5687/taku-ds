@@ -1,0 +1,149 @@
+.areaRecruit {}
+.areaRecruit .wrapRecruit {}
+.areaRecruit .wrapRecruit .wrapTab .listTab li a {
+    pointer-events: none;
+}
+.areaRecruit .wrapRecruit .wrapBasicPlan {
+}
+.areaRecruit .wrapRecruit .wrapBasicPlan:last-child {
+    margin-bottom: 0;
+}
+.areaRecruit .wrapRecruit .desApprentice {
+    font-size: 16px;
+    font-weight: 500;
+    margin: -9px 0 31px;
+}
+.areaRecruit .wrapRecruit .boxApprentice {
+    border-radius: 10px;
+    border: 1px solid #50B482;
+    padding: 20px 22px 25px;
+    width: 90.8%;
+    margin: 0 auto 42px;
+}
+.areaRecruit .wrapRecruit .boxApprentice .iframeApprentice {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem {
+    width: 46.2%;
+}
+.areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem .contentItemApprentice {
+    margin-bottom: 69px;
+}
+.areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem .contentItemApprentice:last-child {
+    margin-bottom: 0;
+}
+.areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem .contentItemApprentice .listApprentice {
+    margin-top: 21px;
+}
+.areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem .contentItemApprentice .listApprentice li {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+.areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem .contentItemApprentice .listApprentice li:last-child {
+    margin-bottom: 0;
+}
+.areaRecruit .wrapRecruit .txtRecruit {
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.areaRecruit .wrapRecruit .txtRecruit a {
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    color: #EF5350;
+    text-align: center;
+}
+
+@media (max-width: 950px) and (min-width: 769px) {
+    .areaRecruit .wrapRecruit .boxApprentice .iframeApprentice {
+        flex-direction: column;
+    }
+
+    .areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem:last-child {
+        width: 100%;
+        margin-bottom: 0;
+    }
+
+    .areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem .contentItemApprentice {
+        margin-bottom: 50px;
+    }
+    
+}
+
+@media (min-width: 769px) {
+    .areaRecruit .wrapRecruit .txtRecruit a {
+        pointer-events: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .areaRecruit .wrapRecruit .boxApprentice .iframeApprentice {
+        flex-direction: column;
+    }
+
+    .areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem:last-child {
+        margin-bottom: 0;
+    }
+
+    .areaRecruit .wrapRecruit .desApprentice {
+        font-size: clamp(14px, 3.7vw, 16px);
+        margin-top: 0;
+        padding: 0 14px;
+        line-height: 1.6;
+    }
+
+    .areaRecruit .wrapRecruit .boxApprentice {
+        padding: 20px 20px;
+        margin-bottom: 20px;
+        width: 96.6%;
+    }
+
+    .areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem .contentItemApprentice .listApprentice {
+        margin-top: 0;
+    }
+
+    .areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem .contentItemApprentice {
+        margin-bottom: 40px;
+    }
+
+    .areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem .contentItemApprentice .listApprentice li {
+        font-size: clamp(14px, 3.7vw, 16px);
+        line-height: 1.6;
+    }
+
+    .areaRecruit .wrapRecruit .txtRecruit {
+        font-size: clamp(14px, 3.7vw, 16px);
+        line-height: 1.6;
+    }
+    .areaRecruit .wrapRecruit .txtRecruit a {
+        font-size: clamp(16px, 4.2vw, 18px);
+        line-height: 1.6;
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 529px) {
+    .areaRecruit .wrapRecruit .desApprentice,
+    .areaRecruit .wrapRecruit .boxApprentice .iframeApprentice .wrapApprenticeItem .contentItemApprentice .listApprentice li,
+    .areaRecruit .wrapRecruit .txtRecruit,
+    .areaRecruit .wrapRecruit .txtRecruit a {
+        line-height: 1.5;
+    }
+}
