@@ -825,8 +825,8 @@
                                                 一発合格目指して頑張ってください！
                                             </p>
                                             <ul class="listLink">
-                                                <li><a href="https://www.police.pref.fukuoka.jp/kotsu/unshi/026_2.html" target="_blank" rel="noopener noreferrer">熊本県警察ホームページ</a></li>
-                                                <li><a href="https://www.police.pref.nagasaki.jp/police/menkyo/menkyoshiken-tetsuzuki/futsuu/" target="_blank" rel="noopener noreferrer">熊本県警察ホームページ</a></li>
+                                                <li><a href="https://www.police.pref.fukuoka.jp/kotsu/unshi/026_2.html" target="_blank" rel="noopener noreferrer">福岡県警察ホームページ</a></li>
+                                                <li><a href="https://www.police.pref.nagasaki.jp/police/menkyo/menkyoshiken-tetsuzuki/futsuu/" target="_blank" rel="noopener noreferrer">長崎県警察ホームページ</a></li>
                                                 <li><a href="https://www.pref.kumamoto.jp/site/police/60245.html" target="_blank" rel="noopener noreferrer">熊本県警察ホームページ</a></li>
                                             </ul>
                                         </div>
