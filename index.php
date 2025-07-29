@@ -1,48 +1,196 @@
-<?php
-// Cloud Run + Apache + PHP 動作確認用のテストファイルaaaa
-
-// Cloud Run のポート番号などの環境変数も出力
-$port = getenv('PORT') ?: '不明';
-$db_name = getenv('DB_NAME') ?: '未設定';
-
-?>
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <title>Cloud Run 動作テスト</title>
-  <style>
-	body {
-	  font-family: sans-serif;
-	  padding: 2rem;
-	  background-color: #f5f5f5;
-	}
-	h1 {
-	  color: #2c3e50;
-	}
-	pre {
-	  background: #fff;
-	  padding: 1rem;
-	  border: 1px solid #ddd;
-	}
-  </style>
-</head>
-<body>
-  <h1>✅ Cloud Run 動作テスト</h1>
-  <p>このページは Cloud Run + Apache + PHP が正しく動作していることを確認するためのテストです.</p>
-  
-  <h2>環境変数</h2>
-  <pre>
-PORT: <?= htmlspecialchars($port) ?>
-
-DB_NAME: <?= htmlspecialchars($db_name) ?>
-
-PHP VERSION: <?= phpversion() ?>
-  </pre>
-
-  <h2>PHP情報（抜粋）</h2>
-  <pre>
-<?= phpinfo(INFO_CONFIGURATION); ?>
-  </pre>
-</body>
-</html>
+<?php include 'header.php'; ?>
+    <div class="main">
+        <p class="mainPhoto">
+            <img src="assets/images/index/main-top-photo.webp" alt="MAINTOP" loading="eager" fetchpriority="high">
+        </p>
+        <p class="numberMainTop">
+            <a href="javascript:void(0);" class="hover">
+                <img src="assets/images/index/number-main-top.webp" alt="" loading="eager" fetchpriority="high">
+            </a>
+        </p>
+    </div>
+    <div id="content">
+        <div class="areaNewsTop">
+            <div class="inner">
+                <div class="wrapNewsTop">
+                    <div class="wrapTitle">
+                        <h2 class="titleTop">NEWS</h2>
+                        <p class="subTitleTop">お知らせ</p>
+                    </div>
+                    <ul class="listNewsTop">
+                        <li>
+                            <a href="javascript:void(0);">
+                                <p class="timeNewsTop">00.00.00</p>
+                                <h3 class="titleNewsTop">お知らせタイトルお知らせタイトルお知らせタイトルお知らせタイトルお知らせタイトル</h3>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                                <p class="timeNewsTop">00.00.00</p>
+                                <h3 class="titleNewsTop">お知らせタイトルお知らせタイトルお知らせタイトルお知らせタイトルお知らせタイトル</h3>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void(0);">
+                                <p class="timeNewsTop">00.00.00</p>
+                                <h3 class="titleNewsTop">お知らせタイトルお知らせタイトルお知らせタイトルお知らせタイトルお知らせタイトル</h3>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+        <div class="areaLicenceTop">
+            <div class="inner">
+                <div class="wrapLicenceTop">
+                    <div class="wrapTitle">
+                        <h2 class="titleTop">LICENCE</h2>
+                        <p class="subTitleTop">通学・合宿</p>
+                    </div>
+                    <ul class="listLicenceTop">
+                        <li>
+                            <p class="licenceTopPhoto">
+                                <picture>
+                                    <source media="(max-width:768px)" srcset="assets/images/index/licence-top-photo-01-sp.webp">
+                                    <img src="assets/images/index/licence-top-photo-01.webp" alt="通学免許" loading="lazy">
+                                </picture>
+                            </p>
+                            <div class="boxLicence">
+                                <h3 class="titleItemLicenTop">通学<br class="pc">免許</h3>
+                                <p class="linkLicenceTop"><a href="javascript:void(0);"><span class="txtLinkLicenceTop">詳しくはこちら</span></a></p>
+                            </div>
+                            <p class="txtLicence sp">LICENCE</p>
+                        </li>
+                        <li>
+                            <p class="licenceTopPhoto">
+                                <picture>
+                                    <source media="(max-width:768px)" srcset="assets/images/index/licence-top-photo-02-sp.webp">
+                                    <img src="assets/images/index/licence-top-photo-02.webp" alt="合宿免許" loading="lazy">
+                                </picture>
+                            </p>
+                            <div class="boxLicence">
+                                <h3 class="titleItemLicenTop">合宿<br class="pc">免許</h3>
+                                <p class="linkLicenceTop"><a href="javascript:void(0);"><span class="txtLinkLicenceTop">詳しくはこちら</span></a></p>
+                            </div>
+                            <p class="txtLicence sp">LICENCE</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="areaCourseTop">
+            <div class="inner">
+                <div class="wrapCourseTop">
+                    <div class="wrapTitle">
+                        <h2 class="titleTop">COURSE</h2>
+                        <p class="subTitleTop">各種講習</p>
+                    </div>
+                    <ul class="listCourseTop">
+                        <li>
+                            <a href="course.php?tab=variousCourse#_paperDriver">
+                                <div class="boxCourseTop">
+                                    <p class="courseTopPhoto">
+                                        <picture>
+                                            <source media="(max-width:768px)" srcset="assets/images/index/course-top-photo-01-sp.webp">
+                                            <img src="assets/images/index/course-top-photo-01.webp" alt="ペーパードライバー講習" loading="lazy">
+                                        </picture>
+                                    </p>
+                                    <h3 class="titleCourseTop">ペーパー<br>ドライバー講習</h3>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="course.php?tab=variousCourse#_trainingCor">
+                                <div class="boxCourseTop">
+                                    <p class="courseTopPhoto">
+                                        <picture>
+                                            <source media="(max-width:768px)" srcset="assets/images/index/course-top-photo-02-sp.webp">
+                                            <img src="assets/images/index/course-top-photo-02.webp" alt="法人・企業様向け講習" loading="lazy">
+                                        </picture>
+                                    </p>
+                                    <h3 class="titleCourseTop">法人・企業様<br>向け講習</h3>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="course.php?tab=seniorCourse#_70YearsOld">
+                                <div class="boxCourseTop">
+                                    <p class="courseTopPhoto">
+                                        <picture>
+                                            <source media="(max-width:768px)" srcset="assets/images/index/course-top-photo-03-sp.webp">
+                                            <img src="assets/images/index/course-top-photo-03.webp" alt="高齢者講習70~74歳" loading="lazy">
+                                        </picture>
+                                    </p>
+                                    <h3 class="titleCourseTop">高齢者講習<br><span class="numberCourseTop">70~74歳</span></h3>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="course.php?tab=seniorCourse#_75YearsOld">
+                                <div class="boxCourseTop">
+                                    <p class="courseTopPhoto">
+                                        <picture>
+                                            <source media="(max-width:768px)" srcset="assets/images/index/course-top-photo-04-sp.webp">
+                                            <img src="assets/images/index/course-top-photo-04.webp" alt="高齢者講習75歳以上" loading="lazy">
+                                        </picture>
+                                    </p>
+                                    <h3 class="titleCourseTop">高齢者講習<br><span class="numberCourseTop">75歳以上</span></h3>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="areaPlanTop">
+            <div class="inner">
+                <div class="wrapPlanTop">
+                    <div class="wrapTitle">
+                        <h2 class="titleTop">PLAN</h2>
+                        <p class="subTitleTop">教習プラン</p>
+                    </div>
+                    <div class="iframePlanTop"> 
+                        <div class="boxPlanTop">    
+                            <p class="planPhoto"><img src="assets/images/index/plan-top-photo.webp" alt="" loading="lazy"></p>
+                            <div class="contentPlanTop">
+                                <p class="txtPlanTop">経験豊富な指導員が責任を持って免許取得をサポートします。運転技術に自信が無い方に、安心して教習に専念して頂ける安心パックもご用意しております。</p>
+                                <p class="linkPlanTop"><a href="licence.php?tab=plan"><span class="txtLinkPlanTop">詳しくはこちら</span></a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="areaBannerTop">   
+            <div class="inner">
+                <ul class="listBannerTop">
+                    <li>
+                        <a class="hover" href="news.php?tab=campaignNews">
+                            <picture>
+                                <source media="(max-width:940px)" srcset="assets/images/index/banner-top-01-sp.webp">
+                                <img src="assets/images/index/banner-top-01.webp" alt="" loading="lazy">
+                            </picture>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="hover" href="student.php?tab=bus">
+                            <picture>
+                                <source media="(max-width:940px)" srcset="assets/images/index/banner-top-02-sp.webp">
+                                <img src="assets/images/index/banner-top-02.webp" alt="" loading="lazy">
+                            </picture>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="hover" href="student.php?tab=notice">
+                            <picture>
+                                <source media="(max-width:940px)" srcset="assets/images/index/banner-top-03-sp.webp">
+                                <img src="assets/images/index/banner-top-03.webp" alt="" loading="lazy">
+                            </picture>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+<?php include 'footer.php'; ?>
