@@ -4,7 +4,7 @@
             <img src="assets/images/index/main-top-photo.webp" alt="MAINTOP" loading="eager" fetchpriority="high">
         </p>
         <p class="numberMainTop">
-            <a href="javascript:void(0);" class="hover">
+            <a href="news.php?tab=campaignNews" class="hover">
                 <img src="assets/images/index/number-main-top.webp" alt="" loading="eager" fetchpriority="high">
             </a>
         </p>
@@ -58,7 +58,7 @@
                             </p>
                             <div class="boxLicence">
                                 <h3 class="titleItemLicenTop">通学<br class="pc">免許</h3>
-                                <p class="linkLicenceTop"><a href="javascript:void(0);"><span class="txtLinkLicenceTop">詳しくはこちら</span></a></p>
+                                <p class="linkLicenceTop"><a href="licence.php"><span class="txtLinkLicenceTop">詳しくはこちら</span></a></p>
                             </div>
                             <p class="txtLicence sp">LICENCE</p>
                         </li>
@@ -71,7 +71,7 @@
                             </p>
                             <div class="boxLicence">
                                 <h3 class="titleItemLicenTop">合宿<br class="pc">免許</h3>
-                                <p class="linkLicenceTop"><a href="javascript:void(0);"><span class="txtLinkLicenceTop">詳しくはこちら</span></a></p>
+                                <p class="linkLicenceTop"><a href="camp.php"><span class="txtLinkLicenceTop">詳しくはこちら</span></a></p>
                             </div>
                             <p class="txtLicence sp">LICENCE</p>
                         </li>

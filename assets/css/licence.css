@@ -111,6 +111,9 @@
     color: #50B482;
     margin-bottom: 27px;
 }
+.areaLicence .stepTwo .stepWrap .twoNote a {
+    color: #50B482;
+}
 .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepSub {
     font-size: 16px;
     font-weight: 500;
@@ -545,12 +548,12 @@
 }
 .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li .paymentPhoto {
     display: inline-block;
-    width: 268px;
+    width: 183px;
     margin-right: -6px;
 }
 .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li .paymentPhoto img {
     width: 100%;
-    aspect-ratio: 268/55;
+    aspect-ratio: 183/55;
 }
 .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentPhoto {
     width: 202px;
@@ -568,6 +571,13 @@
 .licencePlan .planSub {
     font-size: 16px;
     font-weight: 500;
+}
+
+.licencePlan .planSub .colRed {
+    color: #F0534F;
+}
+.licencePlan .planSub .colGreen {
+    color: #50B482;
 }
 .licencePlan .listItem + .contentItem {
     margin: 26px 0 38px;
@@ -951,6 +961,10 @@
     .licencePlan .titleSenior {
         margin-bottom: 18px;
     }
+
+    .areaLicence .stepTwo .stepWrap .twoNote a:hover {
+        color: #EF5350;
+    }
 }
 
 @media(max-width: 768px) {
@@ -971,6 +985,7 @@
         line-height: 1.6;
     }
     .areaLicence .stepTwo .stepWrap .twoNote,
+    .areaLicence .stepTwo .stepWrap .twoNote a,
     .areaLicence .licenceStep .wrapBasicPlan .stepWrap .stepRed {
         font-size: clamp(15px, 3.8vw, 20px);
     }

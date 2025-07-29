@@ -73,7 +73,7 @@
                                 <h5 class="hlTitlte">iPhone、iPadをお使いのお客様へ</h5>
                                 <p>Safariをご利用の方で、Googleカレンダーが表示されない場合は、「設定アプリ」→「Safari」→「サイト越えトラッキングを防ぐ」をオフにするにすると改善される場合がございます。</p>
                                 <div class="calendarWrap">
-                                    <iframe src="https://calendar.google.com/calendar/embed?height=724&wkst=1&ctz=Asia%2FHo_Chi_Minh&hl=ja&showTitle=0&showTz=0&showPrint=0&showTabs=0&src=ZDUxYzk4YTQ3ZjE5YjU4OTI3YmE4YjFjNzBhNGU0MzEzM2VjOTRjNDI5NTU0NzcyOWUwY2FhNjFiNDgyMTdkYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23f6bf26" style="border-width:0" width="812" height="724" frameborder="0" scrolling="no" loading="lazy"></iframe>
+                                    <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&showPrint=0&showTabs=0&showTz=0&height=600&wkst=1&bgcolor=%23FFFFFF&src=mfgssq1elfr3pfurl27a1g2ads%40group.calendar.google.com&color=%23711616&src=hs0bthn6kl1uj9fq0cdqgl23so%40group.calendar.google.com&color=%23875509&src=ts3ivmbse664693esc1ijqrmak%40group.calendar.google.com&color=%232F6309&src=s9fthq26njus59tnf82hlg9k24%40group.calendar.google.com&color=%2329527A&src=h61v34245f6vhiub2n5rth25e4%40group.calendar.google.com&color=%23B1365F&ctz=Asia%2FTokyo" style="border-width:0" width="812" height="724" frameborder="0" scrolling="no" loading="lazy"></iframe>
                                 </div> 
                                 <p class="note">※入校のご予約は7日前までにお願いいたします（HPからの予約は10日前まで）</p>
                             </div>

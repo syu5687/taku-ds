@@ -503,6 +503,7 @@ table tr td  .red{
 #accommodation .listLink {
     margin-top: auto;
     margin-bottom: 2px;
+    padding-top: 24px;
 }
 #accommodation .mapWrap {
     margin-top: 44px;
@@ -570,7 +571,7 @@ table tr td  .red{
     max-width: 1415px;
     width: 70vw;
 }
-.popupFlowOriginal .wrapFlowOriginal  .closePopup {
+.popupFlowOriginal .wrapFlowOriginal .closePopup {
     position: absolute;
     right: 5%;
     top: 5%;
@@ -583,7 +584,10 @@ table tr td  .red{
     justify-content: center;
     cursor: pointer;
 }
-.popupFlowOriginal .wrapFlowOriginal  .closePopup span {
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .closePopup {
+    top: 3%;
+}
+.popupFlowOriginal .wrapFlowOriginal .closePopup span {
     cursor: pointer;
     position: fixed;
     width: 36px;
@@ -607,6 +611,82 @@ table tr td  .red{
 }
 body.fixed {
     overflow: hidden;
+}
+/* mapPopup */
+.popupFlowOriginal .wrapFlowOriginal {
+    max-width: 1419px;
+    width: 76vw;
+}
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal {
+    background: white;
+    max-width: 1419px;
+    width: 100%;
+    padding-top: 71px;
+}   
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal{
+    max-width: 1187px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 40px 70px;
+    
+}
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .popupTitle {
+    font-size: 53px; 
+    font-weight: bold;
+    line-height: 1.433;
+    text-align: center;
+    margin-bottom: 34px;
+}
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .storeOriPhoto{
+    max-width: 1106px;
+    width: 100%;
+    margin: 0 auto 47px;
+    padding: 0 17px;
+    max-height: unset;
+}
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .storeOriPhoto img {
+    aspect-ratio: 1072 / 804;
+    width: 100%;
+}
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .popupText{
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.667;
+    margin-bottom: 30px;
+}       
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .popupText.fxppText {
+    margin-bottom: 0;
+}
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList {
+    width: 100%;
+    border: 3px solid #50B482;
+    border-radius: 20px;
+    padding: 20px 24px 18px 23px;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 52px;
+}
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li {
+    flex: 0 0 calc((100% - 46px) / 4);
+    margin-right: 15px;
+}
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li:last-child {
+    margin-right: 0;
+}
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listImg {
+    width: 100%;
+    margin-bottom: 9px;
+}
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listImg img {
+    aspect-ratio: 1 / 1;
+    width: 100%;
+}
+.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listTxt {
+    text-align: center;
+    font-size: 38px;
+    line-height: 1.29;
+    font-weight: bold;
+    margin-bottom: 0;
 }
 /* #tab 5  */
 #campFlow {
@@ -710,12 +790,26 @@ body.fixed {
     .enrollLink a:hover {
         color: #FFD800;
     }
+    #termsAndConditions .text .blueul:hover {
+        text-decoration: none;
+    }
 }
 @media (max-width:1480px) {
     .wrapTab .listTab li {
         min-width: clamp(90px, 12vw , 145px);
         max-width:clamp(150px, 22.3vw, 306px);
         
+    }
+}
+@media (max-width: 1240px) {
+    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listTxt{
+        font-size: 22px;
+    }
+    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .popupTitle {
+        font-size: 38px;
+    }
+    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .popupText {
+        font-size: 16px;
     }
 }
 @media (max-width: 1086px) {
@@ -952,6 +1046,7 @@ body.fixed {
     }
     #accommodation .listLink {
         margin-bottom: 0;
+        padding-top: 0;
     }
     #accommodation .listLink li {
         padding: 0 16px;
@@ -1143,6 +1238,46 @@ body.fixed {
         background: #000000;
 
     }
+    /* hotel popup */
+    .popupFlowOriginal.popupHotel .wrapFlowOriginal {
+        overflow-y: scroll;
+    }
+    .popupFlowOriginal .wrapFlowOriginal .boxOriginal {
+        overflow: scroll;
+        max-height: 80vh;
+    }
+    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal {
+        padding: 0 20px 70px;
+    }
+    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .popupTitle {
+        font-size: clamp(24px,5vw,34px);
+    }
+    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .popupText{
+        font-size: clamp(14px,2.5vw,18px);
+        margin-bottom: 16px;
+    }
+    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .storeOriPhoto {
+        margin-bottom: clamp(24px,5vw,34px);
+        padding: 0;
+    }
+    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList {
+        margin-top: clamp(36px,8vw,46px);
+        flex-direction: row;
+        flex-wrap: wrap;
+        row-gap: clamp(24px,5vw,34px);
+        padding: clamp(20px,3.6vw,30px);
+    }
+    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li {
+        flex: 0 0 calc((100% / 2 - 2.133vw));
+        margin-right: 4.266vw;
+    }
+    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li:nth-child(2n) {
+        margin-right: 0;
+    }
+    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listTxt {
+        font-size: clamp(18px,3.2vw,24px);
+    }
+    
     #pricePlan .tableWrap.tableScroll::-webkit-scrollbar {
         height: 5px;
     }
@@ -1226,7 +1361,7 @@ body.fixed {
     #pricePlan table tr .col {
         padding: 14.5px 5px;
     }
-}
+}   
 @media (max-width:460px) {
     #licenseAndEnrollDates .tableWrap table tr td {
         padding: 0 clamp(7.5px, 1.5vw, 23px);

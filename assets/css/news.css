@@ -92,7 +92,7 @@
 .areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews .txtCampaingNews {
 	font-size: 16px;
 	font-weight: 500;
-	margin-bottom: 24px;
+	margin-bottom: 0;
 }
 .areaNews .wrapNews .contentItem .iframeCampaignNews .boxCampaignNews .txtCampaingNews .campaignNewsFsz20 {
 	font-size: 20px;

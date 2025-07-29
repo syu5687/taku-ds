@@ -179,7 +179,16 @@ $(document).ready(function() {
         $(".popupFlowOriginal").removeClass('showPopup');
         $('body').removeClass('fixed');
     });
-
+    //
+    $(".popupHotelLink").click(function() {
+        $(".popupHotel").addClass('showPopup');
+        $('body').addClass('fixed');
+    });
+    $(".closePopup").click(function() {
+        $(".popupHotel").removeClass('showPopup');
+        $('body').removeClass('fixed');
+    });
+    //
     $(document).click(function(e) {
         if ($(e.target).is('.popupFlowOriginal')) {
             $(".popupFlowOriginal").removeClass('showPopup');

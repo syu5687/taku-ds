@@ -23,6 +23,7 @@
                     <div class="itemTab" id="overviewCamp">
                         <ul class="listItem anchor">
                             <li><a href="#features">特徴</a></li>
+                            <li><a href="#qualifications">入校資格について</a></li>
                             <li><a href="#transportCost">交通手段・交通費について</a></li>
                             <li><a href="#meetDateTime">集合場所・時間について</a></li>
                             <li><a href="#travelBussiness">旅行業の取扱い</a></li>
@@ -117,6 +118,48 @@
                                         </div>
                                     </li>
                                 </ul>
+                            </div>
+                        </div>
+                        <div class="wrapBasicPlan" id="qualifications">
+                            <h3 class="titleItemContent">入校資格について</h3>
+                            <div class="contentItem">
+                                <h4 class="titleItem">普通免許</h4>
+                                <p class="fxL">
+                                    ●18歳以上。（仮免許試験までに18歳になられる方）<br>
+                                    ●視力が両眼で0.7以上、片眼で各0.3以上。（矯正でも可）<br>
+                                    ●片眼の視力が0.3未満もしくは見えない方は、 他眼の視力が0.7以上、視野150度以上。<br>
+                                    ●赤・青・黄の三色を識別できる方。<br>
+                                    ●運転に支障がある障害、病気（症状等）がある方は、地元の試験場に事前に確認してお申込みください。<br>
+                                    ●運転免許証の停止・取消・無免許運転の前歴のある方は、必ず事前に申し出ください。（取消の場合、処分者講習受講済）<br>
+                                </p>
+                                <h4 class="titleItem">入校条件</h4>
+                                <p class="fxL">
+                                    当校では合宿免許の入校条件を設けております。
+                                </p>
+                                <p class="fxL">
+                                    ●34歳以下の方<br>
+                                    ●スマートフォンやタブレット端末をお持ちで、使用可能な方（モバイル通信でのアプリ操作、動画視聴）<br>
+                                    ●日本語の読み書きができる方、日本語でのコミュニケーションができる方<br>
+                                </p>
+                                <h4 class="titleItem">入校可能地域</h4>
+                                <p class="fxL">
+                                    ●佐賀県外にお住まいの方<br>
+                                    ●佐賀県内で下記の入校不可地域以外の方
+                                </p>
+                                <p class="fxL">
+                                    ※入校不可地域…佐賀市（一部を除く）、多久市、小城市、武雄市、杵島郡、唐津市（一部を除く）に在住・住民票・実家がある方は合宿で免許取得はできません。通常の通学での免許取得になります。
+                                </p>
+                                <p class="fxL">
+                                    ※佐賀市・唐津市にお住まいの方ついては、お問い合わせください。
+                                </p>
+                                <h4 class="titleItem">お持ちいただくもの</h4>
+                                <p class="fixL">
+                                    ●運転免許証をお持ちの方は、免許証。<br>
+                                    ●本籍地が記載されている最新の住民票抄本一通。（マイナンバー記載分は不可）（事前に郵送している場合は不要）<br>
+                                    ●免許証、住民票の他に本人を証明できるもの。（学生証・保険証・パスポート・外国人登録証など）<br>
+                                    ●印鑑・筆記用具・健康保険証。<br>
+                                    ●合宿入校の方は運転しやすい服装、履物、その他合宿に必要な日用品。
+                                </p>
                             </div>
                         </div>
                         <div class="wrapBasicPlan" id="transportCost">

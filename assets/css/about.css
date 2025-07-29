@@ -422,7 +422,7 @@
 .aboutFaq .faqList .faqAnswer .answerDetail .faqSub {
     font-size: 16px;
 }
-.aboutFaq .faqList .faqAnswer .answerDetail .faqSub .green {
+.aboutFaq .faqList .faqAnswer .answerDetail .faqSub .green a {
     font-weight: bold;
     color: #50B482;
 }
@@ -440,12 +440,12 @@
     margin-bottom: 37px;
 }
 .aboutFaq .faqList .faqAnswer .answerDetail .faqPayemt {
-    width: 267px;
+    width: 183px;
     margin-top: 9px;
 }
 .aboutFaq .faqList .faqAnswer .answerDetail .faqPayemt img {
     width: 100%;
-    aspect-ratio: 267/55;
+    aspect-ratio: 183/55;
 }
 /* aboutFaq */
 
@@ -593,6 +593,11 @@
 @media (min-width: 769px) {
     .aboutBasic .basicMap .basicSub a{
         pointer-events: none;
+    }
+
+    .aboutFaq .faqList .faqAnswer .answerDetail .faqSub .green a:hover,
+    .aboutFaq .faqList .faqAnswer .answerDetail .faqSub a:hover {
+        color: #EF5350;
     }
 }
 @media(max-width: 768px) {

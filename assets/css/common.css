@@ -7,20 +7,6 @@
  * COMMON STYLE
  *
  ***************************************************************************/
-@font-face {
-    font-family: "hiragino";
-    src: url("../font/hiragino-sans/hiragino-sans.eot");
-    src: url("../font/hiragino-sans/hiragino-sans.eot?#iefix") format("embedded-opentype"),
-        url("../font/hiragino-sans/hiragino-sans.woff2") format("woff2"),
-        url("../font/hiragino-sans/hiragino-sans.woff") format("woff"),
-        url("../font/hiragino-sans/hiragino-sans.ttf") format("truetype"),
-        url("../font/hiragino-sans/hiragino-sans.svg") format("svg");
-}
-
-.hiragino {
-    font-family: 'hiragino', sans-serif;
-}
-
 .notoSans {
     font-family: "Noto Sans JP", sans-serif;
     font-display: swap;
