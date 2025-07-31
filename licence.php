@@ -141,7 +141,7 @@
                                     <p class="stepSub">その他、<a href="#">窓口、電話</a>でもお申し込みいただけます。</p>
                                     <div class="licenceBtn">
                                         <p class="btnBox btnRed">
-                                            <a href="contact.php">お問い合わせフォーム</a>
+                                            <a href="/contact">お問い合わせフォーム</a>
                                         </p>
                                         <p class="btnBox">
                                             <a href="tel:0952762050" class="telLicence">お電話での問い合わせ</a>
@@ -460,7 +460,7 @@
                                 </div>
                                 <div class="licenceBtn">
                                     <p class="btnBox">
-                                        <a href="licence.php?tab=price">料金についてはこちら</a>
+                                        <a href="/licence?tab=price">料金についてはこちら</a>
                                     </p>
                                 </div>
                             </div>
@@ -486,7 +486,7 @@
                                 </div>
                                 <div class="licenceBtn">
                                     <p class="btnBox">
-                                        <a href="licence.php?tab=price">料金についてはこちら</a>
+                                        <a href="/licence?tab=price">料金についてはこちら</a>
                                     </p>
                                 </div>
                             </div>

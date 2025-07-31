@@ -4,7 +4,7 @@
             <img src="assets/images/index/main-top-photo.webp" alt="MAINTOP" loading="eager" fetchpriority="high">
         </p>
         <p class="numberMainTop">
-            <a href="news.php?tab=campaignNews" class="hover">
+            <a href="/news?tab=campaignNews" class="hover">
                 <img src="assets/images/index/number-main-top.webp" alt="" loading="eager" fetchpriority="high">
             </a>
         </p>
@@ -19,19 +19,19 @@
                     </div>
                     <ul class="listNewsTop">
                         <li>
-                            <a href="/news.php#noticeNews001">
+                            <a href="/news#noticeNews001">
                                 <p class="timeNewsTop">25.08.01</p>
                                 <h3 class="titleNewsTop">教習スケジュール制度導入のお知らせ</h3>
                             </a>
                         </li>
                         <li>
-                            <a href="/news.php#noticeNews002">
+                            <a href="/news#noticeNews002">
                                 <p class="timeNewsTop">25.08.01</p>
                                 <h3 class="titleNewsTop">仮免申請料等の料金改定について</h3>
                             </a>
                         </li>
                         <li>
-                            <a href="/news.php#noticeNews003">
+                            <a href="/news#noticeNews003">
                                 <p class="timeNewsTop">25.08.01</p>
                                 <h3 class="titleNewsTop">令和6年度　優良教習所の表彰について</h3>
                             </a>
@@ -88,7 +88,7 @@
                     </div>
                     <ul class="listCourseTop">
                         <li>
-                            <a href="course.php?tab=variousCourse#_paperDriver">
+                            <a href="/course?tab=variousCourse#_paperDriver">
                                 <div class="boxCourseTop">
                                     <p class="courseTopPhoto">
                                         <picture>
@@ -101,7 +101,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="course.php?tab=variousCourse#_trainingCor">
+                            <a href="/course?tab=variousCourse#_trainingCor">
                                 <div class="boxCourseTop">
                                     <p class="courseTopPhoto">
                                         <picture>
@@ -114,7 +114,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="course.php?tab=seniorCourse#_70YearsOld">
+                            <a href="/course?tab=seniorCourse#_70YearsOld">
                                 <div class="boxCourseTop">
                                     <p class="courseTopPhoto">
                                         <picture>
@@ -127,7 +127,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="course.php?tab=seniorCourse#_75YearsOld">
+                            <a href="/course?tab=seniorCourse#_75YearsOld">
                                 <div class="boxCourseTop">
                                     <p class="courseTopPhoto">
                                         <picture>
@@ -155,7 +155,7 @@
                             <p class="planPhoto"><img src="assets/images/index/plan-top-photo.webp" alt="" loading="lazy"></p>
                             <div class="contentPlanTop">
                                 <p class="txtPlanTop">経験豊富な指導員が責任を持って免許取得をサポートします。運転技術に自信が無い方に、安心して教習に専念して頂ける安心パックもご用意しております。</p>
-                                <p class="linkPlanTop"><a href="licence.php?tab=plan"><span class="txtLinkPlanTop">詳しくはこちら</span></a></p>
+                                <p class="linkPlanTop"><a href="/licence?tab=plan"><span class="txtLinkPlanTop">詳しくはこちら</span></a></p>
                             </div>
                         </div>
                     </div>
@@ -166,7 +166,7 @@
             <div class="inner">
                 <ul class="listBannerTop">
                     <li>
-                        <a class="hover" href="news.php?tab=campaignNews">
+                        <a class="hover" href="/news?tab=campaignNews">
                             <picture>
                                 <source media="(max-width:940px)" srcset="assets/images/index/banner-top-01-sp.webp">
                                 <img src="assets/images/index/banner-top-01.webp" alt="" loading="lazy">
@@ -174,7 +174,7 @@
                         </a>
                     </li>
                     <li>
-                        <a class="hover" href="student.php?tab=bus">
+                        <a class="hover" href="/student.?tab=bus">
                             <picture>
                                 <source media="(max-width:940px)" srcset="assets/images/index/banner-top-02-sp.webp">
                                 <img src="assets/images/index/banner-top-02.webp" alt="" loading="lazy">
@@ -182,7 +182,7 @@
                         </a>
                     </li>
                     <li>
-                        <a class="hover" href="student.php?tab=notice">
+                        <a class="hover" href="/student?tab=notice">
                             <picture>
                                 <source media="(max-width:940px)" srcset="assets/images/index/banner-top-03-sp.webp">
                                 <img src="assets/images/index/banner-top-03.webp" alt="" loading="lazy">

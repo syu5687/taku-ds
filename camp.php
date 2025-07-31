@@ -7,7 +7,7 @@
 <div class="areaCamp">
     <div class="inner">
         <p class="enrollLink">
-            <a href="licence.php">入学の流れについてはこちら→</a>
+            <a href="/licence">入学の流れについてはこちら→</a>
         </p>
         <div class="wrapCamp">
             <div class="wrapTab">
@@ -380,7 +380,7 @@
                                     <li><a href="assets/pdf/camp-overview-02.pdf" target="_blank" rel="noopener noreferrer">旅行業登録票</a></li>
                                     <li><a href="assets/pdf/camp-overview-03.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款</a></li>
                                     <li class="fxLink"><a href="assets/pdf/camp-overview-04.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款（特別補償規程）</a></li>
-                                    <li><a href="camp.php?tab=termsAndConditions">合宿免許の参加規約</a></li>
+                                    <li><a href="camp?tab=termsAndConditions">合宿免許の参加規約</a></li>
                                 </ul>
                             </div>  
                         </div>
@@ -493,7 +493,7 @@
                                     </p>
                                     <ul class="listLink">
                                         <li>
-                                            <li><a href="javascript:void(0);">申し込みはこちら</a></li>
+                                            <li><a href="/contact">申し込みはこちら</a></li>
                                         </li>
                                     </ul>
                                 </div>
@@ -573,7 +573,7 @@
                                     ※クリックで全画面表示できます。
                                 </p>
                                 <ul class="listLink">
-                                    <li><a href="contact.php">申し込みはこちら</a></li>
+                                    <li><a href="/contact">申し込みはこちら</a></li>
                                 </ul>
                                 <p class="eventCalendarImg">
                                     <a class="hover" href="assets/pdf/camp-calendar.pdf" rel="noopener noreferrer" target="_blank">
@@ -728,8 +728,8 @@
                                             <p class="text">入校カレンダーで入校日・卒業日・料金や入校資格を確認してWEBから簡単にお申込みができます。）
                                             </p>
                                             <ul class="listLink">
-                                                <li><a href="camp.php?tab=eventCalendar">入校カレンダー</a></li>
-                                                <li><a href="contact.php">申し込みはこちら</a></li>
+                                                <li><a href="/camp?tab=eventCalendar">入校カレンダー</a></li>
+                                                <li><a href="/contact">申し込みはこちら</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -744,8 +744,8 @@
                                         <div class="flowTxt">
                                             <p class="text">JR佐賀駅に集合して送迎バスにて自動車学校へ。<br>（時期により変動あり、詳しくはお問い合せください）</p>
                                             <ul class="listLink">
-                                                <li><a href="camp.php?tab=overviewCamp#_transportCost">交通アクセス</a></li>
-                                                <li><a href="camp.php?tab=overviewCamp#_meetDateTime">集合場所・時間について</a></li>
+                                                <li><a href="/camp?tab=overviewCamp#_transportCost">交通アクセス</a></li>
+                                                <li><a href="/camp?tab=overviewCamp#_meetDateTime">集合場所・時間について</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -786,7 +786,7 @@
                                         <div class="flowTxt">
                                             <p class="text">AT車 14泊15日〜（最短）<br>MT車 16泊17日〜（最短）</p>
                                             <ul class="listLink">
-                                                <li><a href="camp.php?tab=accommodation">宿泊施設について</a></li>
+                                                <li><a href="/camp?tab=accommodation">宿泊施設について</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -805,7 +805,7 @@
                                                 卒業式が終わったら、送迎バスにてJR佐賀駅または近くの駅までお送りします。
                                             </p>
                                             <ul class="listLink">
-                                                <li><a href="voice.php">卒業生の声</a></li>
+                                                <li><a href="/voice">卒業生の声</a></li>
                                             </ul>
                                         </div>
                                     </div>
