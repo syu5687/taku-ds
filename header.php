@@ -1,15 +1,5 @@
 <!DOCTYPE html>
 <html lang="ja">
-<?php
-$host = $_SERVER['HTTP_HOST'];
-$requestUri = $_SERVER['REQUEST_URI'];
-
-if (strpos($host, 'run.app') !== false) {
-    $redirectTo = 'https://taku-ds.jp' . $requestUri;
-    header("Location: $redirectTo", true, 301);
-    exit;
-}
-?>
 <head>
     <?php
       $filename = pathinfo($_SERVER['PHP_SELF'], PATHINFO_FILENAME);      
