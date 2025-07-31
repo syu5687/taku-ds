@@ -19,19 +19,19 @@
                     </div>
                     <ul class="listNewsTop">
                         <li>
-                            <a href="/news#noticeNews001">
+                            <a href="/news.php#noticeNews001">
                                 <p class="timeNewsTop">25.08.01</p>
                                 <h3 class="titleNewsTop">教習スケジュール制度導入のお知らせ</h3>
                             </a>
                         </li>
                         <li>
-                            <a href="/news#noticeNews002">
+                            <a href="/news.php#noticeNews002">
                                 <p class="timeNewsTop">25.08.01</p>
                                 <h3 class="titleNewsTop">仮免申請料等の料金改定について</h3>
                             </a>
                         </li>
                         <li>
-                            <a href="/news#noticeNews003">
+                            <a href="/news.php#noticeNews003">
                                 <p class="timeNewsTop">25.08.01</p>
                                 <h3 class="titleNewsTop">令和6年度　優良教習所の表彰について</h3>
                             </a>
