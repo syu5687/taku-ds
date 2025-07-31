@@ -67,7 +67,7 @@
                                                 <h5 class="titleSenior">福利厚生</h5>
                                                 <ul class="listApprentice">
                                                     <li>●各種社会保険完備<br>（健康・厚生年金・労災・雇用）</li>
-                                                    <li>●退職金制度<br>（指導員資格取得後）</li>
+                                                    <li>●退職金制度</li>
                                                 </ul>
                                             </div>
                                         </div>
