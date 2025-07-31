@@ -41,7 +41,7 @@ if (strpos($host, 'run.app') !== false) {
     <?php endif; ?>
     <link rel="icon" type="image/png" href="favicon.png" />
     <meta name="description" content="佐賀県多久市の多久自動車学校で運転免許を取得！地元高校生向けの通学プランと、大学生にも人気の合宿免許を用意。短期取得＆充実サポートで安心。宿泊施設も完備。" />
-    <meta name="keywords" content="多久自動車学校,佐賀県自動車学校,佐賀県指定自動車教習所,佐賀県,多久市,多久,自動車学校,自動車" />
+    <meta name="keywords" content="多久自動車学校,佐賀県自動車学校,佐賀県指定自動車教習所,合宿免許,多久市,多久,自動車学校,自動車" />
     <meta name="author" content="公安委員会の指定 多久自動車学校" />
     <meta name="robots" content=" all " />
     <meta name="googlebot" content=" all ">
