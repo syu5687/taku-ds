@@ -9,6 +9,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <?php if ($filename == 'index') : ?>
        <title>【公式】多久自動車学校 | Taku Driving School</title>
+       <?php elseif ($filename == 'camp') : ?>
+          <title>　合宿 | 【公式】多久自動車学校</title>
     <?php else: ?>
         <title><?php echo strtoupper($filename); ?> | 【公式】多久自動車学校</title>
     <?php endif; ?>
