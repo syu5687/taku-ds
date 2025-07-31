@@ -10,7 +10,7 @@
                     <p class="subTitleTop">入校申し込み・資料請求・お問い合わせ</p>
                 </div>
                 <ul class="listButtonContact">
-                    <li><a href="contact.php"><span class="txtButtonContact">お問い合わせフォーム</span></a></li>
+                    <li><a href="/contact"><span class="txtButtonContact">お問い合わせフォーム</span></a></li>
                     <li><a href="tel:0952762050"><span class="txtButtonContact">お電話での問い合わせ</span></a></li>
                 </ul>
             </div>
@@ -28,7 +28,7 @@
     <div id="footer">
         <div class="inner">
             <div class="wrapFooter">
-                <p class="logoFt"><a class="hover" href="index.php"><img src="assets/images/common/logo.svg" alt="" loading="lazy"></a></p>
+                <p class="logoFt"><a class="hover" href="/"><img src="assets/images/common/logo.svg" alt="" loading="lazy"></a></p>
                 <div class="wrapInfoFt">
                     <p class="txtAddress">〒846-0012<br>佐賀県多久市東多久町大字別府1980</p>
                     <div class="wrapContactInfoFt">
