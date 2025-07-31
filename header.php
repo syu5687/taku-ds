@@ -8,19 +8,19 @@
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <?php if ($filename == 'index') : ?>
-       <title>【公式】多久自動車学校 | Taku Driving School</title>
+       <title>【公式】多久自動車学校｜合宿・通学対応 佐賀県多久市で運転免許を短期取得！</title>
     <?php elseif ($filename == 'camp') : ?>
-       <title>　合宿 | 【公式】多久自動車学校</title>
+       <title>【公式】多久自動車学校｜合宿免許なら佐賀県多久市で短期＆お得に取得！</title>
     <?php elseif ($filename == 'licence') : ?>
-       <title>　通学 | 【公式】多久自動車学校</title>
+       <title>【公式】多久自動車学校｜佐賀県多久市の通学免許｜高校生も安心サポート</title>
     <?php elseif ($filename == 'about') : ?>
-        <title>　学校案内 | 【公式】多久自動車学校</title>
+        <title>【公式】多久自動車学校について｜佐賀県多久市の通学・合宿対応教習所</title>
     <?php elseif ($filename == 'news') : ?>
         <title>　お知らせ・キャンペーン | 【公式】多久自動車学校</title>
     <?php elseif ($filename == 'recruit') : ?>
         <title>　求人 | 【公式】多久自動車学校</title>
     <?php elseif ($filename == 'course') : ?>
-        <title>　各種講習 | 【公式】多久自動車学校</title>
+        <title>【公式】多久自動車学校｜教習コース案内・料金表｜佐賀県多久市の通学・合宿免許</title>
     <?php elseif ($filename == 'contact') : ?>
         <title>　お問い合わせ | 【公式】多久自動車学校</title>
     <?php elseif ($filename == 'student') : ?>
@@ -36,6 +36,7 @@
     <meta name="author" content=" content " />
     <meta name="robots" content=" all " />
     <meta name="googlebot" content=" all ">
+    <meta property="og:image" content="https://taku-ds.jp/assets/images/common/OGP.jpg"/>
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
