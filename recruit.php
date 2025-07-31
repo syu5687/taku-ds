@@ -34,7 +34,7 @@
                                                 <ul class="listApprentice">
                                                     <li>●高卒以上</li>
                                                     <li>●普通自動車一種免許取得後3年以上<br>（普通自動二輪免許・中型自動車免許　入社後取得制度有）</li>
-                                                    <li>●3級自動車整備士所持者は優遇</li>
+                                                    <!-- <li>●3級自動車整備士所持者は優遇</li> -->
                                                 </ul>
                                             </div>
                                             <div class="contentItemApprentice">
