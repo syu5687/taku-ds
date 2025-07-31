@@ -335,7 +335,7 @@
                                                         <td class="nextSpace">880円</td>
                                                         <td class="space"></td>
                                                         <td>5,720円</td>
-                                                        <td class="nextSpace">5,720円</td>
+                                                        <td class="nextSpace">2,200円</td>
                                                         <td class="space"></td>
                                                         <td>修了検定<br>4,950円</td>
                                                     </tr>
@@ -349,7 +349,7 @@
                                                         <td>3,300円</td>
                                                         <td class="nextSpace">880円</td>
                                                         <td class="space"></td>
-                                                        <td>2,200円</td>
+                                                        <td>5,720円</td>
                                                         <td class="nextSpace">2,200円</td>
                                                         <td class="space"></td>
                                                         <td>卒業検定<br>5,720円</td>
