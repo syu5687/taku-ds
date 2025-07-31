@@ -137,7 +137,7 @@
                                     当校では合宿免許の入校条件を設けております。
                                 </p>
                                 <p class="fxL">
-                                    ●34歳以下の方<br>
+                                    
                                     ●スマートフォンやタブレット端末をお持ちで、使用可能な方（モバイル通信でのアプリ操作、動画視聴）<br>
                                     ●日本語の読み書きができる方、日本語でのコミュニケーションができる方<br>
                                 </p>
@@ -199,7 +199,7 @@
                                     </li>
                                     <li>
                                         <div class="blockWrap">
-                                            <h5 class="titleSenior">長崎県</h5>
+                                            <h5 class="titleSenior">福岡県</h5>
                                             <p class="blockTxt">交通費支給額：<span class="red bold">往復上限5,000円</span></p>
                                             <div class="pc">
                                                 <p class="tpcImg">

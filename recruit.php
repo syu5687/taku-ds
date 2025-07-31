@@ -60,9 +60,7 @@
                                             <div class="contentItemApprentice">
                                                 <h5 class="titleSenior">休日・休暇</h5>
                                                 <ul class="listApprentice">
-                                                    <li>●日・祝・その他　（当社カレンダーによる）</li>
-                                                    <li>●年末年始休暇</li>
-                                                    <li>●GW休暇</li>
+                                                    <li>当社カレンダーによる</li>
                                                 </ul>
                                             </div>
                                             <div class="contentItemApprentice">
@@ -76,9 +74,9 @@
                                     </div>
                                 </div>
                                 <p class="desApprentice">先輩指導員のほとんどは未経験からのスタートです。<br>
-                                    サービス業や営業職、自衛隊隊員からの転職組もたくさんいらっしゃいます。<br>
+                                    サービス業や営業職からの転職組もたくさんいらっしゃいます。<br>
                                     研修制度もバッチリあるので、未経験でも安心です。<br>
-                                    女性の方も募集しています。</p>
+                                    </p>
                             </div>
                         </div>
                         <div class="wrapBasicPlan" id="instructor">
@@ -93,7 +91,6 @@
                                                 <h5 class="titleSenior">学歴・資格等</h5>
                                                 <ul class="listApprentice">
                                                     <li>●教習指導員資格</li>
-                                                    <li>●3級自動車整備士所持者は優遇</li>
                                                 </ul>
                                             </div>
                                             <div class="contentItemApprentice">
@@ -119,16 +116,14 @@
                                             <div class="contentItemApprentice">
                                                 <h5 class="titleSenior">休日・休暇</h5>
                                                 <ul class="listApprentice">
-                                                    <li>●日・祝・その他　（当社カレンダーによる</li>
-                                                    <li>●年末年始休暇</li>
-                                                    <li>●GW休暇</li>
+                                                    <li>当社カレンダーによる</li>
                                                 </ul>
                                             </div>
                                             <div class="contentItemApprentice">
                                                 <h5 class="titleSenior">福利厚生</h5>
                                                 <ul class="listApprentice">
                                                     <li>●各種社会保険完備<br>（健康・厚生年金・労災・雇用）</li>
-                                                    <li>●退職金制度<br>（指導員資格取得後）</li>
+                                                    <li>●退職金制度</li>
                                                 </ul>
                                             </div>
                                         </div>
