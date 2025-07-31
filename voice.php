@@ -94,7 +94,7 @@
                         </div>
                     </div>
                 </div>
-                <p class="voiceBack"><a href="camp.php?tab=campFlow">< 戻る</a></p>
+                <p class="voiceBack"><a href="/camp?tab=campFlow">< 戻る</a></p>
             </div>
         </div>
     </div>
