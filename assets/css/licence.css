@@ -730,6 +730,14 @@
 }
 .licencePlan .planSafety .safetyWrap .safetyBox .boxTable tr:first-child th:first-child {
     background-color: rgba(255,216,0,0.1);
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 104px;
+    padding: 14px 5px;
+    border-bottom: 1px solid #fff;
+    border-right: 1px solid #000;
+    color: #fff;
 }
 .licencePlan .planSafety .safetyWrap .safetyBox .boxTable tr:not(:first-child) th {
     background-color: #000000;
