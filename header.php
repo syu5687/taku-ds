@@ -9,8 +9,24 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <?php if ($filename == 'index') : ?>
        <title>【公式】多久自動車学校 | Taku Driving School</title>
-       <?php elseif ($filename == 'camp') : ?>
-          <title>　合宿 | 【公式】多久自動車学校</title>
+    <?php elseif ($filename == 'camp') : ?>
+       <title>　合宿 | 【公式】多久自動車学校</title>
+    <?php elseif ($filename == 'licence') : ?>
+       <title>　通学 | 【公式】多久自動車学校</title>
+    <?php elseif ($filename == 'about') : ?>
+        <title>　学校案内 | 【公式】多久自動車学校</title>
+        <?php elseif ($filename == 'news') : ?>
+        <title>　お知らせ・キャンペーン | 【公式】多久自動車学校</title>
+        <?php elseif ($filename == 'recruit') : ?>
+        <title>　求人 | 【公式】多久自動車学校</title>
+        <?php elseif ($filename == 'course') : ?>
+        <title>　各種講習 | 【公式】多久自動車学校</title>
+        <?php elseif ($filename == 'contact') : ?>
+        <title>　お問い合わせ | 【公式】多久自動車学校</title>
+        <?php elseif ($filename == 'student') : ?>
+        <title>　在学生用ページ | 【公式】多久自動車学校</title>
+        <?php elseif ($filename == 'voice') : ?>
+        <title>　卒業生の声 | 【公式】多久自動車学校</title>
     <?php else: ?>
         <title><?php echo strtoupper($filename); ?> | 【公式】多久自動車学校</title>
     <?php endif; ?>
@@ -30,9 +46,20 @@
     <link rel="stylesheet" type="text/css" href="assets/css/<?php echo $filename; ?>.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     <script type="text/javascript" src="assets/js/script.js"></script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NM5WKK59');</script>
+    <!-- End Google Tag Manager -->
 </head>
 
 <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NM5WKK59"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <div id="header">
         <div class="headerBar">
             <div class="inner">
