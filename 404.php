@@ -20,7 +20,7 @@
 									</p>
 									<div class="voiceSub">
 										<p class="sub">
-											ご指定のページは存在しないか、移動された可能性があります。<br><br>
+											こちらは多久自動車学校の公式サイトです。ご指定のページは存在しないか、移動された可能性があります。<br><br>
 											URLをもう一度ご確認いただくか、トップページへお戻りください。
 										</p>
 										<p style="text-align:center; margin-top: 20px;">
