@@ -16,15 +16,15 @@
     <?php elseif ($filename == 'about') : ?>
         <title>【公式】多久自動車学校について｜佐賀県多久市の通学・合宿対応教習所</title>
     <?php elseif ($filename == 'news') : ?>
-        <title>　お知らせ・キャンペーン | 【公式】多久自動車学校</title>
+        <title>【お知らせ】多久自動車学校｜教習情報・最新ニュース・キャンペーン一覧</title>
     <?php elseif ($filename == 'recruit') : ?>
-        <title>　求人 | 【公式】多久自動車学校</title>
+        <title>【採用情報】多久自動車学校｜佐賀県多久市の教習所でインストラクター・受付スタッフ募集</title>
     <?php elseif ($filename == 'course') : ?>
         <title>【公式】多久自動車学校｜教習コース案内・料金表｜佐賀県多久市の通学・合宿免許</title>
     <?php elseif ($filename == 'contact') : ?>
-        <title>　お問い合わせ | 【公式】多久自動車学校</title>
+        <title>【お問い合わせ】多久自動車学校｜資料請求・見学予約・ご相談はこちら</title>
     <?php elseif ($filename == 'student') : ?>
-        <title>　在学生用ページ | 【公式】多久自動車学校</title>
+        <title>【在校生向け】多久自動車学校｜在校生の方へ｜教習スケジュール・学科予定・連絡事項</title>
     <?php elseif ($filename == 'voice') : ?>
         <title>　卒業生の声 | 【公式】多久自動車学校</title>
     <?php else: ?>
