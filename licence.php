@@ -496,10 +496,7 @@
                             <div class="contentItem">
                                 <p class="planSub">入校日から各パック時限数までの補習料金を保証致します。<span class="colRed">（通常1時限につき5,720円）</span><br><br>
                                 <span class="colGreen">運転するのが不安・・・<br>補習がたくさんついてしまうかも・・・ </span><br><br>
-                                と、いうように運転技術に自身が無い方に、安心して教習に専念して頂けるパックです。<br><br>
-                                    ※上記価格はすべて消費税10％を含んだ価格となります。<br>
-                                    ※安心パックを利用せずに卒業された場合でも返金はございません。<br>
-                                    ※２回目以降の各検定料および仮免学科試験料は別途必要になります。<br>
+                                と、いうように運転技術に自身が無い方に、安心して教習に専念して頂けるパックです。
                                 </p>
                                 <div class="safetyWrap">
                                     <div class="safetyBox">
@@ -527,6 +524,11 @@
                                     </div>
                                 </div>
                             </div>
+                            <p class="planSub">
+                                ※上記価格はすべて消費税10％を含んだ価格となります。<br>
+                                ※安心パックを利用せずに卒業された場合でも返金はございません。<br>
+                                ※２回目以降の各検定料および仮免学科試験料は別途必要になります。<br>
+                            </p>
                                 </div>
                             </div>
                         <div class="wrapBasicPlan planSpeed" id="plan-speed">
