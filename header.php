@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="ja">
+<?php
+$host = $_SERVER['HTTP_HOST'];
+$requestUri = $_SERVER['REQUEST_URI'];
 
+if (strpos($host, 'run.app') !== false) {
+    $redirectTo = 'https://taku-ds.jp' . $requestUri;
+    header("Location: $redirectTo", true, 301);
+    exit;
+}
+?>
 <head>
     <?php
       $filename = pathinfo($_SERVER['PHP_SELF'], PATHINFO_FILENAME);      
@@ -28,12 +37,12 @@
     <?php elseif ($filename == 'voice') : ?>
         <title>　卒業生の声 | 【公式】多久自動車学校</title>
     <?php else: ?>
-        <title><?php echo strtoupper($filename); ?> | 【公式】多久自動車学校</title>
+        <title><?php echo strtoupper($filename); ?> | 【公式】多久自動車学校｜合宿・通学対応 佐賀県多久市で運転免許を短期取得！</title>
     <?php endif; ?>
     <link rel="icon" type="image/png" href="favicon.png" />
     <meta name="description" content="佐賀県多久市の多久自動車学校で運転免許を取得！地元高校生向けの通学プランと、大学生にも人気の合宿免許を用意。短期取得＆充実サポートで安心。宿泊施設も完備。" />
     <meta name="keywords" content="多久自動車学校,佐賀県自動車学校,佐賀県指定自動車教習所,佐賀県,多久市,多久,自動車学校,自動車" />
-    <meta name="author" content=" content " />
+    <meta name="author" content="公安委員会の指定 多久自動車学校" />
     <meta name="robots" content=" all " />
     <meta name="googlebot" content=" all ">
     <meta property="og:image" content="https://taku-ds.jp/assets/images/common/OGP.jpg"/>
