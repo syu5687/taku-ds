@@ -21,9 +21,9 @@
                                 </ul>
                                 <h3 class="titleItemContent">お問い合わせフォーム</h3>
                                 <div class="contentItem">
-                                    <h4 class="titleItem">受講できる期間</h4>
+                                    <h4 class="titleItem"></h4>
                                     <div class="boxContactForm">
-                                        <p class="txtContact">下記の項目をご入力いただき、【送信】ボタンを押してください</p>
+                                        <p class="txtContact"></p>
                                         <div class="formmailer-embed" data-form-hash="6d5f5d12301332" data-form-host="business.form-mailer.jp"></div>
                                     </div>
                                 </div>
