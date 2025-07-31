@@ -15,24 +15,23 @@
        <title>　通学 | 【公式】多久自動車学校</title>
     <?php elseif ($filename == 'about') : ?>
         <title>　学校案内 | 【公式】多久自動車学校</title>
-        <?php elseif ($filename == 'news') : ?>
+    <?php elseif ($filename == 'news') : ?>
         <title>　お知らせ・キャンペーン | 【公式】多久自動車学校</title>
-        <?php elseif ($filename == 'recruit') : ?>
+    <?php elseif ($filename == 'recruit') : ?>
         <title>　求人 | 【公式】多久自動車学校</title>
-        <?php elseif ($filename == 'course') : ?>
+    <?php elseif ($filename == 'course') : ?>
         <title>　各種講習 | 【公式】多久自動車学校</title>
-        <?php elseif ($filename == 'contact') : ?>
+    <?php elseif ($filename == 'contact') : ?>
         <title>　お問い合わせ | 【公式】多久自動車学校</title>
-        <?php elseif ($filename == 'student') : ?>
+    <?php elseif ($filename == 'student') : ?>
         <title>　在学生用ページ | 【公式】多久自動車学校</title>
-        <?php elseif ($filename == 'voice') : ?>
+    <?php elseif ($filename == 'voice') : ?>
         <title>　卒業生の声 | 【公式】多久自動車学校</title>
     <?php else: ?>
         <title><?php echo strtoupper($filename); ?> | 【公式】多久自動車学校</title>
     <?php endif; ?>
     <link rel="icon" type="image/png" href="favicon.png" />
-    <meta name="description" content="多久自動車学校
-    taku-ds" />
+    <meta name="description" content="佐賀県多久市の多久自動車学校で運転免許を取得！地元高校生向けの通学プランと、大学生にも人気の合宿免許を用意。短期取得＆充実サポートで安心。宿泊施設も完備。" />
     <meta name="keywords" content="多久自動車学校,佐賀県自動車学校,佐賀県指定自動車教習所,佐賀県,多久市,多久,自動車学校,自動車" />
     <meta name="author" content=" content " />
     <meta name="robots" content=" all " />
