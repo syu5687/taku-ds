@@ -38,7 +38,7 @@
                     </div>
                 </div>
                 <p class="insFt">
-                    <a href="javascript:void(0);">
+                    <a href="https://www.instagram.com/saga_takuds/" target="_blank">
                         <img class="insOriginal" src="assets/images/common/icon-ins.svg" alt="" loading="lazy">
                         <img class="insHover" src="assets/images/common/icon-ins-hover.svg" alt="" loading="lazy">
                     </a>
