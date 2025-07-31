@@ -501,28 +501,26 @@
                                     ※安心パックを利用せずに卒業された場合でも返金はございません。<br>
                                     ※２回目以降の各検定料および仮免学科試験料は別途必要になります。<br>
                                 </p>
-                                <div class="safetyWrap"　style="display:none;">
+                                <div class="safetyWrap">
                                     <div class="safetyBox">
                                         <div class="boxTable">
                                         <table>
                                             <tr>
                                                 <th></th>
-                                                <th>パック料金</th>
-                                                <th>保証時限数</th>
-                                            </tr>
-                                            <tr>
                                                 <th>安心3</th>
-                                                <td>8,530円</td>
-                                                <td>3時限</td>
-                                            </tr>
-                                            <tr>
                                                 <th>安心5</th>
-                                                <td>14,300円</td>
-                                                <td>5時限</span></td>
+                                                <th>無制限</th>
                                             </tr>
                                             <tr>
-                                                <th>無制限</th>
+                                                <th>パック料金</th>
+                                                <td>8,530円</td>
+                                                <td>14,300円</td>
                                                 <td>28,600円</td>
+                                            </tr>
+                                            <tr>
+                                                <th>保証時限数</th>
+                                                <td>3時限</td>
+                                                <td>5時限</td>
                                                 <td>無制限</td>
                                             </tr>
                                         </table>

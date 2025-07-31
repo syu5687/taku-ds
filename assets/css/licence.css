@@ -686,15 +686,16 @@
     margin-bottom: 25px;
 }
 .licencePlan .planSafety .safetyWrap {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    display: block;
+    /* flex-wrap: wrap;
+    justify-content: space-between; */
     border: 1px solid #50B482;
     border-radius: 10px;
     padding: 32px 38px;
+    width:100%;
 }
 .licencePlan .planSafety .safetyWrap .safetyBox {
-    width: 48.7%;
+    width: 100%;
     border-radius: 10px;
     background-color: rgba(255,216,0,0.3);
     padding: 28px 29px;
