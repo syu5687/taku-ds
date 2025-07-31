@@ -92,8 +92,8 @@
                                 <div class="boxCourseTop">
                                     <p class="courseTopPhoto">
                                         <picture>
-                                            <source media="(max-width:768px)" srcset="assets/images/index/course-top-photo-01-sp.webp">
-                                            <img src="assets/images/index/course-top-photo-01.webp" alt="ペーパードライバー講習" loading="lazy">
+                                            <source media="(max-width:768px)" srcset="assets/images/index/course-top-photo-01-sp.webp?1">
+                                            <img src="assets/images/index/course-top-photo-01.webp?1" alt="ペーパードライバー講習" loading="lazy">
                                         </picture>
                                     </p>
                                     <h3 class="titleCourseTop">ペーパー<br>ドライバー講習</h3>
@@ -105,8 +105,8 @@
                                 <div class="boxCourseTop">
                                     <p class="courseTopPhoto">
                                         <picture>
-                                            <source media="(max-width:768px)" srcset="assets/images/index/course-top-photo-02-sp.webp">
-                                            <img src="assets/images/index/course-top-photo-02.webp" alt="法人・企業様向け講習" loading="lazy">
+                                            <source media="(max-width:768px)" srcset="assets/images/index/course-top-photo-02-sp.webp?1">
+                                            <img src="assets/images/index/course-top-photo-02.webp?1" alt="法人・企業様向け講習" loading="lazy">
                                         </picture>
                                     </p>
                                     <h3 class="titleCourseTop">法人・企業様<br>向け講習</h3>
