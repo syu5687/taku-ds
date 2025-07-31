@@ -1,66 +1,41 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ページが見つかりません｜多久自動車学校</title>
-  <style>
-	body {
-	  font-family: "Helvetica Neue", "Hiragino Kaku Gothic ProN", sans-serif;
-	  margin: 0;
-	  padding: 0;
-	  background: #f4f4f4;
-	  color: #333;
-	  display: flex;
-	  flex-direction: column;
-	  align-items: center;
-	  justify-content: center;
-	  height: 100vh;
-	  text-align: center;
-	}
-	header {
-	  background-color: #ffcc00;
-	  padding: 1em;
-	  width: 100%;
-	}
-	header img {
-	  max-height: 60px;
-	}
-	h1 {
-	  font-size: 2.5em;
-	  color: #c00;
-	  margin: 0.5em 0;
-	}
-	p {
-	  font-size: 1.2em;
-	  margin: 0.5em;
-	}
-	a.button {
-	  display: inline-block;
-	  margin-top: 1em;
-	  background-color: #009966;
-	  color: white;
-	  padding: 0.8em 1.5em;
-	  border-radius: 5px;
-	  text-decoration: none;
-	  font-weight: bold;
-	}
-	a.button:hover {
-	  background-color: #007755;
-	}
-  </style>
-</head>
-<body>
-  <header>
-	<a href="https://taku-ds.jp/">
-	  <img src="https://taku-ds.jp/images/logo.png" alt="多久自動車学校" />
-	</a>
-  </header>
-  <main>
-	<h1>404 - ページが見つかりません</h1>
-	<p>お探しのページは削除されたか、URLが変更された可能性があります。</p>
-	<p>トップページまたはメニューから目的のページをお探しください。</p>
-	<a href="https://taku-ds.jp/" class="button">トップページへ戻る</a>
-  </main>
-</body>
-</html>
+<?php include 'header.php'; ?>
+
+<div class="wrapTitlePage">
+	<h2 class="titlePage">404 Not Found</h2>
+	<p class="subTitlePage">お探しのページが見つかりませんでした</p>
+</div>
+
+<div class="areaVoice">
+	<div class="inner">
+		<div class="wrapLicence">
+			<div class="wrapTab">
+				<div class="contentTab">
+					<div class="wrapBasicPlan itemVoice">
+						<div class="contentItem">
+							<ul class="voiceList">
+								<li>
+									<p class="voiceIntro">
+										<span class="image"><img src="assets/images/voice/area-voice-icon-01.svg" alt="404アイコン"></span>
+										<span class="name">お知らせ</span>
+									</p>
+									<div class="voiceSub">
+										<p class="sub">
+											ご指定のページは存在しないか、移動された可能性があります。<br><br>
+											URLをもう一度ご確認いただくか、トップページへお戻りください。
+										</p>
+										<p style="text-align:center; margin-top: 20px;">
+											<a href="/" class="button" style="background:#009966; color:#fff; padding:10px 20px; border-radius:5px; text-decoration:none;">トップページへ戻る</a>
+										</p>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<p class="voiceBack"><a href="/">< 戻る</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<?php include 'footer.php'; ?>
