@@ -379,9 +379,9 @@
                                     <li class="icon">
                                         <p class="paymentName">クレジットカード<br><span class="red">【現在一時休止中】</span>
                                         </p>
-                                        <p class="paymentDetail">ＶＩＳＡ ・ マスターがご利用いただけます。
+                                        <p class="paymentDetail">VISA・マスターがご利用いただけます。
                                             <span class="paymentPhoto">
-                                                <img src="assets/images/licence/licence-price-photo-01.webp" alt="ＶＩＳＡ ・ マスターがご利用いただけます。">
+                                                <img src="assets/images/licence/licence-price-photo-01.webp" alt="VISA・マスターがご利用いただけます。">
                                             </span>
                                         </p>
                                     </li>
@@ -394,7 +394,9 @@
                                 </ul>
                                 <p class="paymentSub">その他ご不明な点などございましたら、お気軽にお問合せ下さい。</p>
                                 <p class="paymentPhoto">
-                                    <img src="assets/images/licence/licence-price-photo-02.webp" alt="お支払い方法について">
+                                    <a href="https://www.eposcard.co.jp/menkyo_cre/index.html?root=driving_school" target="_blank">
+                                    <img src="assets/images/licence/licence-price-photo-02.webp" alt="エポスカード運転免許クレジット学生応援あとから払い">
+                                    </a>
                                 </p>
                             </div>
                         </div>
