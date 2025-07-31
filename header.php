@@ -36,7 +36,7 @@
             <div class="inner">
                 <div class="wrapHeader">
                     <div class="logo">
-                        <a class="hover" href="index.php">
+                        <a class="hover" href="/">
                             <picture>
                                 <source media="(max-width:768px)" srcset="assets/images/common/logo-sp.svg">
                                 <img src="assets/images/common/logo.svg" alt="" loading="eager" fetchpriority="high">
@@ -44,8 +44,8 @@
                         </a>
                     </div>
                     <div class="boxHeader">
-                        <p class="txtRequestHeader"><a href="contact.php">入校申し込み・資料請求・お問合せ</a></p>
-                        <p class="txtCurrentHeader pc"><a href="student.php">在学生用ページ</a></p>
+                        <p class="txtRequestHeader"><a href="/contact">入校申し込み・資料請求・お問合せ</a></p>
+                        <p class="txtCurrentHeader pc"><a href="/student">在学生用ページ</a></p>
                     </div>
                 </div>
                 <div class="hamburger sp">
@@ -66,7 +66,7 @@
                             <li><a href="/licence?tab=progress">入学の流れ</a></li>
                             <li><a href="/licence?tab=price">料金表</a></li>
                             <li><a href="/licence?tab=plan">プラン</a></li>
-                            <li class="menuFsz18"><a href="licence.php?tab=overview">入学から<br class="pc">免許取得まで</a></li>
+                            <li class="menuFsz18"><a href="/licence?tab=overview">入学から<br class="pc">免許取得まで</a></li>
                         </ul>
                     </li>
                     <li>
