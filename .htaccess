@@ -6,6 +6,9 @@ RewriteRule ^main/425\.html$ https://taku-ds.jp/camp?tab=eventCalendar [R=301,L]
 # 旧URL2: /main/32.html → 新URL2
 RewriteRule ^main/32\.html$ https://taku-ds.jp/camp?tab=movingCost [R=301,L]
 
+# 旧URL3: /main.php/565.html → 新URL3
+RewriteRule ^main\.php/565\.html$ https://taku-ds.jp/camp?tab=overviewCamp [R=301,L]
+
 # 拡張子省略ルーティング
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.*?)/?$ $1.php [L]
