@@ -181,22 +181,22 @@
                                 <h5 class="titleSenior">牛津・芦刈</h5>
                                 <p class="busImg">
                                     <img src="assets/images/student/bus-location-3.webp" alt="bus-location-3"loading="lazy">
-                                    <iframe height="350" marginheight="0" src="https://web.archive.org/web/20241006143632if_/https://www.google.com/maps/d/embed?mid=z3KoLnVmyVyc.kgpDwIPC_HAg" width="100%" scrolling="no" data-ruffle-polyfilled=""></iframe>
+                                    <iframe height="350" marginheight="0" src="https://www.google.com/maps/d/embed?mid=z3KoLnVmyVyc.kgpDwIPC_HAg" width="100%" scrolling="no" data-ruffle-polyfilled=""></iframe>
                                 </p>
                                 <h5 class="titleSenior">乙柳・柿樋瀬・久保田</h5>
                                 <p class="busImg">
                                     <img src="assets/images/student/bus-location-4.webp" alt="bus-location-4" loading="lazy">
-                                    <iframe height="350" marginheight="0" src="https://web.archive.org/web/20241006143632if_/https://www.google.com/maps/d/embed?mid=z3KoLnVmyVyc.k5ThUixeLDj0" width="100%" scrolling="no" data-ruffle-polyfilled=""></iframe>
+                                    <iframe height="350" marginheight="0" src="https://www.google.com/maps/d/embed?mid=z3KoLnVmyVyc.k5ThUixeLDj0" width="100%" scrolling="no" data-ruffle-polyfilled=""></iframe>
                                 </p>
                                 <h5 class="titleSenior">小城・織島・立物</h5>
                                 <p class="busImg">
                                     <img src="assets/images/student/bus-location-5.webp" alt="bus-location-5" loading="lazy">
-                                    <iframe height="350" marginheight="0" src="https://web.archive.org/web/20241006143632if_/https://www.google.com/maps/d/embed?mid=z3KoLnVmyVyc.kGMVCUaTo7TE" width="100%" scrolling="no" data-ruffle-polyfilled=""></iframe>
+                                    <iframe height="350" marginheight="0" src="https://www.google.com/maps/d/embed?mid=z3KoLnVmyVyc.kGMVCUaTo7TE" width="100%" scrolling="no" data-ruffle-polyfilled=""></iframe>
                                 </p>
                                 <h5 class="titleSenior">三里・三日月 </h5>
                                 <p class="busImg">
                                     <img src="assets/images/student/bus-location-6.webp" alt="bus-location-6" loading="lazy">
-                                    <iframe height="350" marginheight="0" src="https://web.archive.org/web/20241006143632if_/https://www.google.com/maps/d/embed?mid=z3KoLnVmyVyc.kuDvqyDnUd1s" width="100%" scrolling="no" data-ruffle-polyfilled=""></iframe>
+                                    <iframe height="350" marginheight="0" src="https://www.google.com/maps/d/embed?mid=z3KoLnVmyVyc.kuDvqyDnUd1s" width="100%" scrolling="no" data-ruffle-polyfilled=""></iframe>
                                 </p>
                             </div>
                         </div>
