@@ -1,5 +1,11 @@
-# 転送ルール：旧URLから新URLへリダイレクト
+RewriteEngine On
+
+# リダイレクト先（旧URLから新URL）
 RewriteRule ^main/425\.html$ https://taku-ds.jp/camp?tab=eventCalendar [R=301,L]
 
-ErrorDocument 404 /404.html
+# 拡張子省略ルーティング（index → index.php など）
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*?)/?$ $1.php [L]
 
+# 404エラーハンドラ
+ErrorDocument 404 /404.html
