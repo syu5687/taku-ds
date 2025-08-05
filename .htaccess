@@ -12,6 +12,9 @@ RewriteRule ^main\.php/565\.html$ https://taku-ds.jp/camp?tab=overviewCamp [R=30
 # 旧URL4: /main/635.html → 新URL4
 RewriteRule ^main/635\.html$ https://taku-ds.jp/about?tab=staff [R=301,L]
 
+# 旧URL5: /main/3.html → 新URL5
+RewriteRule ^main/3\.html$ https://taku-ds.jp/licence [R=301,L]
+
 # 拡張子省略ルーティング
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.*?)/?$ $1.php [L]
