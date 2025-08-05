@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+	<loc>https://taku-ds.jp/</loc>
+	<priority>1.0</priority>
+  </url>
+  <url>
+	<loc>https://taku-ds.jp/about</loc>
+  </url>
+  <url>
+	<loc>https://taku-ds.jp/camp</loc>
+  </url>
+  <url>
+	<loc>https://taku-ds.jp/contact</loc>
+  </url>
+  <url>
+	<loc>https://taku-ds.jp/course</loc>
+  </url>
+  <url>
+	<loc>https://taku-ds.jp/licence</loc>
+  </url>
+  <url>
+	<loc>https://taku-ds.jp/news</loc>
+  </url>
+  <url>
+	<loc>https://taku-ds.jp/recruit</loc>
+  </url>
+  <url>
+	<loc>https://taku-ds.jp/student</loc>
+  </url>
+  <url>
+	<loc>https://taku-ds.jp/voice</loc>
+  </url>
+</urlset>
