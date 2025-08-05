@@ -1,11 +1,14 @@
 RewriteEngine On
 
-# リダイレクト先（旧URLから新URL）
+# 旧URL1: /main/425.html → 新URL1
 RewriteRule ^main/425\.html$ https://taku-ds.jp/camp?tab=eventCalendar [R=301,L]
 
-# 拡張子省略ルーティング（index → index.php など）
+# 旧URL2: /main/32.html → 新URL2
+RewriteRule ^main/32\.html$ https://taku-ds.jp/camp?tab=movingCost [R=301,L]
+
+# 拡張子省略ルーティング
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.*?)/?$ $1.php [L]
 
-# 404エラーハンドラ
+# 404ハンドラ
 ErrorDocument 404 /404.php
