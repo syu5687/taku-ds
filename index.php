@@ -174,7 +174,7 @@
                         </a>
                     </li>
                     <li>
-                        <a class="hover" href="/student.?tab=bus">
+                        <a class="hover" href="/student?tab=bus">
                             <picture>
                                 <source media="(max-width:940px)" srcset="assets/images/index/banner-top-02-sp.webp">
                                 <img src="assets/images/index/banner-top-02.webp" alt="" loading="lazy">
