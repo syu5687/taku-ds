@@ -1,9 +1,5 @@
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule ^(.*?)/?$ $1.php [L]
+# 転送ルール：旧URLから新URLへリダイレクト
+RewriteRule ^main/425\.html$ https://taku-ds.jp/camp?tab=eventCalendar [R=301,L]
 
 ErrorDocument 404 /404.html
 
-# 転送ルール：旧URLから新URLへリダイレクト（クエリパラメータ含む）
-RewriteCond %{HTTP_HOST} ^www\.taku-ds\.jp$ [NC]
-RewriteRule ^main/425\.html$ https://taku-ds.jp/camp?tab=eventCalendar [R=301,L]
