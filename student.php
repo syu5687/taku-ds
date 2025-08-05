@@ -171,6 +171,7 @@
                                 <h5 class="titleSenior">多久・中多久・南多久・西多久</h5>
                                 <p class="busImg fixBus">
                                     <img src="assets/images/student/bus-location-1.webp" alt="bus-location-1" loading="lazy">
+                                    <iframe height="350" marginheight="0" src="https://www.google.com/maps/d/embed?mid=z3KoLnVmyVyc.kJUDAMjxnjDI" width="640" marginwidth="0" scrolling="no" data-ruffle-polyfilled=""></iframe>
                                 </p>
                                 <h5 class="titleSenior">北多久・厳木</h5>
                                 <p class="busImg">
