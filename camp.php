@@ -409,7 +409,7 @@
                                         </tr>
                                         <tr>
                                             <th class="col">シャロン<br>（シェアハウス）</th>
-                                            <td>相部屋<br>（自炊・昼食付）<br>ツイン</td>
+                                            <td>相部屋<br><span style="font-size:0.8rem;">（自炊・昼食付）</span><br>ツイン</td>
                                             <td>女性限定</td>
                                             <td>209,000円</td>
                                             <td>214,000円</td>
@@ -418,7 +418,7 @@
                                         </tr>
                                         <tr>
                                             <th class="col">シャロン<br>（シェアハウス）</th>
-                                            <td>1人部屋<br>（自炊・昼食付）<br>シングル</td>
+                                            <td>1人部屋<br><span style="font-size:0.8rem;">（自炊・昼食付）</span><br>シングル</td>
                                             <td>女性限定</td>
                                             <td>231,000円</td>
                                             <td>236,000円</td>
