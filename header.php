@@ -9,7 +9,7 @@
     <?php if ($filename == 'index') : ?>
        <title>【公式】多久自動車学校｜合宿・通学対応 佐賀県多久市で運転免許を短期取得！</title>
     <?php elseif ($filename == 'camp') : ?>
-       <title>【公式】多久自動車学校｜合宿免許なら佐賀県多久市で短期＆お得に取得！</title>
+       <title>【公式】多久自動車学校 合宿免許｜合宿免許なら佐賀県多久市で短期＆お得に取得！</title>
     <?php elseif ($filename == 'licence') : ?>
        <title>【公式】多久自動車学校｜佐賀県多久市の通学免許｜高校生も安心サポート</title>
     <?php elseif ($filename == 'about') : ?>
