@@ -26,6 +26,8 @@
         <title>【在校生向け】多久自動車学校｜在校生の方へ｜教習スケジュール・学科予定・連絡事項</title>
     <?php elseif ($filename == 'voice') : ?>
         <title>　卒業生の声 | 【公式】多久自動車学校</title>
+    <?php elseif ($filename == '404') : ?>
+        <title>　お探しのページは見つかりませんでした | 【公式】多久自動車学校</title>
     <?php else: ?>
         <title><?php echo strtoupper($filename); ?> | 【公式】多久自動車学校｜合宿・通学対応 佐賀県多久市で運転免許を短期取得！</title>
     <?php endif; ?>
