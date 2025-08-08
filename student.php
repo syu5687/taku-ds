@@ -17,7 +17,7 @@
                     <div class="itemTab" id="notice">
                         <p class="noticeImg">
                             <a href="https://mantensama.jp/takuds" target="_blank" rel="noopener noreferrer" class="hover">
-                                <img src="assets/images/student/notice-img.webp" alt="notice-img" loading="eager" fetchpriority="high">
+                                <img src="assets/images/student/notice-img.webp" alt="多久自動車学校インターネット学習システム満点様のログインはこちら" loading="eager" fetchpriority="high">
                             </a>
                         </p>
                         <div class="wrapBasicPlan">
@@ -149,7 +149,7 @@
                                     ※下記以外の送迎にも応じます。お気軽にご相談ください。
                                 </p>
                                 <p class="busAllImg">
-                                    <img src="assets/images/student/bus-all-location.webp" alt="bus-all-location" loading="eager" fetchpriority="high">
+                                    <img src="assets/images/student/bus-all-location.webp" alt="多久自動車学校の無料送迎バスは各方面へ運行中" loading="eager" fetchpriority="high">
                                 </p>
                             </div>
                         </div>
@@ -211,7 +211,8 @@
                                     </span>
                                 </p>
                                 <p class="scheduleImg">
-                                    <img src="assets/images/student/bus-schedule.webp" alt="bus-schedule" loading="lazy" >
+                                    <a href="./assets/pdf/student-bus0807.pdf" target="_blank">
+                                    <img src="assets/images/student/bus-schedule2508.webp" alt="多久自動車学校送迎バス運行表" loading="lazy" >
                                 </p>
                             </div>
                         </div>
@@ -238,7 +239,7 @@
                                     </span>
                                 </p>
                                 <p class="precautionImg">
-                                    <img src="assets/images/student/bus-img.webp" alt="bus-img" loading="lazy">
+                                    <img src="assets/images/student/bus-img.webp" alt="多久自動車学校送迎バス" loading="lazy">
                                 </p>
                             </div>
                         </div>
@@ -322,7 +323,7 @@
                                         〈iPhoneの場合〉<br>
                                         機内モード＋Wi-Fiで受講してください。
                                         <span class="fxMargin">
-                                            <img src="assets/images/student/kinai-mode.webp" alt="kinai-mode" loading="lazy">
+                                            <img src="assets/images/student/kinai-mode.webp" alt="多久自動車学校注意書き_機内モードについて" loading="lazy">
                                         </span>
                                     </p>
                                     <p class="brder">

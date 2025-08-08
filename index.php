@@ -1,11 +1,11 @@
 <?php include 'header.php'; ?>
     <div class="main">
         <p class="mainPhoto">
-            <img src="assets/images/index/main-top-photo.webp" alt="MAINTOP" loading="eager" fetchpriority="high">
+            <img src="assets/images/index/main-top-photo.webp" alt="多久自動車学校教習車イメージ" loading="eager" fetchpriority="high">
         </p>
         <p class="numberMainTop">
             <a href="/news?tab=campaignNews" class="hover">
-                <img src="assets/images/index/number-main-top.webp" alt="" loading="eager" fetchpriority="high">
+                <img src="assets/images/index/number-main-top.webp" alt="多久自動車学校は学生なら5,000円割引" loading="eager" fetchpriority="high">
             </a>
         </p>
     </div>
@@ -152,7 +152,7 @@
                     </div>
                     <div class="iframePlanTop"> 
                         <div class="boxPlanTop">    
-                            <p class="planPhoto"><img src="assets/images/index/plan-top-photo.webp" alt="" loading="lazy"></p>
+                            <p class="planPhoto"><img src="assets/images/index/plan-top-photo.webp" alt="教習プランイメージ" loading="lazy"></p>
                             <div class="contentPlanTop">
                                 <p class="txtPlanTop">経験豊富な指導員が責任を持って免許取得をサポートします。運転技術に自信が無い方に、安心して教習に専念して頂ける安心パックもご用意しております。</p>
                                 <p class="linkPlanTop"><a href="/licence?tab=plan"><span class="txtLinkPlanTop">詳しくはこちら</span></a></p>
@@ -169,7 +169,7 @@
                         <a class="hover" href="/news?tab=campaignNews">
                             <picture>
                                 <source media="(max-width:940px)" srcset="assets/images/index/banner-top-01-sp.webp">
-                                <img src="assets/images/index/banner-top-01.webp" alt="" loading="lazy">
+                                <img src="assets/images/index/banner-top-01.webp" alt="多久自動車学校なら学生は5,000円割引" loading="lazy">
                             </picture>
                         </a>
                     </li>
@@ -177,7 +177,7 @@
                         <a class="hover" href="/student?tab=bus">
                             <picture>
                                 <source media="(max-width:940px)" srcset="assets/images/index/banner-top-02-sp.webp">
-                                <img src="assets/images/index/banner-top-02.webp" alt="" loading="lazy">
+                                <img src="assets/images/index/banner-top-02.webp" alt="無料送迎バスのご案内" loading="lazy">
                             </picture>
                         </a>
                     </li>
@@ -185,7 +185,7 @@
                         <a class="hover" href="/student?tab=notice">
                             <picture>
                                 <source media="(max-width:940px)" srcset="assets/images/index/banner-top-03-sp.webp">
-                                <img src="assets/images/index/banner-top-03.webp" alt="" loading="lazy">
+                                <img src="assets/images/index/banner-top-03.webp" alt="多久自動車学校在学生専用ページ" loading="lazy">
                             </picture>
                         </a>
                     </li>
