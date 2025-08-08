@@ -20,7 +20,7 @@
 									</p>
 									<div class="voiceSub">
 										<p class="sub" style="text-align:center;">
-											こちらは多久自動車学校の公式サイトです。<br>2025年8月1日webサイトリニューアルいたしました。<br>ご指定のページは存在しないか、webサイトリニューアル後に移動された可能性があります。<br><a href="https://taku-ds.jp/">トップページへ移動お願いいたします</a>
+											こちらは多久自動車学校の公式サイトです。<br>2025年8月1日webサイトリニューアル<br>いたしました。<br>ご指定のページは存在しないか、webサイトリニューアル後に移動された可能性があります。<br><a href="https://taku-ds.jp/">トップページへ移動お願いいたします</a>
 										</p>
 										<p style="text-align:center; margin-top: 40px;">
 											<a href="/" class="button" style="background:#009966; color:#fff; padding:10px 20px; border-radius:5px; text-decoration:none;">トップページへ戻る</a>
