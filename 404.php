@@ -15,7 +15,7 @@
 							<ul class="voiceList">
 								<li>
 									<p class="voiceIntro">
-										<span class="image" style="display: block;margin: 15px auto 30px;text-align:center;"><img src="assets/images/common/404error.svg" alt="404アイコン" width="150px" height="auto"></span>
+										<span class="image" style="display: block;margin: 15px auto 30px;text-align:center;"><img src="assets/images/common/error.svg" alt="404アイコン" width="150px" height="auto"></span>
 										<!-- <span class="name">お知らせ</span> -->
 									</p>
 									<div class="voiceSub">
