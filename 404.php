@@ -15,8 +15,8 @@
 							<ul class="voiceList">
 								<li>
 									<p class="voiceIntro">
-										<span class="image"><img src="assets/images/voice/area-voice-icon-01.svg" alt="404アイコン"></span>
-										<span class="name">お知らせ</span>
+										<span class="image" style="display: block;margin: 0 auto;"><img src="assets/images/common/404.svg" alt="404アイコン" width="100px" height="auto"></span>
+										<!-- <span class="name">お知らせ</span> -->
 									</p>
 									<div class="voiceSub">
 										<p class="sub">
@@ -31,7 +31,7 @@
 						</div>
 					</div>
 				</div>
-				<p class="voiceBack"><a href="/">< 戻る</a></p>
+				<!-- <p class="voiceBack"><a href="/">< 戻る</a></p> -->
 			</div>
 		</div>
 	</div>
