@@ -211,7 +211,7 @@
                                     </span>
                                 </p>
                                 <p class="scheduleImg">
-                                    <a href="assets/pdf/student-bus0807.pdf" target="_blank">
+                                    <a href="assets/pdf/student-bus0808.pdf" target="_blank">
                                     <img src="assets/images/student/bus-schedule2508.webp" alt="多久自動車学校送迎バス運行表" loading="lazy" >
                                 </p>
                             </div>
