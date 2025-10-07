@@ -690,7 +690,7 @@
                             <div class="contentItem">
                                 <div class="hotelInfoWrap">
                                     <p class="hotelImg">
-                                        <!-- <img src="assets/images/camp/hotel-1.webp" alt="hotel-1"> -->
+                                        <img src="assets/images/camp/hotelDOLCE.webp" alt="写真はイメージです">
                                     </p>
                                     <div class="infoWrap">
                                         <h4 class="titleItem">自炊プラン（シングルプラン・ツインプラン）</h4>
@@ -734,7 +734,7 @@
                             <div class="contentItem">
                                 <div class="hotelInfoWrap">
                                     <p class="hotelImg">
-                                        <!-- <img src="assets/images/camp/hotel-3.webp" alt="hotel-3" loading="eager" fetchpriority="high"> -->
+                                        <img src="assets/images/camp/hotelAZ.webp" alt="ホテルAZ" loading="eager" fetchpriority="high">
                                     </p>
                                     <div class="infoWrap">
                                         <h4 class="titleItem">ホテルプラン（シングルプラン）</h4>
