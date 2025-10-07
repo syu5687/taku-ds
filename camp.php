@@ -390,82 +390,98 @@
                         <ul class="listItem anchor">
                             <li><a href="#pricePlan">料金プラン(3食付）</a></li>
                             <!-- <li><a href="#discount">割引制度</a></li> -->
-                            <li><a href="#warranty">保証内容について（25歳までの方）</a></li>
+                            <li><a href="#warranty">保証内容について（30歳までの方）</a></li>
                             <li><a href="#licenseAndEnrollDates">取得可能免許・入校日</a></li>
                         </ul>
                         <div class="wrapBasicPlan" id="pricePlan">
                             <h3 class="titleItemContent">料金プラン（3食付）</h3>
                             <div class="contentItem">
                                 <div class="tableWrap tableScroll">
+                                    <p>令和7年11月1日～令和8年6月30日入校</p>
                                     <table>
 
                                         <tr>
                                             <th class="col">宿泊施設名</th>
                                             <th class="row">部屋タイプ</th>
                                             <th class="row">利用条件</th>
-                                            <th class="row">4/1～6/26</th>
-                                            <th class="row">7/1～7/24<br>10/2～12/4</th>
-                                            <th class="row">9/9～9/30<br>12/9～12/25</th>
-                                            <th class="row">7/31～9/4</th>
+                                            <th class="row">4/12～6/30<br>11/1～12/27<br>入校</th>
+                                            <th class="row">1/5～1/17<br>3/29～4/11<br>入校</th>
+                                            <th class="row">1/18～1/24<br>3/22～3/28<br>入校</th>
+                                            <th class="row">3/15～3/21<br>入校</th>
+                                            <th class="row">1/25～3/14<br>入校</th>
                                         </tr>
                                         <tr>
                                             <th class="col">シャロン<br>（シェアハウス）</th>
-                                            <td>相部屋<br><span style="font-size:0.8rem;">（自炊・昼食付）</span><br>ツイン</td>
+                                            <td>相部屋ツイン<br><span style="font-size:0.8rem;">食事無し</span></td>
                                             <td>女性限定</td>
-                                            <td>209,000円</td>
-                                            <td>214,000円</td>
-                                            <td>269,000円</td>
-                                            <td>324,000円</td>
+                                            <td>217,360円</td>
+                                            <td>227,370円</td>
+                                            <td>271,370円</td>
+                                            <td>290,400円</td>
+                                            <td>361,900円</td>
                                         </tr>
                                         <tr>
-                                            <th class="col">シャロン<br>（シェアハウス）</th>
-                                            <td>1人部屋<br><span style="font-size:0.8rem;">（自炊・昼食付）</span><br>シングル</td>
-                                            <td>女性限定</td>
-                                            <td>231,000円</td>
-                                            <td>236,000円</td>
-                                            <td>291,000円</td>
+                                            <th class="col">ドルチェ</th>
+                                            <td>相部屋ツイン<br><span style="font-size:0.8rem;">食事無し</span></td>
                                             <td>ー</td>
+                                            <td>217,360円</td>
+                                            <td>227,370円</td>
+                                            <td>271,370円</td>
+                                            <td>290,400円</td>
+                                            <td>361,900円</td>
+                                        </tr>
+                                        <tr>
+                                            <th class="col">シャロン<br>（シェアハウス）</th>
+                                            <td>シングル<br><span style="font-size:0.8rem;">食事無し</span></td>
+                                            <td>女性限定</td>
+                                            <td>232,100円</td>
+                                            <td>242,000円</td>
+                                            <td>282,370円</td>
+                                            <td>301,400円</td>
+                                            <td>372,900円</td>
+                                        </tr>
+                                        <tr>
+                                            <th class="col">ドルチェ</th>
+                                            <td>シングル<br><span style="font-size:0.8rem;">食事無し</span></td>
+                                            <td>ー</td>
+                                            <td>232,100円</td>
+                                            <td>242,000円</td>
+                                            <td>282,370円</td>
+                                            <td>301,400円</td>
+                                            <td>372,900円</td>
                                         </tr>
                                         <tr>
                                             <th class="col">多久シティホテル松屋</th>
-                                            <td>シングルB<br>（3食付）</td>
+                                            <td>シングルB<br>3食付</td>
                                             <td>ー</td>
-                                            <td>253,000円</td>
-                                            <td>258,000円</td>
-                                            <td>313,000円</td>
-                                            <td>368,000円</td>
+                                            <td>266,200円</td>
+                                            <td>276,100円</td>
+                                            <td>316,470円</td>
+                                            <td>341,000円</td>
+                                            <td>412,500円</td>
                                         </tr>
                                         <tr>
-                                            <th class="col">サガシティホテル</th>
-                                            <td>ツインA<br>（朝昼食付）</td>
+                                            <th class="col">ホテルAZ</th>
+                                            <td>ツインA<br>3食付</td>
                                             <td>ー</td>
-                                            <td>253,000円</td>
-                                            <td>258,000円</td>
-                                            <td>313,000円</td>
-                                            <td>368,000円</td>
-                                        </tr>
-                                        <tr>
-                                            <th class="col">サガシティホテル</th>
-                                            <td>シングルA<br>（朝昼食付）</td>
-                                            <td>ー</td>
-                                            <td>264,000円</td>
-                                            <td>269,000円</td>
-                                            <td>324,000円</td>
-                                            <td>379,000円</td>
+                                            <td>266,200円</td>
+                                            <td>276,100円</td>
+                                            <td>316,470円</td>
+                                            <td>341,000円</td>
+                                            <td>412,500円</td>
                                         </tr>
                                     </table>
                                 </div>
                                 <p class="text tableNotes sp">←横にスクロールできます→</p>
                                 <p class="text tableNotes">
-                                    ※R7.4月～12月<br>
                                     ※上記金額は全て税込です。<br>
-                                    <span class="bold">※サガシティホテルは夕食が付きませんのでご注意ください。</span><br>
-                                    ※ 別途、仮免許申請交付料 2,900円（非課税）がかかります。（入校日に窓口でお支払いください）
+                                    <span class="bold">ホテルプランの方でお食事不要な場合は値引きいたしますのでお問い合わせください。</span><br>
+                                    ※別途、仮免許申請交付料 2,900円（非課税）がかかります。（入校日に窓口でお支払いください）<br>
+                                    ※上記金額より、MT の方は22,000 円UP 二輪免許所持の方は11,000 円引<br>
+                                    ※お支払いは銀行振込のみとなっております。ローンをご希望の方は、入校申込時にご相談ください。
                                 </p>
                                 <p class="text">
-                                    ・上記金額より、MT：22,000円UP　　二輪免許所持：11,000円引<br>
-                                    ・昼のみ…上記金額より、最大11,000円引<br>
-                                    ・食事なし…上記金額より、最大16,500円引
+                                    
                                 </p>
                             </div>
                         </div>
@@ -501,43 +517,53 @@
                             </div>
                         </div> -->
                         <div class="wrapBasicPlan" id="warranty">
-                            <h3 class="titleItemContent">保証内容について（25歳までの方）</h3>
+                            <h3 class="titleItemContent">保証内容について（30歳までの方）</h3>
                             <div class="contentItem">
                                 <div class="tableWrap">
                                     <table>
+                                        <tr>
+                                            <th></th>
+                                            <th>保証内容</th>
+                                        </tr>
                                         <tr>
                                             <th>技能教習</th>
                                             <td>卒業まで保証</td>
                                         </tr>
                                         <tr>
                                             <th>修了検定</th>
-                                            <td>1回分は教習料金に含む</span></td>
+                                            <td>
+                                                <!-- 1回分は教習料金に含む -->
+                                                卒業まで保証
+                                            </td>
                                         </tr>
                                         <tr>
                                             <th>卒業検定</th>
-                                            <td>1回分は教習料金に含む</span></td>
+                                            <td>
+                                                <!-- 1回分は教習料金に含む -->
+                                                卒業まで保証
+                                            </td>
                                         </tr>
                                         <tr>
                                             <th>仮免学科</th>
-                                            <td>2回目以降の費用　追加料金1,800円/回（非課税）</span></td>
+                                            <td>1 回分は仮免許申請交付料に含む（入校日別途徴収分）</td>
                                         </tr>
                                         <tr>
                                             <th>宿泊食事</th>
-                                            <td>卒業まで保証（+3泊分）</span></td>
+                                            <td>卒業まで保証（+3泊分）</td>
                                         </tr>
                                     </table>
                                 </div>
-                                <p class="text tableNotes">※26歳以上の方は保証はありません。</p>
+                                <!-- <p class="text tableNotes">※26歳以上の方は保証はありません。</p> -->
                                 <h4 class="titleItem">保証備考</h4>
-                                <p class="text red bold fxP">卒業まで保証期間でも、お客様都合による追加教習・延泊・中途解約及び一時帰宅の場合は、下記料金がかかります。</p>
+                                <p class="text red bold fxP">お客様の不注意や故意による教習の遅延、お客様都合による追加教習・延泊等は、保証内でも追加費用がかかります</p>
                                 <div class="blockWrap">
                                     <h5 class="titleSenior">保証を超えた場合の追加料金</h5>
                                     <p class="text">
-                                        技能教習：5,500円／時限<br>
-                                        修了検定：4,400円／回<br>
-                                        卒業検定：5,500円／回<br>
+                                        技能教習：5,720円／時限<br>
+                                        修了検定：4,950円／回<br>
+                                        卒業検定：5,720円／回<br>
                                         仮免学科：1,800円（非課税）／回<br>
-                                        宿泊料金（シングル）：3,300〜7,700円／泊（プランによって変動します）
+                                        宿泊食事：6,600円／泊(保証を超えた延泊は食事が付きません)
                                     </p>
                                 </div>
                             </div>
