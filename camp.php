@@ -522,7 +522,6 @@
                                 <div class="tableWrap">
                                     <table>
                                         <tr>
-                                            <th></th>
                                             <th>保証内容</th>
                                         </tr>
                                         <tr>
