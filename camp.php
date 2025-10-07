@@ -746,7 +746,7 @@
                                     </div>
                                 </div>
                                 <div class="mapWrap">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13344.466002920419!2d130.29318225571367!3d33.2634422288364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3541ca12c99b45ab%3A0xbd03a4b166e73dd3!2sSaga%20City%20Hotel!5e0!3m2!1sjas!2s!4v1753173554950!5m2!1sja!2s" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="eager" fetchpriority="high" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13347.342174138592!2d130.1786839!3d33.2446116!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3540332a6af5d953%3A0x3897d1af7345decf!2zSE9URUwgQVog5L2Q6LOA5bCP5Z-O5bqX!5e0!3m2!1sja!2sjp!4v1759819581913!5m2!1sja!2sjp" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                 </div>
                             </div>
                         </div>
