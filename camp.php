@@ -36,24 +36,24 @@
                                     <li>
                                         <p class="pointImg">
                                             <span class="pointNum">
-                                                <img src="assets/images/camp/point-1.webp" alt="point-1" loading="eager" fetchpriority="high">
+                                                <img src="assets/images/camp/point-1.webp" alt="多久自動車学校合宿免許の特徴その1" loading="eager" fetchpriority="high">
                                             </span>
                                             <span class="pointImage">
-                                                <img src="assets/images/camp/point-img-1.webp" alt="point-img-1" loading="eager" fetchpriority="high">
+                                                <img src="assets/images/camp/point-img-1.webp" alt="多久自動車学校の合宿は各宿泊施設充実設備" loading="eager" fetchpriority="high">
                                             </span>
                                         </p>
                                         <div class="pointWrap">
-                                            <h4 class="titleItem pointTitle">各ホテル充実設備の<br>シングルルーム</h4>
+                                            <h4 class="titleItem pointTitle">各宿泊施設<br>設備充実</h4>
                                             <p class="pointTxt">教習が終わった後のプライベートな時間をのびのび過ごせます。</p>
                                         </div>
                                     </li>
                                     <li class="fxSize">
                                         <p class="pointImg">
                                             <span class="pointNum">
-                                                <img src="assets/images/camp/point-2.webp" alt="point-2" loading="eager" fetchpriority="high">
+                                                <img src="assets/images/camp/point-2.webp" alt="多久自動車学校合宿免許の特徴その2" loading="eager" fetchpriority="high">
                                             </span>
                                             <span class="pointImage">
-                                                <img src="assets/images/camp/point-img-2.webp" alt="point-img-2" loading="eager" fetchpriority="high">
+                                                <img src="assets/images/camp/point-img-2.webp" alt="多久自動車学校の合宿は日替わり弁当で食事の面からもサポート" loading="eager" fetchpriority="high">
                                             </span>
                                         </p>
                                         <div class="pointWrap">
@@ -64,24 +64,25 @@
                                     <li>
                                         <p class="pointImg">
                                             <span class="pointNum">
-                                                <img src="assets/images/camp/point-3.webp" alt="point-3" loading="eager" fetchpriority="high">
+                                                <img src="assets/images/camp/point-3.webp" alt="多久自動車学校合宿免許の特徴その3" loading="eager" fetchpriority="high">
                                             </span>
                                             <span class="pointImage">
-                                                <img src="assets/images/camp/point-img-3.webp" alt="point-img-3" loading="eager" fetchpriority="high">
+                                                <img src="assets/images/camp/point-img-3.webp" alt="多久自動車学校の合宿は各宿泊施設や校内にWi-Fi
+                                                完備" loading="eager" fetchpriority="high">
                                             </span>
                                         </p>
                                         <div class="pointWrap">
-                                            <h4 class="titleItem pointTitle">各ホテル・校内にWi-Fi<br>完備</h4>
+                                            <h4 class="titleItem pointTitle">各宿泊施設・校内にWi-Fi<br>完備</h4>
                                             <p class="pointTxt">教習の空き時間やバスの待ち時間もホテルでもサクサク通信。</p>
                                         </div>
                                     </li>
                                     <li>
                                         <p class="pointImg">
                                             <span class="pointNum">
-                                                <img src="assets/images/camp/point-4.webp" alt="point-4" loading="eager" fetchpriority="high">
+                                                <img src="assets/images/camp/point-4.webp" alt="多久自動車学校合宿免許の特徴その4" loading="eager" fetchpriority="high">
                                             </span>
                                             <span class="pointImage">
-                                                <img src="assets/images/camp/point-img-4.webp" alt="point-img-4" loading="eager" fetchpriority="high">
+                                                <img src="assets/images/camp/point-img-4.webp" alt="多久自動車学校合宿はコンビニやカフェも近くにあります" loading="eager" fetchpriority="high">
                                             </span>
                                         </p>
                                         <div class="pointWrap">
@@ -89,27 +90,27 @@
                                             <p class="pointTxt">ちょっとした合間に利用できるコンビニやカフェも近くにあります</p>
                                         </div>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <p class="pointImg">
                                             <span class="pointNum">
                                                 <img src="assets/images/camp/point-5.webp" alt="point-5" loading="eager" fetchpriority="high">
                                             </span>
                                             <span class="pointImage">
-                                                <img src="assets/images/camp/point-img-5.webp" alt="point-img-5" loading="eager" fetchpriority="high">
+                                                <img src="assets/images/camp/point-img-6.webp" alt="point-img-5" loading="eager" fetchpriority="high">
                                             </span>
                                         </p>
                                         <div class="pointWrap">
                                             <h4 class="titleItem pointTitle">時期によって<br>お得な特典もあり！</h4>
                                             <p class="pointTxt">温泉・パフェ・など色々!!お楽しみに♪</p>
                                         </div>
-                                    </li>
+                                    </li> -->
                                     <li>
                                         <p class="pointImg">
                                             <span class="pointNum">
-                                                <img src="assets/images/camp/point-6.webp" alt="point-6" loading="eager" fetchpriority="high">
+                                                <img src="assets/images/camp/point-5.webp" alt="多久自動車学校の合宿免許の特徴その5" loading="eager" fetchpriority="high">
                                             </span>
                                             <span class="pointImage">
-                                                <img src="assets/images/camp/point-img-6.webp" alt="point-img-6" loading="eager" fetchpriority="high">
+                                                <img src="assets/images/camp/point-img-6.webp" alt="多久自動車学校合宿は24時間受講可能!オンライン学科教習" loading="eager" fetchpriority="high">
                                             </span>
                                         </p>
                                         <div class="pointWrap">
@@ -388,7 +389,7 @@
                     <div class="itemTab" id="movingCost">
                         <ul class="listItem anchor">
                             <li><a href="#pricePlan">料金プラン(3食付）</a></li>
-                            <li><a href="#discount">割引制度</a></li>
+                            <!-- <li><a href="#discount">割引制度</a></li> -->
                             <li><a href="#warranty">保証内容について（25歳までの方）</a></li>
                             <li><a href="#licenseAndEnrollDates">取得可能免許・入校日</a></li>
                         </ul>
@@ -468,7 +469,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="wrapBasicPlan" id="discount">
+                        <!-- <div class="wrapBasicPlan" id="discount">
                             <h3 class="titleItemContent">割引制度</h3>
                             <div class="contentItem">
                                 <h4 class="titleItem">早割</h4>
@@ -498,7 +499,7 @@
                                     </ul>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="wrapBasicPlan" id="warranty">
                             <h3 class="titleItemContent">保証内容について（25歳までの方）</h3>
                             <div class="contentItem">
@@ -576,8 +577,8 @@
                                     <li><a href="/contact">申し込みはこちら</a></li>
                                 </ul>
                                 <p class="eventCalendarImg">
-                                    <a class="hover" href="assets/pdf/camp-calendar.pdf" rel="noopener noreferrer" target="_blank">
-                                        <img src="assets/images/camp/event-calendar.webp" alt="event-calendar" loading="eager" fetchpriority="high">
+                                    <a class="hover" href="assets/pdf/camp-calendar-251001.pdf" rel="noopener noreferrer" target="_blank">
+                                        <img src="assets/images/camp/event-calendar-251001.webp" alt="多久自動車学校合宿入校日＆最短卒業予定日カレンダー" loading="eager" fetchpriority="high">
                                     </a>
                                 </p>
                             </div>
@@ -586,20 +587,21 @@
                     <div class="itemTab" id="accommodation">
                         <ul class="listItem anchor">
                             <li><a href="#shareHouse">シェアハウス「シャロン」</a></li>
+                            <li><a href="#dolce">ドルチェ</a></li>
                             <li><a href="#takuHotel">多久シティホテル松屋</a></li>
-                            <li><a href="#sagaHotel">サガシティホテル</a></li>
+                            <li><a href="#hotelAZ">ホテルAZ</a></li>
                             <li><a href="#hotelAvailable ">満室時利用ホテル</a></li>
                         </ul>
                         <div class="wrapBasicPlan" id="shareHouse">
-                            <h3 class="titleItemContent">シェアハウス「シャロン」</h3>
+                            <h3 class="titleItemContent">シェアハウス「シャロン」*女性専用</h3>
                             <div class="contentItem">
                                 <div class="hotelInfoWrap">
                                     <p class="hotelImg">
-                                        <img src="assets/images/camp/hotel-1.webp" alt="hotel-1">
+                                        <img src="assets/images/camp/hotel-1.webp" alt="シェアハウス「シャロン」">
                                     </p>
                                     <div class="infoWrap">
-                                        <h4 class="titleItem">女性用宿舎（シングルプラン・ツインプラン）</h4>
-                                        <p class="text">多久市内の閑静な住宅街の中にある宿舎です！</p>
+                                        <h4 class="titleItem">自炊プラン（シングルプラン・ツインプラン）</h4>
+                                        <p class="text">多久市内の閑静な住宅街の中にある女性専用宿舎です！</p>
                                         <p class="text">それぞれコンセプトの異なるお洒落なお部屋で過ごしたり、広いキッチンで自炊することで、お友達との沢山の思い出が出来ること間違い無し！！</p>
                                         <p class="text">設備やセキュリティーの面も万全ですので是非ご利用ください。</p>
                                         <ul class="listLink">
@@ -616,7 +618,7 @@
                                                     </div>
                                                     <div class="boxContentOriginal">
                                                         <p class="popupTitle">シェアハウス「シャロン」</p>
-                                                        <p class="storeOriPhoto"><img src="assets/images/camp/hotel-1-big.png" alt="hotel-1-big"></p>
+                                                        <p class="storeOriPhoto"><img src="assets/images/camp/hotel-1-big.png" alt="シェアハウス「シャロン」"></p>
                                                         <p class="popupText">
                                                             シェアハウス「シャロン」は自炊のプランです。<br>
                                                             食事、ベッドメイキング、掃除、ゴミ出しなど身の回りのことはすべてお客様ご自身で行います。<br>
@@ -630,19 +632,19 @@
                                                         </p>
                                                         <ul class="roomsList">
                                                             <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-img-1.webp" alt="room-img-1" loading="lazy"></p>
+                                                                <p class="listImg"><img src="assets/images/camp/room-img-1.webp" alt="食堂" loading="lazy"></p>
                                                                 <p class="listTxt">食堂</p>
                                                             </li>
                                                             <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-img-2.webp" alt="room-img-2" loading="lazy"></p>
+                                                                <p class="listImg"><img src="assets/images/camp/room-img-2.webp" alt="キッチン" loading="lazy"></p>
                                                                 <p class="listTxt">キッチン</p>
                                                             </li>
                                                             <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-img-3.webp" alt="room-img-3" loading="lazy"></p>
+                                                                <p class="listImg"><img src="assets/images/camp/room-img-3.webp" alt="シングル" loading="lazy"></p>
                                                                 <p class="listTxt">シングル</p>
                                                             </li>
                                                             <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-img-4.webp" alt="room-img-4" loading="lazy"></p>
+                                                                <p class="listImg"><img src="assets/images/camp/room-img-4.webp" alt="相部屋" loading="lazy"></p>
                                                                 <p class="listTxt">相部屋</p>
                                                             </li>
                                                         </ul>
@@ -657,17 +659,38 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="wrapBasicPlan" id="dolce">
+                            <h3 class="titleItemContent">ドルチェ</h3>
+                            <div class="contentItem">
+                                <div class="hotelInfoWrap">
+                                    <p class="hotelImg">
+                                        <!-- <img src="assets/images/camp/hotel-1.webp" alt="hotel-1"> -->
+                                    </p>
+                                    <div class="infoWrap">
+                                        <h4 class="titleItem">自炊プラン（シングルプラン・ツインプラン）</h4>
+                                        <p class="text">小城市牛津町にあるアパートタイプの宿舎です！</p>
+                                        <p class="text">2025年11月オープンの新しい施設です。</p>
+                                        <p class="text">プライベート充実のアパートタイプで一人暮らし気分を味わえます。<br>料理を楽しんだり、広い浴室でゆったり過ごしたり！<br>是非ご利用ください。</p>
+                                    </div>
+                                </div>
+                                <!-- <div class="mapWrap">
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3335.1457466814036!2d130.09751510400142!3d33.288849832927546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3541d329280f74ad%3A0xe82e9be9230a5a38!2sSharon!5e0!3m2!1sja!2s!4v1753167785794!5m2!1sja!2s" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="eager" fetchpriority="high" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                </div> -->
+                            </div>
+                        </div>
                         <div class="wrapBasicPlan" id="takuHotel">
                             <h3 class="titleItemContent">多久シティホテル松屋</h3>
                             <div class="contentItem">
                                 <div class="hotelInfoWrap">
                                     <p class="hotelImg">
-                                        <img src="assets/images/camp/hotel-2.webp" alt="hotel-2" loading="eager" fetchpriority="high">
+                                        <img src="assets/images/camp/hotel-2.webp" alt="多久シティホテル松屋" loading="eager" fetchpriority="high">
                                     </p>
                                     <div class="infoWrap">
-                                        <h4 class="titleItem">シングルプラン</h4>
+                                        <h4 class="titleItem">ホテルプラン（シングルプラン）</h4>
                                         <p class="text">多久の市内を見下ろす小高い丘にあるシティホテルです。</p>
-                                        <p class="text">自然豊かな場所、又大浴場も完備してあり1日の疲れをゆっくりお取り頂くには最適な環境です。</p>
+                                        <p class="text">自然豊かで落ち着いた場所、静かな環境でゆっくりお過ごしいただけます。<br>
+                                            ホテルスタッフの方も親切丁寧で、合宿が不安な方も安心です。
+                                        </p>
                                         <ul class="listLink">
                                             <li>
                                                 <a href="http://matsuya-cityhotel.jp/" target="_blank" rel="noopener noreferrer">詳しくはこちら</a>
@@ -680,21 +703,18 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="wrapBasicPlan" id="sagaHotel">
-                            <h3 class="titleItemContent">サガシティホテル</h3>
+                        <div class="wrapBasicPlan" id="hotelAZ">
+                            <h3 class="titleItemContent">ホテルAZ</h3>
                             <div class="contentItem">
                                 <div class="hotelInfoWrap">
                                     <p class="hotelImg">
-                                        <img src="assets/images/camp/hotel-3.webp" alt="hotel-3" loading="eager" fetchpriority="high">
+                                        <!-- <img src="assets/images/camp/hotel-3.webp" alt="hotel-3" loading="eager" fetchpriority="high"> -->
                                     </p>
                                     <div class="infoWrap">
-                                        <h4 class="titleItem">シングルプラン・ツインプラン</h4>
-                                        <p class="text">佐賀駅から徒歩2分！中心部なので、買い物や食べ歩きにも便利な環境。</p>
-                                        <p class="text">館内には、マンガ本コーナーや無料マッサージチェア、自動販売機、大浴場、サウナ（男性専用）など、快適に過ごせる設備抜群！</p>
-                                        <p class="text">朝食バイキングは種類豊富で大満足！！</p>
+                                        <h4 class="titleItem">ホテルプラン（シングルプラン）</h4>
                                         <ul class="listLink">
                                             <li>
-                                                <a href="https://www.sagacity-hotel.com/" target="_blank" rel="noopener noreferrer">詳しくはこちら</a>
+                                                <a href="https://www.az-hotel.com/ogi/" target="_blank" rel="noopener noreferrer">詳しくはこちら</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -710,6 +730,7 @@
                                 <ul class="listLink">
                                     <li><a href="https://www.saga-greenhotel.com/" target="_blank" rel="noopener noreferrer">佐賀医大前グリーンホテル</a></li>
                                     <li><a href="https://www.toyoko-inn.com/" target="_blank" rel="noopener noreferrer">東横イン佐賀駅前</a></li>
+                                    <li><a href="https://www.sagacity-hotel.com/" target="_blank" rel="noopener noreferrer">サガシティホテル</a></li>
                                 </ul>
                             </div>
                         </div>
