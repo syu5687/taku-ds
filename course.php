@@ -198,8 +198,8 @@
                         <div class="wrapBasicPlan" id="noticeFee">
                             <h3 class="titleItemContent">高齢者講習等料金改定のおしらせ</h3>
                             <div class="contentItem">
-                                <p class="txtTuition">令和7年1月より高齢者講習等の料金を下記の通り改定いたします。</p>
-                                <div class="wrapTableTuition">
+                                <p class="txtTuition"><span style="text-decoration: underline;font-size: 1.2rem;font-weight: bold;">令和8年1月より</span>高齢者講習等の料金を下記の通り改定いたします。</p>
+                                <!-- <div class="wrapTableTuition">
                                     <table>
                                         <tr>
                                             <th>70～74歳の方</th>
@@ -212,34 +212,37 @@
                                             <td>8,500円</td>
                                         </tr>
                                     </table>
-                                </div>
+                                </div> -->
                                 <div class="iframeTuitionDiff">
                                     <h5 class="titleSenior">内訳</h5>
                                     <div class="wrapTableTuitionDiff">
                                         <table>
                                             <tr>
                                                 <th>講習等</th>
-                                                <th>料金</th>
+                                                <th>料金(非課税)</th>
                                             </tr>
                                             <tr>
                                                 <td>認知機能検査</td>
-                                                <td><p class="priceTable"><span class="txtPriceTable">1,500円</span></p></td>
+                                                <td><p class="priceTable"><span class="txtPriceTable">2,000円</span></p></td>
                                             </tr>
                                             <tr>
                                                 <td rowspan="2">高齢者講習</td>
-                                                <td><p class="priceTable"><span class="typePriceTable">実車あり（2時間）</span><span class="txtPriceTable">7,000円</span></p></td>
+                                                <td><p class="priceTable"><span class="typePriceTable">実車あり（2時間）</span><span class="txtPriceTable">7,800円</span></p></td>
                                             </tr>
                                             <tr>
-                                                <td><p class="priceTable"><span class="typePriceTable">実車なし（1時間） </span><span class="txtPriceTable">3,000円</span></p></td>
+                                                <td><p class="priceTable"><span class="typePriceTable">実車なし（1時間） </span><span class="txtPriceTable">3,900円</span></p></td>
                                             </tr>
                                             <tr>
                                                 <td>運転技能検査</td>
-                                                <td><p class="priceTable"><span class="txtPriceTable">4,000円</span></p></td>
+                                                <td><p class="priceTable"><span class="txtPriceTable">4,500円</span></p></td>
                                             </tr>
                                         </table>
                                     </div>
                                 </div>
-                                <p class="txtTuition">※公安委員会より郵送される、高齢者講習等のお知らせ「案内ハガキ」に記載されている手数料とは料金が異なります。また、実施教習所によっても異なります。</p>
+                                <p class="txtTuition">
+                                    <!-- ※公安委員会より郵送される、高齢者講習等のお知らせ「案内ハガキ」に記載されている手数料とは料金が異なります。また、実施教習所によっても異なります。 -->
+                                    ※実施教習所により料金は異なります。
+                                </p>
                             </div>
                         </div>
                     </div>

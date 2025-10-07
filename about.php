@@ -540,7 +540,7 @@
                                             </div>
                                         </div>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <h4 class="titleItem">MTとAT、どちらで免許を取ろうかと悩んでますがどう違うのですか？</h4>
                                         <div class="faqAnswer">
                                             <p class="answerAlpha">
@@ -560,7 +560,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </li>
+                                    </li> -->
                                     <li>
                                         <h4 class="titleItem">アルバイト、学校があるんですが、自動車免許は取れますか？</h4>
                                         <div class="faqAnswer">
@@ -595,7 +595,7 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <h4 class="titleItem">クレジットカードはなにが使えますか？（現在一時休止中）</h4>
+                                        <h4 class="titleItem">クレジットカードはなにが使えますか？</h4>
                                         <div class="faqAnswer">
                                             <p class="answerAlpha">
                                                 <img src="assets/images/about/about-faq-icon-a.svg" alt="A">
@@ -663,7 +663,7 @@
                                             </div>
                                         </div>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <h4 class="titleItem">写真を持ち込みたいのですが、どんな写真でもいいんですか？</h4>
                                         <div class="faqAnswer">
                                             <p class="answerAlpha">
@@ -673,7 +673,19 @@
                                                 <p class="faqSub">おこなっております。<br>詳しくは<span class="green"><a href="camp.php">こちら</a></span>をご覧ください。</p>
                                             </div>
                                         </div>
+                                    </li> -->
+                                    <li>
+                                        <h4 class="titleItem">合宿免許はおこなっていますか？</h4>
+                                        <div class="faqAnswer">
+                                            <p class="answerAlpha">
+                                                <img src="assets/images/about/about-faq-icon-a.svg" alt="A">
+                                            </p>
+                                            <div class="answerDetail">
+                                                <p class="faqSub">おこなっております。<br>詳しくは<span class="green"><a href="camp.php">こちら</a></span>をご覧ください。</p>
+                                            </div>
+                                        </div>
                                     </li>
+
                                     <li>
                                         <h4 class="titleItem">インターネットから入校申込み（問い合わせ）をしましたが、自動車学校から確認メールが届かないです。</h4>
                                         <div class="faqAnswer">

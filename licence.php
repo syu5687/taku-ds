@@ -377,7 +377,7 @@
                                             <br>振込みされる場合には、入校者氏名でお願いします。振込手数料は、お客様の負担となります</p>
                                     </li>
                                     <li class="icon">
-                                        <p class="paymentName">クレジットカード<br><span class="red">【現在一時休止中】</span>
+                                        <p class="paymentName">クレジットカード
                                         </p>
                                         <p class="paymentDetail">VISA・マスターがご利用いただけます。
                                             <span class="paymentPhoto">
