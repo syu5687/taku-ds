@@ -462,7 +462,7 @@
                                         </tr>
                                         <tr>
                                             <th class="col">ホテルAZ</th>
-                                            <td>ツインA<br>3食付</td>
+                                            <td>シングルA<br>3食付</td>
                                             <td>ー</td>
                                             <td>266,200円</td>
                                             <td>276,100円</td>
