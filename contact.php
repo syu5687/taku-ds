@@ -35,7 +35,7 @@
         </div>
     </div>
     <style>
-        . optional{
+        .optional{
             display:none;
         }
     </style>
