@@ -696,51 +696,51 @@
                                         <p class="text">小城市牛津町にあるアパートタイプの宿舎です！</p>
                                         <p class="text">2025年11月オープンの新しい施設です。</p>
                                         <p class="text">プライベート充実のアパートタイプで一人暮らし気分を味わえます。<br>料理を楽しんだり、広い浴室でゆったり過ごしたり！<br>是非ご利用ください。</p>
-                                    </div>
-                                    <ul class="listLink">
-                                        <li>
-                                            <a class="popupHotelLink" href="javascript:void(0)">詳しくはこちら</a>
-                                        </li>
-                                    </ul>
-                                    <div class="popupFlowOriginal popupHotel">
-                                        <div class="wrapFlowOriginal">
-                                            <div class="boxOriginal">
-                                                <div class="closePopup">
-                                                    <span></span>
-                                                    <span></span>
-                                                </div>
-                                                <div class="boxContentOriginal">
-                                                    <p class="popupTitle">ドルチェ</p>
-                                                    <p class="storeOriPhoto"><img src="assets/images/camp/hotel-D-big.png" alt="ドルチェ外観"></p>
-                                                    <p class="popupText">
-                                                        「ドルチェ」は自炊のプランです。<br>
-                                                        食事、ベッドメイキング、掃除、ゴミ出しなど身の回りのことはすべてお客様ご自身で行います。<br>
-                                                        衛生上、調味料などの食品類は備え付けておりませんので、必要に応じて各自ご準備ください。
-                                                    </p>
-                                                    <p class="popupText fxppText">
-                                                        1～2名で宿泊できるアパートです。<br>
-                                                        2名宿泊できるお部屋ですが、1人でも利用可能です！（シングル）<br>
-                                                        1人で入校される方も「相部屋」を選択することができます。※この場合同時期にご宿泊の方と一緒のお部屋でご案内いたします。<br>
-                                                        申込み時にお知らせください。
-                                                    </p>
-                                                    <ul class="roomsList">
-                                                        <li>
-                                                            <p class="listImg"><img src="assets/images/camp/room-imgD-1.webp" alt="キッチン" loading="lazy"></p>
-                                                            <p class="listTxt">キッチン</p>
-                                                        </li>
-                                                        <li>
-                                                            <p class="listImg"><img src="assets/images/camp/room-imgD-2.webp" alt="キッチン" loading="lazy"></p>
-                                                            <p class="listTxt">キッチン</p>
-                                                        </li>
-                                                        <li>
-                                                            <p class="listImg"><img src="assets/images/camp/room-imgD-3.webp" alt="リビング" loading="lazy"></p>
-                                                            <p class="listTxt">リビング</p>
-                                                        </li>
-                                                        <li>
-                                                            <p class="listImg"><img src="assets/images/camp/room-imgD-4.webp" alt="浴室" loading="lazy"></p>
-                                                            <p class="listTxt">浴室</p>
-                                                        </li>
-                                                    </ul>
+                                        <ul class="listLink">
+                                            <li>
+                                                <a class="popupHotelLink" href="javascript:void(0)">詳しくはこちら</a>
+                                            </li>
+                                        </ul>
+                                        <div class="popupFlowOriginal popupHotel">
+                                            <div class="wrapFlowOriginal">
+                                                <div class="boxOriginal">
+                                                    <div class="closePopup">
+                                                        <span></span>
+                                                        <span></span>
+                                                    </div>
+                                                    <div class="boxContentOriginal">
+                                                        <p class="popupTitle">ドルチェ</p>
+                                                        <p class="storeOriPhoto"><img src="assets/images/camp/hotel-D-big.png" alt="ドルチェ外観"></p>
+                                                        <p class="popupText">
+                                                            「ドルチェ」は自炊のプランです。<br>
+                                                            食事、ベッドメイキング、掃除、ゴミ出しなど身の回りのことはすべてお客様ご自身で行います。<br>
+                                                            衛生上、調味料などの食品類は備え付けておりませんので、必要に応じて各自ご準備ください。
+                                                        </p>
+                                                        <p class="popupText fxppText">
+                                                            1～2名で宿泊できるアパートです。<br>
+                                                            2名宿泊できるお部屋ですが、1人でも利用可能です！（シングル）<br>
+                                                            1人で入校される方も「相部屋」を選択することができます。<br>※この場合同時期にご宿泊の方と一緒のお部屋でご案内いたします。<br>
+                                                            申込み時にお知らせください。
+                                                        </p>
+                                                        <ul class="roomsList">
+                                                            <li>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-1.webp" alt="キッチン" loading="lazy"></p>
+                                                                <p class="listTxt">キッチン</p>
+                                                            </li>
+                                                            <li>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-2.webp" alt="キッチン" loading="lazy"></p>
+                                                                <p class="listTxt">キッチン</p>
+                                                            </li>
+                                                            <li>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-3.webp" alt="リビング" loading="lazy"></p>
+                                                                <p class="listTxt">リビング</p>
+                                                            </li>
+                                                            <li>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-4.webp" alt="浴室" loading="lazy"></p>
+                                                                <p class="listTxt">浴室</p>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
