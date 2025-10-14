@@ -209,7 +209,7 @@
                                             </div>
                                             <div class="sp">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-2a-sp.webp" alt="福岡県内交通ルート" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-2-sp.webp" alt="福岡県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
                                             </div>
                                         </div>
