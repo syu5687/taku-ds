@@ -168,32 +168,32 @@
                             <div class="contentItem">
                                 <p>
                                     福岡中心より最短で一時間とアクセス抜群！<br>
-                                    JR佐賀駅に集合して自動車学校までは送迎バスで移動するので安心してお越し頂けます。
+                                    JR江北駅に集合して自動車学校までは送迎バスで移動するので安心してお越し頂けます。
                                 </p>
                                 <h4 class="titleItem">交通費支給について</h4>
                                 <p class="fxL">
                                     交通費の支給は指定の交通手段を利用され、かつ実費にかかった領収書（JR・バス・飛行機等）を提示いただいた場合のみ支給されます。<br>
                                     車・タクシーにて来校される場合、交通費は支給できませんのでご注意下さい。<br>
-                                    集合場所は、佐賀駅内ファミリーマート付近です。<br>
-                                    集合時間は12時30分頃です。時間に間に合うよう交通手段を手配してください。<br>
-                                    ​※下記以外の地区は各自お調べのうえお越しください。<br>
-                                    ※ルートは変更になっている場合があります。<br>
+                                    集合場所は、JR江北駅北側ロータリーです。<br>
+                                    集合時間は12時40分頃です。時間に間に合うよう交通手段を手配してください。<br>
+                                    ​※集合場所までは各自お調べのうえお越しください。<br>
+                                    
                                 </p>
                                 <h4 class="titleItem">交通費の上限</h4>
-                                <p class="priceTxt">交通費の上限は、当校指定の交通手段で算出させて頂きます。</p>
+                                <p class="priceTxt">交通費は以下の規定限度額を適用いたします</p>
                                 <ul class="priceList">
                                     <li>
                                         <div class="blockWrap">
                                             <h5 class="titleSenior">佐賀県内</h5>
-                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限3,000円</span></p>
+                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限4,000円</span></p>
                                             <div class="pc">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-1.webp" alt="tpc-1" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-1.webp?1" alt="佐賀県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
                                             </div>
                                             <div class="sp">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-1-sp.webp" alt="tpc-1-sp" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-1-sp.webp?1" alt="佐賀県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
                                             </div>
                                         </div>
@@ -201,21 +201,15 @@
                                     <li>
                                         <div class="blockWrap">
                                             <h5 class="titleSenior">福岡県</h5>
-                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限5,000円</span></p>
+                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限4,000円</span></p>
                                             <div class="pc">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-2a.webp" alt="tpc-2a" loading="eager" fetchpriority="high">
-                                                </p>
-                                                <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-2b.webp" alt="tpc-2b" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-2.webp" alt="福岡県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
                                             </div>
                                             <div class="sp">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-2a-sp.webp" alt="tpc-2a-sp" loading="eager" fetchpriority="high">
-                                                </p>
-                                                <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-2b-sp.webp" alt="tpc-2b-sp" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-2a-sp.webp" alt="福岡県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
                                             </div>
                                         </div>
@@ -223,15 +217,15 @@
                                     <li>
                                         <div class="blockWrap">
                                             <h5 class="titleSenior">長崎県</h5>
-                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限8,000円</span></p>
+                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限4,000円</span></p>
                                             <div class="pc">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-3.webp" alt="tpc-3" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-3.webp" alt="長崎県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
                                             </div>
                                             <div class="sp">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-3-sp.webp" alt="tpc-3-sp" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-3-sp.webp" alt="長崎県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
                                             </div>
                                         </div>
@@ -239,16 +233,16 @@
                                     <li>
                                         <div class="blockWrap">
                                             <h5 class="titleSenior">熊本県</h5>
-                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限6,000円</span></p>
+                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限4,000円</span></p>
                                             <div class="pc">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-4.webp" alt="tpc-4" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-4.webp" alt="熊本県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
 
                                             </div>
                                             <div class="sp">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-4-sp.webp" alt="tpc-4-sp" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-4-sp.webp" alt="熊本県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
                                             </div>
                                         </div>
@@ -256,21 +250,15 @@
                                     <li>
                                         <div class="blockWrap">
                                             <h5 class="titleSenior">大分県</h5>
-                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限10,000円</span></p>
+                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限4,000円</span></p>
                                             <div class="pc">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-5a.webp" alt="tpc-5a" loading="eager" fetchpriority="high">
-                                                </p>
-                                                <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-5b.webp" alt="tpc-5b" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-5.webp" alt="大分県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
                                             </div>
                                             <div class="sp">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-5a-sp.webp" alt="tpc-5a-sp" loading="eager" fetchpriority="high">
-                                                </p>
-                                                <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-5b-sp.webp" alt="tpc-5b-sp" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-5-sp.webp" alt="大分県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
                                             </div>
                                         </div>
@@ -278,21 +266,15 @@
                                     <li>
                                         <div class="blockWrap">
                                             <h5 class="titleSenior">宮崎県</h5>
-                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限12,000円</span></p>
+                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限5,000円</span></p>
                                             <div class="pc">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-6a.webp" alt="tpc-6a" loading="eager" fetchpriority="high">
-                                                </p>
-                                                <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-6b.webp" alt="tpc-6b" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-6.webp" alt="宮崎県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
                                             </div>
                                             <div class="sp">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-6a-sp.webp" alt="tpc-6a-sp" loading="eager" fetchpriority="high">
-                                                </p>
-                                                <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-6b-sp.webp" alt="tpc-6b-sp" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-6-sp.webp" alt="宮崎県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
                                             </div>
                                         </div>
@@ -300,16 +282,16 @@
                                     <li>
                                         <div class="blockWrap">
                                             <h5 class="titleSenior">鹿児島県</h5>
-                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限12,000円</span></p>
+                                            <p class="blockTxt">交通費支給額：<span class="red bold">往復上限5,000円</span></p>
                                             <div class="pc">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-7.webp" alt="tpc-7" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-7.webp" alt="鹿児島県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
 
                                             </div>
                                             <div class="sp">
                                                 <p class="tpcImg">
-                                                    <img src="assets/images/camp/tpc-7-sp.webp" alt="tpc-7-sp" loading="eager" fetchpriority="high">
+                                                    <img src="assets/images/camp/tpc-7-sp.webp" alt="鹿児島県内交通ルート" loading="eager" fetchpriority="high">
                                                 </p>
                                             </div>
                                         </div>
@@ -320,16 +302,16 @@
                         <div class="wrapBasicPlan meeting" id="meetDateTime">
                             <h3 class="titleItemContent">集合場所について</h3>
                             <div class="contentItem">
-                                <div class="blockWrap">
+                                <!-- <div class="blockWrap">
                                     <p class="campLocate">
                                         <img src="assets/images/camp/camp-location.webp" alt="camp-location">
                                     </p>
-                                </div>
+                                </div> -->
                                 <div class="tableWrap">
                                     <table>
                                         <tr>
-                                            <th>集合時刻</th>
-                                            <td>12:30</td>
+                                            <th>集合場所</th>
+                                            <td>JR江北駅北側ロータリー</td>
                                         </tr>
                                         <tr>
                                             <th>集合時刻</th>
@@ -337,10 +319,10 @@
                                         </tr>
                                     </table>
                                 </div>
-                                <p class="cter bold">※JR佐賀駅構内のファミリーマート前でお待ちください。</p>
+                                <!-- <p class="cter bold">※JR佐賀駅構内のファミリーマート前でお待ちください。</p> -->
                                 <p class="cter">
-                                    1.交通費はご卒業時に往復分を上限額まで支給致します。<br>
-                                    2.チケットは、お客様のほうで手配をお願いします。<br>
+                                    1.交通費はご卒業時に往復分を上限額まで支給致します。（上限を超えた差額分はお客様負担となります）<br>
+                                    2.チケットは、ご自身で手配をお願いします。<br>
                                     3.<span class="red bold">必ず領収書をご持参ください</span>
                                 </p>
                                 <div class="campInfoWrap cter">
@@ -353,7 +335,7 @@
                                             </tr>
                                             <tr>
                                                 <th>集合場所</th>
-                                                <td>ご入校当日の13：30までに、受付窓口へ直接お越しください。</td>
+                                                <td>ご入校当日の13：00までに、受付窓口へ直接お越しください。</td>
                                             </tr>
                                         </table>
                                     </div>
@@ -647,13 +629,13 @@
                                                         <p class="popupText">
                                                             シェアハウス「シャロン」は自炊のプランです。<br>
                                                             食事、ベッドメイキング、掃除、ゴミ出しなど身の回りのことはすべてお客様ご自身で行います。<br>
-                                                            衛生上、調味料などの食品類は備え付けておりませんので、必要に応じて各自ご準備ください。<br>
-                                                            「昼食のみ」を選択していただくと、昼食は自動車学校でご用意いたします。
+                                                            衛生上、調味料などの食品類は備え付けておりませんので、必要に応じて各自ご準備ください。
+                                                            
                                                         </p>
                                                         <p class="popupText fxppText">
                                                             各個室２名ずつの３部屋、最大６名が宿泊できる施設です。<br>
-                                                            「１人部屋」を選択された場合は２名用のお部屋に1人で宿泊することになります。<br>
-                                                            1人で入校される方も「2人部屋」を選択することができます。※この場合、同時期にご宿泊の方と一緒のお部屋でご案内いたします。
+                                                            2名用のお部屋を1人でも利用可能です！（シングル）<br>
+                                                            1人で入校される方も「相部屋」を選択することができます。※この場合、同時期にご宿泊の方と一緒のお部屋でご案内いたします。<br>お申し込み時にお知らせください。
                                                         </p>
                                                         <ul class="roomsList">
                                                             <li>

@@ -34,11 +34,6 @@
             </div>
         </div>
     </div>
-    <style>
-        iframe .form-fieldset .form-group:last-child{
-            display:none;
-        }
-    </style>
     <script src="https://business.form-mailer.jp/formfiles/js/embed.js"></script>
 </div>
 <?php include 'footer.php'; ?>
