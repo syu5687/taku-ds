@@ -35,7 +35,7 @@
         </div>
     </div>
     <style>
-        .optional{
+        iframe .form-fieldset .form-group:last-child{
             display:none;
         }
     </style>
