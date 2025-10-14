@@ -1,8 +1,8 @@
 <?php include 'header.php'; ?>
 <div id="content">
     <div class="wrapTitlePage">
-        <h2 class="titlePage">CONTACT</h2>
-        <p class="subTitlePage">入校申込み・お問い合わせ・資料請求</p>
+        <h2 class="titlePage">【テストページ】CONTACT</h2>
+        <p class="subTitlePage">【テストページ】入校申込み・お問い合わせ・資料請求</p>
     </div>
     <div class="areaContactForm">
         <div class="inner">
@@ -19,12 +19,12 @@
                                     <li>●資料請求は担当者とのヒアリング後の発送となります。</li>
                                     <li>●資料請求の場合はお届けまでに1週間程度お時間をいただきます。</li>
                                 </ul>
-                                <h3 class="titleItemContent">お問い合わせフォーム</h3>
+                                <h3 class="titleItemContent">【テストページ】お問い合わせフォーム</h3>
                                 <div class="contentItem">
                                     <h4 class="titleItem"></h4>
                                     <div class="boxContactForm">
                                         <p class="txtContact"></p>
-                                        <div class="formmailer-embed" data-form-hash="6d5f5d12301332" data-form-host="business.form-mailer.jp"></div>
+                                        <div class="formmailer-embed" data-form-hash="f48c7a5a314168" data-form-host="business.form-mailer.jp"></div>
                                     </div>
                                 </div>
                             </div>
