@@ -14,11 +14,11 @@
                 <div class="contentTab">
                     <div class="itemTab" id="noticeNews">
                         <div class="wrapBasicPlan" id="noticeNews001">
-                            <h3 class="titleItemContent">教習スケジュール制度導入のお知らせ</h3>
+                            <h3 class="titleItemContent" id="noticeNewsTitle001">教習スケジュール制度導入のお知らせ</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
                                     <div class="boxNews">
-                                        <p class="timeNews">2025.08.01</p>
+                                        <p class="timeNews" id="noticeNewsDate001">2025.08.01</p>
                                         <p class="txtNoticeNews">お知らせ</p>
                                     </div>
                                     <div class="boxContentNews">
@@ -31,11 +31,11 @@
                             </div>
                         </div>
                         <div class="wrapBasicPlan" id="noticeNews002">
-                            <h3 class="titleItemContent">仮免申請料等の料金改定について</h3>
+                            <h3 class="titleItemContent" id="noticeNewsTitle002">仮免申請料等の料金改定について</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
                                     <div class="boxNews">
-                                        <p class="timeNews">2025.08.01</p>
+                                        <p class="timeNews" id="noticeNewsDate002">2025.08.01</p>
                                         <p class="txtNoticeNews">お知らせ</p>
                                     </div>
                                     <div class="boxContentNews">
@@ -55,7 +55,7 @@
                             <div class="contentItem">
                                 <div class="iframeNews">
                                     <div class="boxNews">
-                                        <p class="timeNews">2025.08.01</p>
+                                        <p class="timeNews" id="noticeNewsDate003">2025.08.01</p>
                                         <p class="txtNoticeNews">お知らせ</p>
                                     </div>
                                     <div class="boxContentNews">
@@ -67,11 +67,11 @@
                             </div>
                         </div>
                         <div class="wrapBasicPlan" id="noticeNews004">
-                            <h3 class="titleItemContent">感染症等の対策について</h3>
+                            <h3 class="titleItemContent" id="noticeNewsTitle004">感染症等の対策について</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
                                     <div class="boxNews">
-                                        <p class="timeNews">2025.08.01</p>
+                                        <p class="timeNews" id="noticeNewsDate004">2025.08.01</p>
                                         <p class="txtNoticeNews">お知らせ</p>
                                     </div>
                                     <div class="boxContentNews">
