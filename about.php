@@ -590,7 +590,7 @@
                                                 <img src="assets/images/about/about-faq-icon-a.svg" alt="A">
                                             </p>
                                             <div class="answerDetail">
-                                                <p class="faqSub"><strong>銀行振込・<span class="line">クレジットカード</span></strong>・ローンの中からお選びいただけます。<br><span class="green"><a href="licence.php?tab=price#_price-payment">お支払い方法</a></span>についてをご覧ください。</p>
+                                                <p class="faqSub"><strong>銀行振込・クレジットカード</strong>・ローンの中からお選びいただけます。<br><span class="green"><a href="licence.php?tab=price#_price-payment">お支払い方法</a></span>についてをご覧ください。</p>
                                             </div>
                                         </div>
                                     </li>
