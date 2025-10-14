@@ -34,6 +34,11 @@
             </div>
         </div>
     </div>
+    <style>
+        . optional{
+            display:none;
+        }
+    </style>
     <script src="https://business.form-mailer.jp/formfiles/js/embed.js"></script>
 </div>
 <?php include 'footer.php'; ?>
