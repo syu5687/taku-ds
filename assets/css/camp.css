@@ -789,24 +789,42 @@ body.fixed {
 .bold {
     font-weight: bold;
 }
-.cautionBox{
+dl.cautionBox{
    width: 100%;
    margin:15px auto;
    display: flex;
    padding: 15px 5px;
    flex-direction: row;
 }
-.cautionBox .cautionBoxL,
-.cautionBox .cautionBoxR{
-   width: 50%;
+dl.cautionBox .cautionBoxItem{
+   position: relative;
+   display: flex;
+   justify-content: space-between;
+   margin: 5px 0;
+   padding: 5px 0;
 }
-.cautionBox .cautionBoxL{
-   text-align: left;
-   padding: 0 0 0 5px;
+dl.cautionBox span::after{
+  content: "";
+  display: block;
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+  width: 100%;
+  border-bottom: dotted 1px #000;
 }
-.cautionBox .cautionBoxR{
-   text-align: right;
-   padding: 0 5px 0 0;
+dl.cautionBox dt{
+  margin:0;
+  padding: 0 5px 0 0;
+  background-color: #ffffff;
+  z-index: 2;
+  text-align: left;
+}
+dl.cautionBox dd{
+  margin:0;
+  padding: 0 0 0 5px;
+  background-color: #ffffff;
+  z-index: 2;
+  text-align: right;
 }
 .small{
    font-size: 0.7rem;
