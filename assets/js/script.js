@@ -184,6 +184,10 @@ $(document).ready(function() {
         $(".popupHotel").addClass('showPopup');
         $('body').addClass('fixed');
     });
+    $(".popupHotelLink2").click(function() {
+        $(".popupHotel2").addClass('showPopup');
+        $('body').addClass('fixed');
+    });
     $(".closePopup").click(function() {
         $(".popupHotel").removeClass('showPopup');
         $('body').removeClass('fixed');

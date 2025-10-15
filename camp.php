@@ -702,10 +702,10 @@
                                         <p class="text">プライベート充実のアパートタイプで一人暮らし気分を味わえます。<br>料理を楽しんだり、広い浴室でゆったり過ごしたり！<br>是非ご利用ください。</p>
                                         <ul class="listLink">
                                             <li>
-                                                <a class="popupHotelLink" href="javascript:void(0)">詳しくはこちら</a>
+                                                <a class="popupHotelLink2" href="javascript:void(0)">詳しくはこちら</a>
                                             </li>
                                         </ul>
-                                        <div class="popupFlowOriginal popupHotel">
+                                        <div class="popupFlowOriginal popupHotel2">
                                             <div class="wrapFlowOriginal">
                                                 <div class="boxOriginal">
                                                     <div class="closePopup">
