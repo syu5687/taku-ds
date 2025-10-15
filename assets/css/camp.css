@@ -638,7 +638,7 @@ body.fixed {
     
 }
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .popupTitle,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal {
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .popupTitle {
     font-size: 53px; 
     font-weight: bold;
     line-height: 1.433;
@@ -646,7 +646,7 @@ body.fixed {
     margin-bottom: 34px;
 }
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .storeOriPhoto,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal{
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .storeOriPhoto{
     max-width: 1106px;
     width: 100%;
     margin: 0 auto 47px;
