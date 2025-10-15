@@ -792,9 +792,9 @@ body.fixed {
 dl.cautionBox{
    width: 100%;
    margin:15px auto;
-   display: flex;
+   
    padding: 15px 5px;
-   flex-direction: row;
+   
 }
 dl.cautionBox div.cautionBoxItem{
    position: relative;
