@@ -789,6 +789,25 @@ body.fixed {
 .bold {
     font-weight: bold;
 }
+.cautionBox{
+   width: 100%;
+   margin:15px auto;
+   display: flex;
+   padding: 15px 5px;
+   flex-direction: row;
+}
+.cautionBox .cautionBoxL,
+.cautionBox .cautionBoxR{
+   width: 50%;
+}
+.cautionBox .cautionBoxL{
+   text-align: left;
+   padding: 0 0 0 5px;
+}
+.cautionBox .cautionBoxR{
+   text-align: right;
+   padding: 0 5px 0 0;
+}
 
 @media (min-width: 769px) {
     .enrollLink a:hover {
