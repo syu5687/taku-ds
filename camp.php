@@ -302,7 +302,7 @@
                                     ◎長崎県壱岐・対馬・五島<br>
                                     ◎山口県<br>
                                     ◎沖縄県<br>
-                                    ◎中国（山口県を除く）・四国<br>
+                                    ◎中国<span class="small">(山口県を除く)</span>・四国<br>
                                     ◎関西以北
                                 </p>
                                 <p class="cautionBoxR">
