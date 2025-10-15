@@ -301,19 +301,19 @@
                                     <span class="cautionBoxItem">
                                         <dt>◎長崎県壱岐・対馬・五島</dt>
                                         <dd>往復上限5,000円</dd>
-                                    </span>
+                                    </span><br>
                                     <span class="cautionBoxItem">
                                         <dt>◎山口県</dt>
                                         <dd>往復上限7,000円</dd>
-                                    </span>
+                                    </span><br>
                                     <span class="cautionBoxItem">
                                         <dt>◎沖縄県</dt>
                                         <dd>往復上限10,000円</dd>
-                                    </span>
+                                    </span><br>
                                     <span class="cautionBoxItem">
                                         <dt>◎中国<span class="small">(山口県を除く)</span>・四国</dt>
                                         <dd>往復上限10,000円</dd>
-                                    </span>
+                                    </span><br>
                                     <span class="cautionBoxItem">
                                         <dt>◎関西以北</dt>
                                         <dd>往復上限10,000円</dd>
