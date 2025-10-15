@@ -297,23 +297,28 @@
                                         </div>
                                     </li>
                                 </ul>
-                                <div class="cautionBox">
-                                <p class="cautionBoxL">
-                                    ◎長崎県壱岐・対馬・五島<br>
-                                    ◎山口県<br>
-                                    ◎沖縄県<br>
-                                    ◎中国<span class="small">(山口県を除く)</span>・四国<br>
-                                    ◎関西以北
-                                </p>
-                                <p class="cautionBoxR">
-                                    往復上限5,000円<br>
-                                    往復上限7,000円<br>
-                                    往復上限10,000円<br>
-                                    往復上限10,000円<br>
-                                    往復上限10,000円
-                                </p>
-
-                                </div>
+                                <dl class="cautionBox">
+                                    <span class="cautionBoxItem">
+                                        <dt>◎長崎県壱岐・対馬・五島</dt>
+                                        <dd>往復上限5,000円</dd>
+                                    </span>
+                                    <span class="cautionBoxItem">
+                                        <dt>◎山口県</dt>
+                                        <dd>往復上限7,000円</dd>
+                                    </span>
+                                    <span class="cautionBoxItem">
+                                        <dt>◎沖縄県</dt>
+                                        <dd>往復上限10,000円</dd>
+                                    </span>
+                                    <span class="cautionBoxItem">
+                                        <dt>◎中国<span class="small">(山口県を除く)</span>・四国</dt>
+                                        <dd>往復上限10,000円</dd>
+                                    </span>
+                                    <span class="cautionBoxItem">
+                                        <dt>◎関西以北</dt>
+                                        <dd>往復上限10,000円</dd>
+                                    </span>
+                                </dl>
                             </div>
                         </div>
                         <div class="wrapBasicPlan meeting" id="meetDateTime">
