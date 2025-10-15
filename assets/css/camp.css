@@ -796,14 +796,14 @@ dl.cautionBox{
    padding: 15px 5px;
    flex-direction: row;
 }
-dl.cautionBox .cautionBoxItem{
+dl.cautionBox div.cautionBoxItem{
    position: relative;
    display: flex;
    justify-content: space-between;
    margin: 5px 0;
    padding: 5px 0;
 }
-dl.cautionBox span::after{
+dl.cautionBox div.cautionBoxItem::after{
   content: "";
   display: block;
   position: absolute;
