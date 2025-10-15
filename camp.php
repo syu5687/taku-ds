@@ -297,6 +297,23 @@
                                         </div>
                                     </li>
                                 </ul>
+                                <div class="cautionBox">
+                                <p class="cautionBoxL">
+                                    ◎長崎県壱岐・対馬・五島<br>
+                                    ◎山口県<br>
+                                    ◎沖縄県<br>
+                                    ◎中国（山口県を除く）・四国<br>
+                                    ◎関西以北
+                                </p>
+                                <p class="cautionBoxR">
+                                    往復上限5,000円<br>
+                                    往復上限7,000円<br>
+                                    往復上限10,000円<br>
+                                    往復上限10,000円<br>
+                                    往復上限10,000円
+                                </p>
+
+                                </div>
                             </div>
                         </div>
                         <div class="wrapBasicPlan meeting" id="meetDateTime">
