@@ -808,6 +808,9 @@ body.fixed {
    text-align: right;
    padding: 0 5px 0 0;
 }
+.small{
+   font-size: 0.7rem;
+}
 
 @media (min-width: 769px) {
     .enrollLink a:hover {
