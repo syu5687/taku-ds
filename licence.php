@@ -197,53 +197,58 @@
                                                 <tr>
                                                     <th rowspan="2">車種</th>
                                                     <th rowspan="2">現有免許</th>
-                                                    <th colspan="2">教習時限</th>
+                                                    <th colspan="3">教習時限</th>
                                                     <th rowspan="2">支払額<br>（税込）</th>
                                                     <th rowspan="2">仮免許<br>受験手数料<br>（非課税）</th>
                                                     <th rowspan="2">仮免許証<br>交付手数料<br>（非課税）</th>
                                                     <th class="yellow" rowspan="2">総額</th>
                                                 </tr>
                                                 <tr>
-                                                    <th>技能</th>
-                                                    <th>学科</th>
+                                                    <th>技能教習</th>
+                                                    <th>MT教習</th>
+                                                    <th>学科教習</th>
                                                 </tr>
                                                 <tr>
                                                     <th rowspan="2">普通免許<br>(MT)</th>
                                                     <td>免なし</td>
-                                                    <td class="dashedRight">34</td>
+                                                    <td class="dashedRight">31</td>
+                                                    <td class="dashedLeft">4</td>
                                                     <td class="dashedLeft">26</td>
-                                                    <td>338,470円</td>
+                                                    <td>352,110円</td>
                                                     <td class="dashedRight">1,800円</td>
                                                     <td class="dashedLeft">1,100円</td>
-                                                    <td class="total">341,370円</td>
+                                                    <td class="total">355,010円</td>
                                                 </tr>
                                                 <tr>
                                                     <td>自二免</td>
-                                                    <td class="dashedRight">32</td>
+                                                    <td class="dashedRight">29</td>
+                                                    <td class="dashedLeft">4</td>
                                                     <td class="dashedLeft">2</td>
-                                                    <td>270,160円</td>
+                                                    <td>283,360円</td>
                                                     <td class="dashedRight">1,800円</td>
                                                     <td class="dashedLeft">1,100円</td>
-                                                    <td class="total">273,060円</td>
+                                                    <td class="total">286,260円</td>
                                                 </tr>
                                                 <tr>
                                                     <th rowspan="2">普通免許<br>(AT)</th>
                                                     <td>免なし</td>
                                                     <td class="dashedRight">31</td>
+                                                    <td class="dashedLeft">-</td>
                                                     <td class="dashedLeft">26</td>
-                                                    <td>315,810円</td>
+                                                    <td>322,630円</td>
                                                     <td class="dashedRight">1,800円</td>
                                                     <td class="dashedLeft">1,100円</td>
-                                                    <td class="total">318,710円</td>
+                                                    <td class="total">325,530円</td>
                                                 </tr>
                                                 <tr>
                                                     <td>自二免</td>
                                                     <td class="dashedRight">29</td>
+                                                    <td class="dashedLeft">-</td>
                                                     <td class="dashedLeft">2</td>
-                                                    <td>247,500円</td>
+                                                    <td>253,880円</td>
                                                     <td class="dashedRight">1,800円</td>
                                                     <td class="dashedLeft">1,100円</td>
-                                                    <td class="total">250,400円</td>
+                                                    <td class="total">256,780円</td>
                                                 </tr>
                                                 <!-- <tr>
                                                     <th>普通免許<br>(AT・MT)</th>
