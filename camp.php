@@ -729,15 +729,15 @@
                                                         </p>
                                                         <ul class="roomsList">
                                                             <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-1.webp" alt="キッチン" loading="lazy"></p>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-1.webp?1" alt="キッチン" loading="lazy"></p>
                                                                 <p class="listTxt">キッチン</p>
                                                             </li>
                                                             <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-2.webp" alt="キッチン" loading="lazy"></p>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-2.webp?1" alt="キッチン" loading="lazy"></p>
                                                                 <p class="listTxt">キッチン</p>
                                                             </li>
                                                             <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-3.webp" alt="リビング" loading="lazy"></p>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-3.webp?1" alt="リビング" loading="lazy"></p>
                                                                 <p class="listTxt">リビング</p>
                                                             </li>
                                                             <li>
