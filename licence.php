@@ -222,7 +222,7 @@
                                                 <tr>
                                                     <td>自二免</td>
                                                     <td class="dashedRight">29</td>
-                                                    <td style="border-style:none dashed none;">4</td>
+                                                    <td style="border-style:none dashed solid;">4</td>
                                                     <td class="dashedLeft">2</td>
                                                     <td>283,360円</td>
                                                     <td class="dashedRight">1,800円</td>
