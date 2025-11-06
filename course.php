@@ -25,7 +25,7 @@
                                     <div class="boxVariousLeft">
                                         <p class="txtVarious">現在普通免許をお持ちの方で、長い期間車に乗ってないため 公道を走るのが不安な方、もう一度教習をうけ自信をつけたい方へ。<br>当校では場内コースや路上での運転で再教習いたします。<br><br>※時期によって、お申込みいただけない場合もございます。お問合せください。</p>
                                         <div class="wrapNoteVarious">
-                                            <p class="trainFeeVarious">技能教習料（1時限）・・・5,720円（税込）</p>
+                                            <p class="trainFeeVarious">技能教習料（1時限）・・・5,940円（税込）</p>
                                             <p class="txtNoteVarious">※夜間教習（17：30以降の教習）をご希望の場合は、1時間につき手数料を別途申し受けます。</p>
                                         </div>
                                     </div>
