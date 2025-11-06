@@ -245,7 +245,7 @@
                                                     <td class="dashedLeft">1,100円</td>
                                                     <td class="total">250,400円</td>
                                                 </tr>
-                                                <tr>
+                                                <!-- <tr>
                                                     <th>普通免許<br>(AT・MT)</th>
                                                     <td>仮免許</td>
                                                     <td class="dashedRight">19</td>
@@ -254,7 +254,7 @@
                                                     <td class="dashedRight">—</td>
                                                     <td class="dashedLeft">—</td>
                                                     <td class="total">208,560円</td>
-                                                </tr>
+                                                </tr> -->
                                             </table>
                                         </div>
                                         <p class="tableNote sp">←横にスクロールできます→</p>
@@ -267,7 +267,7 @@
                                                 <th rowspan="2">車種</th>
                                                 <th rowspan="2">所持</th>
                                                 <th colspan="2">教習時限</th>
-                                                <th class="yellow" rowspan="2">支払額<br>（税込）</th>
+                                                <!-- <th class="yellow" rowspan="2">支払額<br>（税込）</th> -->
                                             </tr>
                                             <tr>
                                                 <th>技能</th>
@@ -278,7 +278,7 @@
                                                 <td>普通免許（AT)</td>
                                                 <td class="dashedRight">4</td>
                                                 <td class="dashedLeft">0</td>
-                                                <td class="total">46,200円</td>
+                                                <!-- <td class="total">46,200円</td> -->
                                             </tr>
                                         </table>
                                         </div>
@@ -286,7 +286,7 @@
                                     </div>
                                 </div>
                                 <ul class="regularList">
-                                    <li class="red">学生割引税込5,500円!!</li>
+                                    <li class="red">学生割引 5,000円</li>
                                     <li>上記料金は規定時限で卒業された場合の教習料金となリます。</li>
                                     <li>規定時限を超えた技能教習及び検定補習、又は再受験料・仮免学科試験料は追加料金が発生いたします。</li>
                                     <li>17時30分以降の夜間技能教習は夜間料が発生します。但し、学生は無料です。<br>1時限につき1,100円（税込）が必要になリます。学科教習については、夜間料金は発生しません。<br>入校時にお預かりした夜間料の未使用分は卒業時に返金致します。
