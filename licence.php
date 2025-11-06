@@ -329,7 +329,7 @@
                                                         <th class="fs14 prevSpace">技能</th>
                                                         <th class="fs14 nextSpace">学科</th>
                                                     </tr>
-                                                    <tr>
+                                                    <tr style="border-bottom:2px solid #000;">
                                                         <th>普通免許</th>
                                                         <td>60,500円</td>
                                                         <td>3,080円</td>
