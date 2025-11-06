@@ -312,7 +312,7 @@
                                                         <th rowspan="2" class="space"></th>
                                                         <th colspan="2" class="fs14 nextSpace">教習料<br>（１時間当たり）</th>
                                                         <th rowspan="2" class="space"></th>
-                                                        <th rowspan="2" class="nextSpace">再検定料金</th>
+                                                        <th rowspan="2" colspan="2" class="nextSpace">再検定料金</th>
                                                     </tr>
                                                     <tr>
                                                         <th>適性代</th>
@@ -325,8 +325,8 @@
                                                         <th class="fs14 nextSpace">学科</th>
                                                     </tr>
                                                     <tr>
-                                                        <th>普通免許<br>(MT)</th>
-                                                        <td>66,000円</td>
+                                                        <th>普通免許</th>
+                                                        <td>60,500円</td>
                                                         <td>3,080円</td>
                                                         <td>1,320円</td>
                                                         <td>1,100円</td>
@@ -334,12 +334,13 @@
                                                         <td>3,300円</td>
                                                         <td class="nextSpace">880円</td>
                                                         <td class="space"></td>
-                                                        <td>5,720円</td>
+                                                        <td>5,940円</td>
                                                         <td class="nextSpace">2,200円</td>
                                                         <td class="space"></td>
                                                         <td>修了検定<br>4,950円</td>
+                                                        <td>卒業検定<br>5,720円</td>
                                                     </tr>
-                                                    <tr>
+                                                    <!-- <tr>
                                                         <th>普通免許<br>(AT)</th>
                                                         <td>60,500円</td>
                                                         <td>3,080円</td>
@@ -353,7 +354,7 @@
                                                         <td class="nextSpace">2,200円</td>
                                                         <td class="space"></td>
                                                         <td>卒業検定<br>5,720円</td>
-                                                    </tr>
+                                                    </tr> -->
                                                 </table>
                                             </div>
                                             <p class="tableNote sp">←横にスクロールできます→</p>
