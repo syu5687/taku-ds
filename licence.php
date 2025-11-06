@@ -212,7 +212,7 @@
                                                     <th rowspan="2">普通免許<br>(MT)</th>
                                                     <td>免なし</td>
                                                     <td class="dashedRight">31</td>
-                                                    <td style="borderstyle:none dashed none;">4</td>
+                                                    <td style="border-style:none dashed none;">4</td>
                                                     <td class="dashedLeft">26</td>
                                                     <td>352,110円</td>
                                                     <td class="dashedRight">1,800円</td>
@@ -222,7 +222,7 @@
                                                 <tr>
                                                     <td>自二免</td>
                                                     <td class="dashedRight">29</td>
-                                                    <td style="borderstyle:none dashed none;">4</td>
+                                                    <td style="border-style:none dashed none;">4</td>
                                                     <td class="dashedLeft">2</td>
                                                     <td>283,360円</td>
                                                     <td class="dashedRight">1,800円</td>
@@ -233,7 +233,7 @@
                                                     <th rowspan="2">普通免許<br>(AT)</th>
                                                     <td>免なし</td>
                                                     <td class="dashedRight">31</td>
-                                                    <td style="borderstyle:none dashed none;">-</td>
+                                                    <td style="border-style:none dashed none;">-</td>
                                                     <td class="dashedLeft">26</td>
                                                     <td>322,630円</td>
                                                     <td class="dashedRight">1,800円</td>
@@ -243,7 +243,7 @@
                                                 <tr>
                                                     <td>自二免</td>
                                                     <td class="dashedRight">29</td>
-                                                    <td style="borderstyle:none dashed none;">-</td>
+                                                    <td style="border-style:none dashed none;">-</td>
                                                     <td class="dashedLeft">2</td>
                                                     <td>253,880円</td>
                                                     <td class="dashedRight">1,800円</td>
