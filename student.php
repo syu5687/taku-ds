@@ -204,7 +204,7 @@
                             <h3 class="titleItemContent">運行表</h3>
                             <div class="contentItem fxFlex">
                                 <p class="scheduleText">
-                                    自動車学校で入り口に掲示しています。<br>
+                                    自動車学校出入り口に掲示しています。<br>
                                     乗車人数や道路状況により到着時間は前後します。<br>
                                     送迎バスのご利用を希望される方はお知らせください。在校生の方は送迎バスの予約アプリからご予約いただけます。
                                     <br>
