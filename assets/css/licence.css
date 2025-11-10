@@ -885,8 +885,7 @@
 }
 .licenceOverview .overList li .overBox .overSub .noteMT {
     display: block;
-    margin-left: 32px;
-    font-size: 14px;
+    margin-left: 11px;
 }
 .licenceOverview .overList li .overBox .overSub .noteadd {
     border: 1px solid #EF5350;
