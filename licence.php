@@ -272,7 +272,7 @@
                                                 <th rowspan="2">車種</th>
                                                 <th rowspan="2">所持</th>
                                                 <th colspan="2">教習時限</th>
-                                                <!-- <th class="yellow" rowspan="2">支払額<br>（税込）</th> -->
+                                                <th class="yellow" rowspan="2">支払額<br>（税込）</th>
                                             </tr>
                                             <tr>
                                                 <th>技能</th>
@@ -283,7 +283,7 @@
                                                 <td>普通免許（AT)</td>
                                                 <td class="dashedRight">4</td>
                                                 <td class="dashedLeft">0</td>
-                                                <!-- <td class="total">46,200円</td> -->
+                                                <td class="total">47,080円</td>
                                             </tr>
                                         </table>
                                         </div>
@@ -500,7 +500,7 @@
                         <div class="wrapBasicPlan planSafety" id="plan-safety">
                             <h3 class="titleItemContent">安心パック</h3>
                             <div class="contentItem">
-                                <p class="planSub">入校日から各パック時限数までの補習料金を保証致します。<span class="colRed">（通常1時限につき5,720円）</span><br><br>
+                                <p class="planSub">入校日から各パック時限数までの補習料金を保証致します。<span class="colRed">（通常1時限につき5,940円）</span><br><br>
                                 <span class="colGreen">運転するのが不安・・・<br>補習がたくさんついてしまうかも・・・ </span><br><br>
                                 と、いうように運転技術に自身が無い方に、安心して教習に専念して頂けるパックです。
                                 </p>
@@ -516,9 +516,9 @@
                                             </tr>
                                             <tr>
                                                 <th>パック料金</th>
-                                                <td>8,530円</td>
-                                                <td>14,300円</td>
-                                                <td>28,600円</td>
+                                                <td>8,910円</td>
+                                                <td>14,850円</td>
+                                                <td>29,700円</td>
                                             </tr>
                                             <tr>
                                                 <th>保証時限数</th>
@@ -606,10 +606,11 @@
                                             </p>
                                             <p class="overSub"><span class="red">場内にて教習を行います。</span><br><br>
                                                 【場内教習】<br>
-                                                <span class="green">学科…</span>MT・AT→2〜10教程<br>
+                                                <span class="green">学科…</span>2〜10教程<br>
                                                 <span class="note">（学科受講後、模擬（筆記）テストを行います）</span>
-                                                <span class="green">技能…</span>MT→15時限、AT→12時限<span
-                                                    class="fs14">（最短時限）</span>
+                                                <span class="green">技能…</span>AT車→12時限<span class="fs14">（最短時限）</span>
+                                                <span class="noteadd">2025年4月よりMT免許取得に関する法律が改正されました。<br>当校では「AT教習+AT限定解除」でのMT免許取得となります。
+                                                </span>
                                             </p>
                                         </div>
                                     </li>
@@ -625,7 +626,7 @@
                                                 <img src="assets/images/licence/licence-overview-photo-03.webp" alt="修了検定・仮免試験" loading="lazy" >
                                             </p>
                                             <p class="overSub">
-                                                場内にて技能検定を行い、<br>合格されたら仮免試験に進みます。<br>仮免試験（筆記）に合格されると<br>仮免許証が交付されます。</p>
+                                                路上にて技能検定を行い、<br>合格されたら仮免試験に進みます。<br>仮免試験（筆記）に合格されると<br>仮免許証が交付されます。</p>
                                         </div>
                                     </li>
                                     <li>
@@ -639,11 +640,11 @@
                                             <p class="overPhoto">
                                                 <img src="assets/images/licence/licence-overview-photo-04.webp" alt="第2段階" loading="lazy">
                                             </p>
-                                            <p class="overSub"><span class="red">場内にて教習を行います。</span><br><br>
-                                                【場内教習】<br>
-                                                <span class="green">学科…</span>MT・AT→11~26教程<br>
+                                            <p class="overSub"><span class="red">路上にて教習を行います。</span><br><br>
+                                                【路上教習】<br>
+                                                <span class="green">学科…</span>11~26教程<br>
                                                 <span class="note">（学科受講後、模擬（筆記）テストを行います）</span>
-                                                <span class="green">技能…</span>MT・AT→19時限<span class="fs14">（最短時限）</span>
+                                                <span class="green">技能…</span>AT車→19時限<span class="fs14">（最短時限）</span>
                                             </p>
                                         </div>
                                     </li>
@@ -658,7 +659,12 @@
                                             <p class="overPhoto">
                                                 <img src="assets/images/licence/licence-overview-photo-05.webp" alt="卒業検定" loading="lazy">
                                             </p>
-                                            <p class="overSub">路上にて技能検定を行います。</p>
+                                            <p class="overSub">路上にて技能検定を行います。<br><br>
+                                                【MT車を希望の方】<br>
+                                                AT車での卒業検定合格後、場内でMT教習がスタートします。<br>
+                                                <span class="green">技能…</span>MT車→4時限<span class="fs14">（最短時限）</span>
+                                                <br>場内でMT車の技能審査を行います。
+                                            </p>
                                         </div>
                                     </li>
                                     <li>
@@ -673,7 +679,8 @@
                                                 <img src="assets/images/licence/licence-overview-photo-06.webp" alt="卒業" loading="lazy">
                                             </p>
                                             <p class="overSub"><span class="red">免許取得まであともう少し!</span><br><br>
-                                                卒業証明書を交付します。<br>（有効期限は1年間です）
+                                                卒業証明書を受け取ります。<br>（有効期限は1年間です）<br>
+                                                MT車の技能審査に合格した方は<br class="sp">技能審査合格証明書も交付されます。
                                             </p>
                                         </div>
                                     </li>

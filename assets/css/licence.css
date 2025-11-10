@@ -880,6 +880,14 @@
     margin-left: 56px;
     font-size: 14px;
 }
+.licenceOverview .overList li .overBox .overSub .noteadd {
+    background-color: rgba(255, 216, 0, 0.2);
+    border-radius: 10px;
+    color: #EF5350;
+    font-weight:bold;
+    padding: 5px;
+}
+
 .licenceOverview .overList li .overBox .overSub .fs14 {
     display: inline-block;
     font-size: 14px;
