@@ -881,11 +881,13 @@
     font-size: 14px;
 }
 .licenceOverview .overList li .overBox .overSub .noteadd {
-    background-color: rgba(255, 216, 0, 0.2);
+    border: 1px solid 1px solid #EF5350;
     border-radius: 10px;
     color: #EF5350;
     font-weight:bold;
-    padding: 5px;
+    padding: 14px 18px;
+    display: block;
+    margin: 15px auto 8px;
 }
 
 .licenceOverview .overList li .overBox .overSub .fs14 {

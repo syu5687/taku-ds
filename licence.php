@@ -661,9 +661,9 @@
                                             </p>
                                             <p class="overSub">路上にて技能検定を行います。<br><br>
                                                 【MT車を希望の方】<br>
-                                                AT車での卒業検定合格後、場内でMT教習がスタートします。<br>
+                                                <span style="margin-left: 16px;">AT車での卒業検定合格後、場内でMT教習がスタートします。</span><br>
                                                 <span class="green">技能…</span>MT車→4時限<span class="fs14">（最短時限）</span>
-                                                <br>場内でMT車の技能審査を行います。
+                                                <br><span style="margin-left: 16px;">場内でMT車の技能審査を行います。</span>
                                             </p>
                                         </div>
                                     </li>
@@ -679,8 +679,8 @@
                                                 <img src="assets/images/licence/licence-overview-photo-06.webp" alt="卒業" loading="lazy">
                                             </p>
                                             <p class="overSub"><span class="red">免許取得まであともう少し!</span><br><br>
-                                                卒業証明書を受け取ります。<br>（有効期限は1年間です）<br>
-                                                MT車の技能審査に合格した方は<br class="sp">技能審査合格証明書も交付されます。
+                                                卒業証明書を受け取ります。<br>（有効期限は1年間です）<br><br>
+                                                MT車の技能審査に合格した方は<br class="sp"><span style="text-decoration: underline;">技能審査合格証明書</span>も交付されます。
                                             </p>
                                         </div>
                                     </li>
