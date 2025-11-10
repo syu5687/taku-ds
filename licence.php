@@ -662,7 +662,7 @@
                                             <p class="overSub">路上にて技能検定を行います。<br><br>
                                                 【MT車を希望の方】<br>
                                                 <span style="margin-left: 16px;">
-                                                AT車での卒業検定合格後、<br class="sp">場内でMT教習がスタートします。</span><br>
+                                                AT車での卒業検定合格後、<br class="sp">場内でMT教習がスタートします。<br>
                                                 <span class="green">技能…</span>MT車→4時限<span class="fs14">（最短時限）</span>
                                                 <br>場内でMT車の技能審査を行います。</span>
                                             </p>
