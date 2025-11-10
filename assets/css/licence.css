@@ -532,6 +532,9 @@
 .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li:nth-child(odd) {
     background-color: #EFEFEF;
 }
+.areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li:nth-child(2) {
+    align-items: center;
+}
 .areaLicence .licencePrice .wrapBasicPlan.pricePayment .contentItem .paymentList li .paymentName {
     width: 137px;
 }
