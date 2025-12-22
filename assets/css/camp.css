@@ -685,6 +685,21 @@ body.fixed {
     width: 100%;
 }
 
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb{
+    width: 80%;
+    margin: 0 auto;
+    list-style: none;
+}
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb li{
+    width: 100%;
+    margin: 0 auto;
+    list-style: none;
+}
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb li img{
+    width: 100%;
+}
+/*********/
+
 
 
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList,
