@@ -4,17 +4,17 @@
 	display: flex;
 	flex-wrap: wrap;
 }
-.areaNews .wrapNews .contentItem .underImage{
+.areaNews .wrapNews .underImage{
 	display: flex;
 	flex-direction: row;
 	width: 100%;
 	margin: 15px auto 0;
 }
-.areaNews .wrapNews .contentItem .underImage p{
+.areaNews .wrapNews .underImage p{
 	display: block;
 	width: 33%;
 }
-.areaNews .wrapNews .contentItem .underImage p img{
+.areaNews .wrapNews .underImage p img{
 	width: 100%;
 	background: #fff;
 }
