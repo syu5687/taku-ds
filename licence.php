@@ -548,7 +548,7 @@
                                 <div class="basicWrap" style="display: none;">
                                     <p class="basicIntro">2月・3月入校生限定プラン</p>
                                     <p>3月末までに卒業できるプランで、入校日〜卒業日までのスケジュールを組みます！</p>
-                                    <ul class="introList">
+                                    <ul class="planList">
                                         <li>
                                          <p class="planSub">
                                                 <img src="assets/images/licence/licence-plan-photo-07.webp" alt="ハイスピードプラン" loading="lazy">
@@ -567,7 +567,7 @@
                                     </ul>
                                     <p>※MTをご希望の方、各プランについては事前にお問い合わせ下さい。<br>
                                         TEL：<a href="tel:0952-76-2050">0952-76-2050</a><br>
-                                        mail:<a href="mailto:0952-76-2050">info@taku-ds.jp</a></p>
+                                        mail:<a href="mailto:info@taku-ds.jp">info@taku-ds.jp</a></p>
                                 </div>
                                 <div class="licenceBtn">
                                     <p class="btnBox">
