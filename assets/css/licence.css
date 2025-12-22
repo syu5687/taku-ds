@@ -793,16 +793,16 @@
     text-align: center;
     padding: 10px 0;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 20px;
 }
 .licencePlan .planSpeed .planList li{
     width: 30%;
     display: block;
     list-style: none;
-    background: #fff;
 }
 .licencePlan .planSpeed .planList li img{
     width: 100%;
+    background: #fff;
 }
 .licencePlan .planSpeed .basicWrap .planTelMail{
     font-size: 16px;
