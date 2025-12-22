@@ -23,13 +23,13 @@
                                     </div>
                                     <div class="boxContentNews">
                                         <p>4月からの進学、就職に間に合わせたい方におすすめプラン登場！<br>
-                                            ハイスピードプラン・スピードプラン・3月末卒業プラン→<a href="/licence?tab=plan#plan-speed">詳しくはこちら</a></p>
+                                            ハイスピードプラン・スピードプラン・3月末卒業プラン→<a href="/licence?tab=plan#plan-speed" style="color:#50B482;">詳しくはこちら</a></p>
                                     </div>
-                                    <div class="boxContentNews">
-                                        
-                                            <p><img src="assets/images/licence/licence-plan-photo-07.webp" alt="ハイスピードプラン" loading="lazy"><img src="assets/images/licence/licence-plan-photo-08.webp" alt="スピードプラン" loading="lazy"><img src="assets/images/licence/licence-plan-photo-09.webp" alt="3月卒業プラン" loading="lazy"></p>
-                                    </div>
+                                    
                                 </div>
+                            </div>
+                            <div class="">
+                                    <p><img src="assets/images/licence/licence-plan-photo-07.webp" alt="ハイスピードプラン" loading="lazy"><img src="assets/images/licence/licence-plan-photo-08.webp" alt="スピードプラン" loading="lazy"><img src="assets/images/licence/licence-plan-photo-09.webp" alt="3月卒業プラン" loading="lazy"></p>
                             </div>
                         </div>
                         <div class="wrapBasicPlan" id="noticeNews002">
