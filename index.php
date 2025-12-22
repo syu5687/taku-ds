@@ -18,20 +18,26 @@
                         <p class="subTitleTop">お知らせ</p>
                     </div>
                     <ul class="listNewsTop">
-                        <li>
+                        <li style="display: none;">
                             <a href="/news#noticeNews001">
-                                <p class="timeNewsTop">25.08.01</p>
-                                <h3 class="titleNewsTop">教習スケジュール制度導入のお知らせ</h3>
+                                <p class="timeNewsTop">25.12.23</p>
+                                <h3 class="titleNewsTop"><p style="color:#EF5350;">NEW!!</p> 4月からの進学、就職に間に合わせたい方におすすめプラン登場！</h3>
                             </a>
                         </li>
                         <li>
                             <a href="/news#noticeNews002">
                                 <p class="timeNewsTop">25.08.01</p>
-                                <h3 class="titleNewsTop">仮免申請料等の料金改定について</h3>
+                                <h3 class="titleNewsTop">教習スケジュール制度導入のお知らせ</h3>
                             </a>
                         </li>
                         <li>
                             <a href="/news#noticeNews003">
+                                <p class="timeNewsTop">25.08.01</p>
+                                <h3 class="titleNewsTop">仮免申請料等の料金改定について</h3>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/news#noticeNews004">
                                 <p class="timeNewsTop">25.08.01</p>
                                 <h3 class="titleNewsTop">令和6年度　優良教習所の表彰について</h3>
                             </a>

@@ -13,12 +13,28 @@
                 </ul>
                 <div class="contentTab">
                     <div class="itemTab" id="noticeNews">
-                        <div class="wrapBasicPlan" id="noticeNews001">
-                            <h3 class="titleItemContent" id="noticeNewsTitle001">教習スケジュール制度導入のお知らせ</h3>
+                        <div class="wrapBasicPlan" id="noticeNews001" style="display: none;">
+                            <h3 class="titleItemContent" id="noticeNewsTitle001">4月からの進学、就職に間に合わせたい方におすすめプラン登場！</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
                                     <div class="boxNews">
-                                        <p class="timeNews" id="noticeNewsDate001">2025.08.01</p>
+                                        <p class="timeNews" id="noticeNewsDate001">2025.12.23</p>
+                                        <p class="txtNoticeNews">お知らせ</p>
+                                    </div>
+                                    <div class="boxContentNews">
+                                        <p>4月からの進学、就職に間に合わせたい方におすすめプラン登場！<br>
+                                            ハイスピードプラン・スピードプラン・3月末卒業プラン→<a href="/licence?tab=plan#plan-speed">詳しくはこちら</a></p>
+                                            <p><img src="assets/images/licence/licence-plan-photo-07.webp" alt="ハイスピードプラン" loading="lazy"><img src="assets/images/licence/licence-plan-photo-08.webp" alt="スピードプラン" loading="lazy"><img src="assets/images/licence/licence-plan-photo-09.webp" alt="3月卒業プラン" loading="lazy"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="wrapBasicPlan" id="noticeNews002">
+                            <h3 class="titleItemContent" id="noticeNewsTitle002">教習スケジュール制度導入のお知らせ</h3>
+                            <div class="contentItem">
+                                <div class="iframeNews">
+                                    <div class="boxNews">
+                                        <p class="timeNews" id="noticeNewsDate002">2025.08.01</p>
                                         <p class="txtNoticeNews">お知らせ</p>
                                     </div>
                                     <div class="boxContentNews">
@@ -30,12 +46,12 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="wrapBasicPlan" id="noticeNews002">
-                            <h3 class="titleItemContent" id="noticeNewsTitle002">仮免申請料等の料金改定について</h3>
+                        <div class="wrapBasicPlan" id="noticeNews003">
+                            <h3 class="titleItemContent" id="noticeNewsTitle003">仮免申請料等の料金改定について</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
                                     <div class="boxNews">
-                                        <p class="timeNews" id="noticeNewsDate002">2025.08.01</p>
+                                        <p class="timeNews" id="noticeNewsDate003">2025.08.01</p>
                                         <p class="txtNoticeNews">お知らせ</p>
                                     </div>
                                     <div class="boxContentNews">
@@ -50,12 +66,12 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="wrapBasicPlan" id="noticeNews003">
+                        <div class="wrapBasicPlan" id="noticeNews004">
                             <h3 class="titleItemContent">令和６年度　優良教習所の表彰について</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
                                     <div class="boxNews">
-                                        <p class="timeNews" id="noticeNewsDate003">2025.08.01</p>
+                                        <p class="timeNews" id="noticeNewsDate004">2025.08.01</p>
                                         <p class="txtNoticeNews">お知らせ</p>
                                     </div>
                                     <div class="boxContentNews">
@@ -66,12 +82,12 @@
                                 <p><img src="assets/images/news/notice-news-photo.webp" alt="令和６年度　優良教習所の表彰について" loading="lazy"></p>
                             </div>
                         </div>
-                        <div class="wrapBasicPlan" id="noticeNews004">
-                            <h3 class="titleItemContent" id="noticeNewsTitle004">感染症等の対策について</h3>
+                        <div class="wrapBasicPlan" id="noticeNews005">
+                            <h3 class="titleItemContent" id="noticeNewsTitle005">感染症等の対策について</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
                                     <div class="boxNews">
-                                        <p class="timeNews" id="noticeNewsDate004">2025.08.01</p>
+                                        <p class="timeNews" id="noticeNewsDate005">2025.08.01</p>
                                         <p class="txtNoticeNews">お知らせ</p>
                                     </div>
                                     <div class="boxContentNews">
