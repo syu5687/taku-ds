@@ -745,6 +745,24 @@
                                                                 <p class="listTxt">浴室</p>
                                                             </li>
                                                         </ul>
+                                                        <ul class="sliderDolce" style="display: none;">
+                                                            <li>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-1.webp?1" alt="キッチン" loading="lazy"></p>
+                                                                
+                                                            </li>
+                                                            <li>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-2.webp?1" alt="キッチン" loading="lazy"></p>
+                                                                
+                                                            </li>
+                                                            <li>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-3.webp?1" alt="リビング" loading="lazy"></p>
+                                                                
+                                                            </li>
+                                                            <li>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-4.webp" alt="浴室" loading="lazy"></p>
+                                                                
+                                                            </li>
+                                                        </ul>
                                                     </div>
                                                 </div>
                                             </div>
