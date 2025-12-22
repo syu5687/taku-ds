@@ -680,6 +680,7 @@ body.fixed {
     width: 80%;
     margin: 0 auto;
     list-style: none;
+    padding: 0 15px;
 }
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce li img{
     width: 100%;
