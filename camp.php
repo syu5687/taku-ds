@@ -1078,5 +1078,5 @@
         </div>
     </div>
 </div>
-<script type="text/javascript" src="/assets/js/slider.js?<?php echo date('Ymd-His'); ?>"></script>
+
 <?php include 'footer.php'; ?>

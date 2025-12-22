@@ -48,6 +48,7 @@
     </div>
     <!-- #footer -->
     <p id="copyright">Copyright (C)Taku Driving School. <br class="sp">All Right reserved.</p>
+    <script type="text/javascript" src="/assets/js/slider.js?<?php echo date('Ymd-His'); ?>"></script>
 </body>
 
 </html>
