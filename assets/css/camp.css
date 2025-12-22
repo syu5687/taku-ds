@@ -669,6 +669,24 @@ body.fixed {
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .popupText.fxppText{
     margin-bottom: 0;
 }
+
+/*********/
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce{
+    width: 80%;
+    margin: 50px auto 30px;
+    list-style: none;
+}
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce li{
+    width: 80%;
+    margin: 0 auto;
+    list-style: none;
+}
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce li img{
+    width: 100%;
+}
+
+
+
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList,
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList {
     width: 100%;
