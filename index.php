@@ -21,7 +21,7 @@
                         <li style="display: none;">
                             <a href="/news#noticeNews001">
                                 <p class="timeNewsTop">25.12.23</p>
-                                <h3 class="titleNewsTop"><p style="color:#EF5350;">NEW!!</p> 4月からの進学、就職に間に合わせたい方におすすめプラン登場！</h3>
+                                <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span> 4月からの進学・就職に間に合わせたい方におすすめプラン登場！</h3>
                             </a>
                         </li>
                         <li>
