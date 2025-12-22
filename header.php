@@ -48,7 +48,10 @@
     <link rel="stylesheet" type="text/css" href="/assets/css/common.css">
     
     <link rel="stylesheet" type="text/css" href="/assets/css/<?php echo $filename; ?>.css?<?php echo date('Ymd-His'); ?>">
+    <link rel="stylesheet" type="text/css" href="/assets/js/slick/slick.css">
+    <link rel="stylesheet" type="text/css" href="/assets/js/slick/slick-theme.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script type="text/javascript" src="/assets/js/slick/slick.js?<?php echo date('Ymd-His'); ?>"></script>
     <script type="text/javascript" src="/assets/js/script.js?<?php echo date('Ymd-His'); ?>"></script>
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
