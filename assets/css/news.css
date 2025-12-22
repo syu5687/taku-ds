@@ -16,6 +16,7 @@
 }
 .areaNews .wrapNews .contentItem .underImage p img{
 	width: 100%;
+	background: #fff;
 }
 #noticeNews {
 	padding-top: 63px;
