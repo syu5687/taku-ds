@@ -16,7 +16,7 @@
                         <div class="wrapBasicPlan" id="noticeNews001" style="display: none;">
                             <h3 class="titleItemContent" id="noticeNewsTitle001">4月からの進学、就職に間に合わせたい方におすすめプラン登場！</h3>
                             <div class="contentItem">
-                                <div class="iframeNews">
+                                <div class="">
                                     <div class="boxNews">
                                         <p class="timeNews" id="noticeNewsDate001">2025.12.23</p>
                                         <p class="txtNoticeNews">お知らせ</p>
