@@ -774,71 +774,7 @@
                                                         </ul>
                                                         </div>
                                                         </div>
-                                                        <script>
-                                                            $('.sliderDolce').slick({
-                                                                slidesToShow: 3,
-                                                                slidesToScroll: 1,
-                                                                centerMode: true,
-                                                                centerPadding: '60px',
-                                                                autoplay: true,
-                                                                autoplaySpeed: 5000,
-                                                                arrows: false,
-                                                                asNavFor:'.thumb',
-                                                                responsive: [
-                                                                    {
-                                                                        breakpoint: 768,
-                                                                        settings: {
-                                                                            slidesToShow: 1,
-                                                                            slidesToScroll: 1,
-                                                                            centerMode: true,
-                                                                            centerPadding: '20px'
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        breakpoint: 480
-                                                                        settings: {
-                                                                            slidesToShow: 1,
-                                                                            slidesToScroll: 1,
-                                                                            centerMode: true,
-                                                                            centerPadding: '10px'
-                                                                        }
-                                                                    }
-                                                                ]
-                                                            });
-                                                        </script>
-                                                        <script>
-                                                            $('.thumb').slick({
-                                                                centerMode: true,
-                                                                centerPadding: '60px',
-                                                                autoplay: true,
-                                                                autoplaySpeed: 5000,
-                                                                arrows: false,
-                                                                asNavFor:'.slider_thumb',
-                                                                focusOnSelect: true,
-                                                                slidesToShow:4,
-                                                                slidesToScroll:1,
-                                                                responsive: [
-                                                                    {
-                                                                        breakpoint: 768,
-                                                                        settings: {
-                                                                            slidesToShow: 3,
-                                                                            slidesToScroll: 1,
-                                                                            centerMode: true,
-                                                                            centerPadding: '10px'
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        breakpoint: 480,
-                                                                        settings: {
-                                                                            slidesToShow: 1,
-                                                                            slidesToScroll: 1,
-                                                                            centerMode: true,
-                                                                            centerPadding: '5px'
-                                                                        }
-                                                                    }
-                                                                ]
-                                                            });
-                                                        </script>
+                                                        
                                                     </div>
                                                 </div>
                                             </div>
