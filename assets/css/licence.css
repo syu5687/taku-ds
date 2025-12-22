@@ -775,8 +775,8 @@
     line-height: 1.45;
     margin-bottom: 48px;
 }
-.licencePlan .planSpeed .planList {
-    width: 90%;
+.licencePlan .planSpeed .basicWrap{
+    width: 100%;
     display: flex;
     margin: 15px auto;
     flex-direction: row;
@@ -785,7 +785,7 @@
     padding: 30px;
     border-radius: 10px;
 }
-.licencePlan .planSpeed .planList .basicIntro{
+.licencePlan .planSpeed .basicWrap .basicIntro{
     color: #EF5350;
     text-align: center;
     padding: 10px 0;
@@ -796,14 +796,15 @@
     width: 30%;
     display: block;
     list-style: none;
+    background: #fff;
 }
 .licencePlan .planSpeed .planList li img{
     width: 100%;
 }
-.licencePlan .planSpeed .planList .planTelMail{
+.licencePlan .planSpeed .basicWrap .planTelMail{
     font-size: 16px;
 }
-.licencePlan .planSpeed .planList .planTelMail a{
+.licencePlan .planSpeed .basicWrap .planTelMail a{
     font-size: 16px;
     color: #50B482;
     text-decoration: underline;
