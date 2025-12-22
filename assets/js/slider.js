@@ -5,7 +5,7 @@
  ***************************************************************************/
 $(document).ready(function() {
 $('.sliderDolce').slick({
-        slidesToShow: 3,
+        slidesToShow: 1,
         slidesToScroll: 1,
         centerMode: true,
         centerPadding: '60px',
@@ -17,8 +17,7 @@ $('.sliderDolce').slick({
             {
                 breakpoint: 768,
                 settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
+                    
                     centerMode: true,
                     centerPadding: '20px'
                 }
@@ -43,7 +42,7 @@ $('.sliderDolce').slick({
         arrows: false,
         asNavFor:'.sliderDolce',
         focusOnSelect: true,
-        slidesToShow:4,
+        slidesToShow:5,
         slidesToScroll:1,
         responsive: [
             {
