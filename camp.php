@@ -729,15 +729,15 @@
                                                         </p>
                                                         <ul class="roomsList">
                                                             <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-1.webp?1" alt="キッチン" loading="lazy"></p>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-1.webp?2" alt="キッチン" loading="lazy"></p>
                                                                 <p class="listTxt">キッチン</p>
                                                             </li>
                                                             <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-2.webp?1" alt="キッチン" loading="lazy"></p>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-2.webp?2" alt="キッチン" loading="lazy"></p>
                                                                 <p class="listTxt">キッチン</p>
                                                             </li>
                                                             <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-3.webp?1" alt="リビング" loading="lazy"></p>
+                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-3.webp?2" alt="リビング" loading="lazy"></p>
                                                                 <p class="listTxt">リビング</p>
                                                             </li>
                                                             <li>
@@ -745,53 +745,95 @@
                                                                 <p class="listTxt">浴室</p>
                                                             </li>
                                                         </ul>
-                                                        <ul class="sliderDolce" style="display: none;">
-                                                            <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-1.webp?1" alt="キッチン" loading="lazy"></p>
-                                                                
-                                                            </li>
-                                                            <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-2.webp?1" alt="キッチン" loading="lazy"></p>
-                                                                
-                                                            </li>
-                                                            <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-3.webp?1" alt="リビング" loading="lazy"></p>
-                                                                
-                                                            </li>
-                                                            <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-4.webp" alt="浴室" loading="lazy"></p>
-                                                                
-                                                            </li>
+                                                        <div style="display: none;">
+                                                        <ul class="sliderDolce">
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001.webp" alt="キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-003.webp" alt="リビング" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-004.webp" alt="浴室" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-005.webp" alt="キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-006.webp" alt="キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-007.webp" alt="リビング" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-008.webp" alt="浴室" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-009.webp" alt="キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="リビング" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="浴室" loading="lazy"></p></li>
                                                         </ul>
+                                                        <ul class="thumb">
+                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001.webp" alt="キッチン" loading="lazy"></p></li>
+                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="キッチン" loading="lazy"></p></li>
+                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-003.webp" alt="リビング" loading="lazy"></p></li>
+                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-004.webp" alt="浴室" loading="lazy"></p></li>
+                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-005.webp" alt="キッチン" loading="lazy"></p></li>
+                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-006.webp" alt="キッチン" loading="lazy"></p></li>
+                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-007.webp" alt="リビング" loading="lazy"></p></li>
+                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-008.webp" alt="浴室" loading="lazy"></p></li>
+                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-009.webp" alt="キッチン" loading="lazy"></p></li>
+                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="リビング" loading="lazy"></p></li>
+                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="浴室" loading="lazy"></p></li>
+                                                        </ul>
+                                                        </div>
+                                                        </div>
                                                         <script>
                                                             $('.sliderDolce').slick({
-                                                                // PC表示時の設定
                                                                 slidesToShow: 3,
                                                                 slidesToScroll: 1,
                                                                 centerMode: true,
-                                                                centerPadding: '60px', // PCでは60pxのパディング
+                                                                centerPadding: '60px',
                                                                 autoplay: true,
                                                                 autoplaySpeed: 5000,
                                                                 arrows: false,
-                                                                
-                                                                // レスポンシブ設定（スマホ表示時の設定）
+                                                                asNavFor:'.thumb',
                                                                 responsive: [
                                                                     {
-                                                                        breakpoint: 768, // 画面幅が768px以下の場合に適用
-                                                                        settings: {
-                                                                            slidesToShow: 1,      // スマホでは中央に1枚を大きく表示
-                                                                            slidesToScroll: 1,
-                                                                            centerMode: true,     // スマホでも中央モードを有効にする
-                                                                            centerPadding: '20px' // スマホ向けにパディングを調整（例：20px）
-                                                                        }
-                                                                    },
-                                                                    {
-                                                                        breakpoint: 480, // 画面幅が480px以下の場合に適用
+                                                                        breakpoint: 768,
                                                                         settings: {
                                                                             slidesToShow: 1,
                                                                             slidesToScroll: 1,
                                                                             centerMode: true,
-                                                                            centerPadding: '10px' // さらに小さい画面向けに調整
+                                                                            centerPadding: '20px'
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        breakpoint: 480
+                                                                        settings: {
+                                                                            slidesToShow: 1,
+                                                                            slidesToScroll: 1,
+                                                                            centerMode: true,
+                                                                            centerPadding: '10px'
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            });
+                                                        </script>
+                                                        <script>
+                                                            $('.thumb').slick({
+                                                                centerMode: true,
+                                                                centerPadding: '60px',
+                                                                autoplay: true,
+                                                                autoplaySpeed: 5000,
+                                                                arrows: false,
+                                                                asNavFor:'.slider_thumb',
+                                                                focusOnSelect: true,
+                                                                slidesToShow:4,
+                                                                slidesToScroll:1,
+                                                                responsive: [
+                                                                    {
+                                                                        breakpoint: 768,
+                                                                        settings: {
+                                                                            slidesToShow: 3,
+                                                                            slidesToScroll: 1,
+                                                                            centerMode: true,
+                                                                            centerPadding: '10px'
+                                                                        }
+                                                                    },
+                                                                    {
+                                                                        breakpoint: 480,
+                                                                        settings: {
+                                                                            slidesToShow: 1,
+                                                                            slidesToScroll: 1,
+                                                                            centerMode: true,
+                                                                            centerPadding: '5px'
                                                                         }
                                                                     }
                                                                 ]
