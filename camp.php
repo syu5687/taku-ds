@@ -785,7 +785,7 @@
                                    <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3336.4089542013194!2d130.19994507585915!3d33.255784459364996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE1JzIwLjgiTiAxMzDCsDEyJzA5LjEiRQ!5e0!3m2!1sja!2sjp!4v1760414120494!5m2!1sja!2sjp" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                 </div>
                             </div>
-                        </div>
+                        
                         <div class="wrapBasicPlan" id="takuHotel">
                             <h3 class="titleItemContent">多久シティホテル松屋</h3>
                             <div class="contentItem">
