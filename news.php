@@ -28,8 +28,10 @@
                                     
                                 </div>
                             </div>
-                            <div class="">
-                                    <p><img src="assets/images/licence/licence-plan-photo-07.webp" alt="ハイスピードプラン" loading="lazy"><img src="assets/images/licence/licence-plan-photo-08.webp" alt="スピードプラン" loading="lazy"><img src="assets/images/licence/licence-plan-photo-09.webp" alt="3月卒業プラン" loading="lazy"></p>
+                            <div class="underImage">
+                                    <p><img src="assets/images/licence/licence-plan-photo-07.webp" alt="ハイスピードプラン" loading="lazy"></p>
+                                    <p><img src="assets/images/licence/licence-plan-photo-08.webp" alt="スピードプラン" loading="lazy"></p>
+                                    <p><img src="assets/images/licence/licence-plan-photo-09.webp" alt="3月卒業プラン" loading="lazy"></p>
                             </div>
                         </div>
                         <div class="wrapBasicPlan" id="noticeNews002">

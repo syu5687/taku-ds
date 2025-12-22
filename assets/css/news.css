@@ -4,6 +4,19 @@
 	display: flex;
 	flex-wrap: wrap;
 }
+.areaNews .wrapNews .contentItem .underImage{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	margin: 15px auto 0;
+}
+.areaNews .wrapNews .contentItem .underImage p{
+	display: block;
+	width: 33%;
+}
+.areaNews .wrapNews .contentItem .underImage p img{
+	width: 100%;
+}
 #noticeNews {
 	padding-top: 63px;
 }
