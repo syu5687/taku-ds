@@ -696,18 +696,18 @@ body.fixed {
     width: 100%;
 }
 
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb{
-    width: 30%;
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb{
+    width: 50%;
     margin: 0 auto;
     list-style: none;
     height: 500px;
     display: flex;
   }
-  .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb .slick-track{
+  .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track{
     transform: unset !important;
     width:100% !important;
   }
-  .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb.slick-prev{
+  /* .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb.slick-prev{
     top:55%;
     right:20px;
     transform: rotate(-90deg);
@@ -724,18 +724,15 @@ body.fixed {
     background-size: 100%;
     width: 20px;
     height: 20px;
-  }
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb li{
+  } */
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb li{
     width: 31% !important;
     margin:5px;
     list-style: none;
     padding: 0 15px;
     display: block;
 }
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb li p.listImg{
-    margin-bottom: 0;
-}
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb li img{
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb li img{
     width: 100%;
 }
 /*********/
