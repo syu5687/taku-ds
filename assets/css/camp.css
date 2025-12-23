@@ -691,6 +691,7 @@ body.fixed {
 }
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce li img{
     width: 100%;
+    border-radius: 5px;
 }
 
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb{
