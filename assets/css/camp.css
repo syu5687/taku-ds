@@ -704,7 +704,10 @@ body.fixed {
     overflow: hidden;
     padding-right: 50px;
     display: flex;
-    
+  }
+  .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb .slick-track{
+    transform: unset !important;
+    width:100% !important;
   }
   .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb.slick-prev{
     top:55%;
