@@ -671,9 +671,13 @@ body.fixed {
 }
 
 /*********/
+.slideArea{
+  display: flex;
+  flex-direction: row;
+}
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce{
     width: 80%;
-    margin: 50px auto 30px;
+    margin: 0px auto;
     list-style: none;
 }
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce li{
@@ -692,7 +696,7 @@ body.fixed {
     list-style: none;
 }
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb li{
-    width: 100%;
+    width: 80%;
     margin: 0 auto;
     list-style: none;
     padding: 0 15px;

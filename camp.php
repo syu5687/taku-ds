@@ -745,7 +745,7 @@
                                                                 <p class="listTxt">浴室</p>
                                                             </li>
                                                         </ul>
-                                                        <div style="display: none;">
+                                                        <div style="display: none;" class="slideArea">
                                                         <ul class="sliderDolce">
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001.webp" alt="キッチン" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="キッチン" loading="lazy"></p></li>
