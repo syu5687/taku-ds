@@ -711,7 +711,7 @@ body.fixed {
     flex-wrap: wrap;
   }
   .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track .slick-slide{
-    width:75px !important;
+    width:31% !important;
     height:auto;
   }
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb li{
