@@ -703,7 +703,7 @@ body.fixed {
   .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:before,.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:after {
       display: none;
   }
-  ul.thumb .slick-track{
+  .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track{
     transform: unset !important;
     width:100% !important;
     display: flex;
@@ -1461,6 +1461,9 @@ dl.cautionBox dd{
         list-style: none;
         padding: 0 3px;
         display: block;
+    }
+    .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb li img{
+        aspect-ratio: 1/1;
     }
 }
 @media (min-width:550px) and (max-width: 768px) {
