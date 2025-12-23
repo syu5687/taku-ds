@@ -7,6 +7,7 @@ $(document).ready(function() {
 $('.sliderDolce').slick({
         slidesToShow: 1,
         slidesToScroll: 1,
+        fade: true,
         centerMode: true,
         centerPadding: '60px',
         autoplay: true,

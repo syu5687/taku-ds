@@ -727,6 +727,9 @@ body.fixed {
     list-style: none;
     padding: 0 15px;
 }
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb li p.listImg{
+    margin-bottom: 0;
+}
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb li img{
     width: 100%;
 }
