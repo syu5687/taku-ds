@@ -1462,7 +1462,7 @@ dl.cautionBox dd{
     }
     .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderShalon li img, .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce li img {
       aspect-ratio: 9/12;
-      object-fit: cover;
+      object-fit: contain;
     }
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb,
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb2{
