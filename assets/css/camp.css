@@ -703,7 +703,7 @@ body.fixed {
   .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:before,.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:after {
       display: none;
   }
-  .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track{
+  ul.thumb .slick-track{
     transform: unset !important;
     width:100% !important;
     display: flex;
@@ -1439,7 +1439,7 @@ dl.cautionBox dd{
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb{
         width: 100%;
         height: auto;
-        margin:20px auto;
+        margin:0px auto;
       }
       .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:before,.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:after {
           display: none;
