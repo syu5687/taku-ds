@@ -1444,6 +1444,12 @@ dl.cautionBox dd{
     .slideArea{
       flex-direction: column;
     }
+    .slideArea .slick-prev{
+     left:-20px;
+    }
+    .slideArea .slick-next{
+     right:-20px;
+    }
     .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderShalon,
     .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce{
         width: 100%;
