@@ -679,34 +679,36 @@
                                                         </ul> -->
                                                         <div class="slideArea">
                                                         <ul class="sliderShalon">
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-001.webp" alt="キッチン"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-002.webp" alt="キッチン"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-003.webp" alt="リビング" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-004.webp" alt="浴室" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-005.webp" alt="キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-006.webp" alt="キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-007.webp" alt="リビング" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-008.webp" alt="浴室" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-009.webp" alt="キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-010.webp" alt="リビング" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-011.webp" alt="浴室" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-012.webp" alt="浴室" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-013.webp" alt="浴室" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-001.webp" alt="シャロン_リビング"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-002.webp" alt="シャロン_リビング"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-003.webp" alt="シャロン_リビング" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-004.webp" alt="シャロン_キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-005.webp" alt="シャロン_キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-013.webp" alt="シャロン_キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-006.webp" alt="シャロン_STAR" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-007.webp" alt="シャロン_部屋SKY" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-008.webp" alt="シャロン_部屋SKY" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-009.webp" alt="シャロン_部屋MOON" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-010.webp" alt="シャロン_洗面所" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-011.webp" alt="シャロン_トイレ" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-012.webp" alt="シャロン_トイレ" loading="lazy"></p></li>
+                                                            
                                                         </ul>
                                                         <ul class="thumb">
-                                                              <li><img src="assets/images/camp/shalon/room-img-001.webp" alt="キッチン"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-002.webp" alt="キッチン"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-003.webp" alt="リビング"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-004.webp" alt="浴室"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-005.webp" alt="キッチン"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-006.webp" alt="キッチン"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-007.webp" alt="リビング"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-008.webp" alt="浴室"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-009.webp" alt="キッチン"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-010.webp" alt="リビング"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-011.webp" alt="浴室"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-012.webp" alt="浴室"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-013.webp" alt="浴室"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-001.webp" alt="シャロン_リビング"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-002.webp" alt="シャロン_リビング"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-003.webp" alt="シャロン_リビング"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-004.webp" alt="シャロン_キッチン"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-005.webp" alt="シャロン_キッチン"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-013.webp" alt="シャロン_キッチン"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-006.webp" alt="シャロン_部屋STAR"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-007.webp" alt="シャロン_部屋SKY"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-008.webp" alt="シャロン_部屋SKY"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-009.webp" alt="シャロン_部屋MOON"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-010.webp" alt="シャロン_洗面所"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-011.webp" alt="シャロン_トイレ"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-012.webp" alt="シャロン_トイレ"></li>
+                                                              
                                                         </ul>
                                                         </div>
                                                     </div>

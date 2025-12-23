@@ -13,7 +13,7 @@ $('.sliderDolce').slick({
         autoplay: true,
         autoplaySpeed: 5000,
         arrows: false,
-        asNavFor:'.thumb',
+        asNavFor:'.thumb2',
         responsive: [
             {
                 breakpoint: 768,
@@ -98,7 +98,7 @@ $('.sliderDolce').slick({
         centerMode: true,
         centerPadding: '0px',
         arrows: false,
-        asNavFor:'.sliderDolce',
+        asNavFor:'.sliderShalon',
         focusOnSelect: true,
         slidesToShow:3,
         infinite: false,
