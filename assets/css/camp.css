@@ -701,7 +701,6 @@ body.fixed {
     margin: 0 auto;
     list-style: none;
     height: 500px;
-    display: flex;
   }
   .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track{
     transform: unset !important;
@@ -709,6 +708,10 @@ body.fixed {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+  }
+  .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track .slick-slide{
+    width:80px;
+    height:auto;
   }
   /* .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb.slick-prev{
     top:55%;
@@ -729,7 +732,7 @@ body.fixed {
     height: 20px;
   } */
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb li{
-    width: 31% !important;
+    width: 100% !important;
     margin:5px;
     list-style: none;
     /* padding: 0 15px; */
