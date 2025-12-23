@@ -38,15 +38,15 @@ $('.sliderDolce').slick({
     $('.thumb').slick({
         centerMode: true,
         centerPadding: '60px',
-        autoplay: true,
+        autoplay: false,
         autoplaySpeed: 5000,
-        arrows: true,
+        arrows: false,
         asNavFor:'.sliderDolce',
         focusOnSelect: true,
-        slidesToShow:3,
-        slidesToScroll:1,
-        vertical: true,
-        verticalSwiping: true,
+        // slidesToShow:3,
+        // slidesToScroll:1,
+        // vertical: true,
+        // verticalSwiping: true,
         responsive: [
             {
                 breakpoint: 768,
