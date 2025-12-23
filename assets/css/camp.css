@@ -672,10 +672,11 @@ body.fixed {
 
 /*********/
 .slideArea{
-  width:100%;
+  width:70%;
   display: flex;
   flex-direction: row;
   margin: 30px auto 0;
+  justify-content: center;
 }
 .listImg{
   margin-bottom:0;
