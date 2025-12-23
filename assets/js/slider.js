@@ -41,6 +41,7 @@ $('.sliderDolce').slick({
         asNavFor:'.sliderDolce',
         focusOnSelect: true,
         slidesToShow:3,
+        infinite: false,
         responsive: [
             {
                 breakpoint: 768,
