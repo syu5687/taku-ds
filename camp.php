@@ -747,7 +747,7 @@
                                                         </ul>
                                                         <div style="display: none;" class="slideArea">
                                                         <ul class="sliderDolce">
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001.webp" alt="キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001-1.webp" alt="キッチン" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="キッチン" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-003.webp" alt="リビング" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-004.webp" alt="浴室" loading="lazy"></p></li>
@@ -760,7 +760,7 @@
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="浴室" loading="lazy"></p></li>
                                                         </ul>
                                                         <ul class="thumb">
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-001.webp" alt="キッチン" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-001-1.webp" alt="キッチン" loading="lazy"></li>
                                                               <li><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="キッチン" loading="lazy"></li>
                                                               <li><img src="assets/images/camp/dolce/room-imgD-003.webp" alt="リビング" loading="lazy"></li>
                                                               <li><img src="assets/images/camp/dolce/room-imgD-004.webp" alt="浴室" loading="lazy"></li>
