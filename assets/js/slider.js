@@ -39,7 +39,7 @@ $('.sliderDolce').slick({
         centerPadding: '60px',
         autoplay: true,
         autoplaySpeed: 5000,
-        arrows: false,
+        arrows: true,
         asNavFor:'.sliderDolce',
         focusOnSelect: true,
         slidesToShow:3,
