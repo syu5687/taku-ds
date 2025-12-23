@@ -1435,13 +1435,28 @@ dl.cautionBox dd{
         width: 100%;
         padding: 0 10px;
     }
-    .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb{
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb{
         width: 100%;
-        margin: 10px auto;
-    }
-    .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb li{
-        width: 100%;
-        padding: 0 10px;
+        height: auto;
+        margin:20px auto;
+      }
+      .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:before,.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:after {
+          display: none;
+      }
+      .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track{
+        transform: unset !important;
+        width:100% !important;
+        display: block;
+      }
+      .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track .slick-slide{
+        width:55px !important;
+      }
+    .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb li{
+        width: 100% !important;
+        margin:5px;
+        list-style: none;
+        padding: 0 3px;
+        display: block;
     }
 }
 @media (min-width:550px) and (max-width: 768px) {
