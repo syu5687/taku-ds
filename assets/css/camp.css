@@ -1442,6 +1442,7 @@ dl.cautionBox dd{
        padding: 10px 2px;
     }
     .slideArea{
+      width: 100%;
       flex-direction: column;
     }
     .slideArea .slick-prev{
@@ -1459,6 +1460,10 @@ dl.cautionBox dd{
         width: 100%;
         padding: 0 10px;
     }
+    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderShalon li img, .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce li img {
+      aspect-ratio: 9/12;
+      object-fit: cover;
+    }
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb,
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb2{
         width: 100%;
@@ -1469,6 +1474,9 @@ dl.cautionBox dd{
       .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track .slick-slide,
       .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb2 .slick-track .slick-slide{
         width:75px !important;
+      }
+      .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track, .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb2 .slick-track{
+        padding-left:8px;
       }
     .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb li,
     .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb2 li{
