@@ -49,6 +49,9 @@ $('.sliderDolce').slick({
                     slidesToScroll: 1,
                     centerMode: true,
                     centerPadding: '10px',
+                    autoplay: true,
+                    autoplaySpeed: 5000,
+                    arrows: false,
                 }
             },{
                 breakpoint: 480,
