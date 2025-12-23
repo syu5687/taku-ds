@@ -677,7 +677,7 @@
                                                                 <p class="listTxt">相部屋</p>
                                                             </li>
                                                         </ul>
-                                                        <div style="display: none;" class="slideArea">
+                                                        <div class="slideArea">
                                                         <ul class="sliderShalon">
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-001.webp" alt="キッチン" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-002.webp" alt="キッチン" loading="lazy"></p></li>
@@ -777,7 +777,7 @@
                                                                 <p class="listTxt">浴室</p>
                                                             </li>
                                                         </ul>
-                                                        <div style="display: none;" class="slideArea">
+                                                        <div class="slideArea">
                                                         <ul class="sliderDolce">
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001-1.webp" alt="キッチン" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="キッチン" loading="lazy"></p></li>
