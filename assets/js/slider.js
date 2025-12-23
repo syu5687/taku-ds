@@ -25,6 +25,7 @@ $('.sliderDolce').slick({
             },{
                 breakpoint: 480,
                 settings: {
+                    arrows: true,
                     slidesToShow: 1,
                     slidesToScroll: 1,
                     centerMode: true,
@@ -85,6 +86,7 @@ $('.sliderDolce').slick({
             },{
                 breakpoint: 480,
                 settings: {
+                    arrows: true,
                     slidesToShow: 1,
                     slidesToScroll: 1,
                     centerMode: true,
