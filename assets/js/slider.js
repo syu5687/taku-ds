@@ -34,7 +34,7 @@ $('.sliderDolce').slick({
         ]
     });
 
-    $('.thumb').slick({
+    $('.thumb2').slick({
         centerMode: true,
         centerPadding: '0px',
         arrows: false,
@@ -94,7 +94,7 @@ $('.sliderDolce').slick({
         ]
     });
     
-    $('.thumb2').slick({
+    $('.thumb').slick({
         centerMode: true,
         centerPadding: '0px',
         arrows: false,
