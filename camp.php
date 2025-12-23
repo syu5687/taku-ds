@@ -677,6 +677,38 @@
                                                                 <p class="listTxt">相部屋</p>
                                                             </li>
                                                         </ul>
+                                                        <div style="display: none;" class="slideArea">
+                                                        <ul class="sliderShalon">
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-001.webp" alt="キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-002.webp" alt="キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-003.webp" alt="リビング" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-004.webp" alt="浴室" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-005.webp" alt="キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-006.webp" alt="キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-007.webp" alt="リビング" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-008.webp" alt="浴室" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-009.webp" alt="キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-010.webp" alt="リビング" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-011.webp" alt="浴室" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-012.webp" alt="浴室" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-013.webp" alt="浴室" loading="lazy"></p></li>
+                                                        </ul>
+                                                        <ul class="thumb2">
+                                                              <li><img src="assets/images/camp/shalon/room-img-001.webp" alt="キッチン" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-002.webp" alt="キッチン" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-003.webp" alt="リビング" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-004.webp" alt="浴室" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-005.webp" alt="キッチン" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-006.webp" alt="キッチン" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-007.webp" alt="リビング" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-008.webp" alt="浴室" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-009.webp" alt="キッチン" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-010.webp" alt="リビング" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-011.webp" alt="浴室" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-012.webp" alt="浴室" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-013.webp" alt="浴室" loading="lazy"></li>
+                                                        </ul>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
