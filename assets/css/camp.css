@@ -704,8 +704,18 @@ body.fixed {
     padding-right: 50px;
   }
   .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb.slick-prev{
+    top:55%;
     right:20px;
     transform: rotate(-90deg);
+    background: url('./arrow.svg') no-repeat;
+    background-size: 100%;
+    width: 20px;
+    height: 20px;
+  }
+  .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb.slick-next{
+    top:45%;
+    right:20px;
+    transform: rotate(90deg);
     background: url('./arrow.svg') no-repeat;
     background-size: 100%;
     width: 20px;
