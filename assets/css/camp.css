@@ -699,7 +699,18 @@ body.fixed {
     width: 20%;
     margin: 0 auto;
     list-style: none;
-}
+    height: 500px;
+    overflow: hidden;
+    
+  }
+  .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb.slick-prev{
+    right:20px;
+    transform: rotate(-90deg);
+    background: url('./arrow.svg') no-repeat;
+    background-size: 100%;
+    width: 20px;
+    height: 20px;
+  }
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb li{
     width: 80%;
     margin: 0 auto;
