@@ -13,7 +13,7 @@
                 </ul>
                 <div class="contentTab">
                     <div class="itemTab" id="noticeNews">
-                        <div class="wrapBasicPlan" id="noticeNews001" style="display: none;">
+                        <div class="wrapBasicPlan" id="noticeNews001">
                             <h3 class="titleItemContent" id="noticeNewsTitle001">4月からの進学、就職に間に合わせたい方におすすめプラン登場！</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">

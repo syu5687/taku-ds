@@ -18,7 +18,7 @@
                         <p class="subTitleTop">お知らせ</p>
                     </div>
                     <ul class="listNewsTop">
-                        <li style="display: none;">
+                        <li>
                             <a href="/news#noticeNews001">
                                 <p class="timeNewsTop">25.12.23</p>
                                 <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span> 4月からの進学・就職に間に合わせたい方におすすめプラン登場！</h3>

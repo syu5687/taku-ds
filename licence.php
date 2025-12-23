@@ -545,7 +545,7 @@
                                         class="line">プラン内容・条件：定員制となりますので事前にお問い合わせ下さい。</span><br><br>プラン料金：<span
                                         class="red">通常料金＋33,000円（税込）～</span>
                                 </p>
-                                <div class="basicWrap" style="display: none;">
+                                <div class="basicWrap">
                                     <p class="basicIntro">2月・3月入校生限定プラン</p>
                                     <p>3月末までに卒業できるプランで、入校日〜卒業日までのスケジュールを組みます！</p>
                                     <ul class="planList">
