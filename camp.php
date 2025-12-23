@@ -659,7 +659,7 @@
                                                             2名用のお部屋を1人でも利用可能です！（シングル）<br>
                                                             1人で入校される方も「相部屋」を選択することができます。※この場合、同時期にご宿泊の方と一緒のお部屋でご案内いたします。<br>お申し込み時にお知らせください。
                                                         </p>
-                                                        <ul class="roomsList">
+                                                        <ul class="roomsList" style="display: none;">
                                                             <li>
                                                                 <p class="listImg"><img src="assets/images/camp/room-img-1.webp" alt="食堂" loading="lazy"></p>
                                                                 <p class="listTxt">食堂</p>
@@ -759,7 +759,7 @@
                                                             申込み時にお知らせください。<br><br>
                                                             ※テレビはチューナーレスのため地上波は映りません。
                                                         </p>
-                                                        <ul class="roomsList">
+                                                        <ul class="roomsList" style="display: none;">
                                                             <li>
                                                                 <p class="listImg"><img src="assets/images/camp/room-imgD-1.webp?2" alt="キッチン" loading="lazy"></p>
                                                                 <p class="listTxt">キッチン</p>
