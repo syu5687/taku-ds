@@ -676,15 +676,17 @@ body.fixed {
   display: flex;
   flex-direction: row;
   margin: 30px auto 0;
-
+}
+.listImg{
+  margin-bottom:0;
 }
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce{
-    width: 80%;
+    width: 60%;
     margin: 0px auto;
     list-style: none;
 }
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce li{
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
     list-style: none;
     padding: 0 15px;
@@ -694,7 +696,7 @@ body.fixed {
 }
 
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb{
-    width: 80%;
+    width: 20%;
     margin: 0 auto;
     list-style: none;
 }
