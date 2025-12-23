@@ -36,7 +36,7 @@ $('.sliderDolce').slick({
 
     $('.thumb').slick({
         centerMode: true,
-        centerPadding: '60px',
+        centerPadding: '0px',
         autoplay: false,
         // autoplaySpeed: 5000,
         arrows: false,
