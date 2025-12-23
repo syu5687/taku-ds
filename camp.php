@@ -659,7 +659,7 @@
                                                             2名用のお部屋を1人でも利用可能です！（シングル）<br>
                                                             1人で入校される方も「相部屋」を選択することができます。※この場合、同時期にご宿泊の方と一緒のお部屋でご案内いたします。<br>お申し込み時にお知らせください。
                                                         </p>
-                                                        <ul class="roomsList" style="display: none;">
+                                                        <!-- <ul class="roomsList">
                                                             <li>
                                                                 <p class="listImg"><img src="assets/images/camp/room-img-1.webp" alt="食堂" loading="lazy"></p>
                                                                 <p class="listTxt">食堂</p>
@@ -676,11 +676,11 @@
                                                                 <p class="listImg"><img src="assets/images/camp/room-img-4.webp" alt="相部屋" loading="lazy"></p>
                                                                 <p class="listTxt">相部屋</p>
                                                             </li>
-                                                        </ul>
+                                                        </ul> -->
                                                         <div class="slideArea">
                                                         <ul class="sliderShalon">
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-001.webp" alt="キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-002.webp" alt="キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-001.webp" alt="キッチン"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-002.webp" alt="キッチン"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-003.webp" alt="リビング" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-004.webp" alt="浴室" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-005.webp" alt="キッチン" loading="lazy"></p></li>
@@ -694,19 +694,19 @@
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-013.webp" alt="浴室" loading="lazy"></p></li>
                                                         </ul>
                                                         <ul class="thumb">
-                                                              <li><img src="assets/images/camp/shalon/room-img-001.webp" alt="キッチン" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-002.webp" alt="キッチン" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-003.webp" alt="リビング" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-004.webp" alt="浴室" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-005.webp" alt="キッチン" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-006.webp" alt="キッチン" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-007.webp" alt="リビング" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-008.webp" alt="浴室" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-009.webp" alt="キッチン" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-010.webp" alt="リビング" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-011.webp" alt="浴室" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-012.webp" alt="浴室" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-013.webp" alt="浴室" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-001.webp" alt="キッチン"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-002.webp" alt="キッチン"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-003.webp" alt="リビング"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-004.webp" alt="浴室"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-005.webp" alt="キッチン"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-006.webp" alt="キッチン"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-007.webp" alt="リビング"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-008.webp" alt="浴室"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-009.webp" alt="キッチン"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-010.webp" alt="リビング"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-011.webp" alt="浴室"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-012.webp" alt="浴室"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-013.webp" alt="浴室"></li>
                                                         </ul>
                                                         </div>
                                                     </div>
@@ -759,7 +759,7 @@
                                                             申込み時にお知らせください。<br><br>
                                                             ※テレビはチューナーレスのため地上波は映りません。
                                                         </p>
-                                                        <ul class="roomsList" style="display: none;">
+                                                        <!-- <ul class="roomsList">
                                                             <li>
                                                                 <p class="listImg"><img src="assets/images/camp/room-imgD-1.webp?2" alt="キッチン" loading="lazy"></p>
                                                                 <p class="listTxt">キッチン</p>
@@ -776,33 +776,33 @@
                                                                 <p class="listImg"><img src="assets/images/camp/room-imgD-4.webp" alt="浴室" loading="lazy"></p>
                                                                 <p class="listTxt">浴室</p>
                                                             </li>
-                                                        </ul>
+                                                        </ul> -->
                                                         <div class="slideArea">
                                                         <ul class="sliderDolce">
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001-1.webp" alt="キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-003.webp" alt="リビング" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-004.webp" alt="浴室" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-005.webp" alt="キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-006.webp" alt="キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-007.webp" alt="リビング" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-008.webp" alt="浴室" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-009.webp" alt="キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="リビング" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="浴室" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001-1.webp" alt="ドルチェ_キッチン"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="ドルチェ_キッチン"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-003.webp" alt="ドルチェ_キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-004.webp" alt="ドルチェ_キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-005.webp" alt="ドルチェ_トイレ" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-006.webp" alt="ドルチェ_ランドリー" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-007.webp" alt="ドルチェ_ランドリー" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-008.webp" alt="ドルチェ_ランドリー" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-009.webp" alt="ドルチェ_リビング" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="ドルチェ_リビング" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="ドルチェ_寝室" loading="lazy"></p></li>
                                                         </ul>
                                                         <ul class="thumb2">
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-001-1.webp" alt="キッチン" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="キッチン" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-003.webp" alt="リビング" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-004.webp" alt="浴室" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-005.webp" alt="キッチン" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-006.webp" alt="キッチン" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-007.webp" alt="リビング" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-008.webp" alt="浴室" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-009.webp" alt="キッチン" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="リビング" loading="lazy"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="浴室" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-001-1.webp" alt="ドルチェ_キッチン"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="ドルチェ_キッチン"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-003.webp" alt="ドルチェ_キッチン"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-004.webp" alt="ドルチェ_キッチン"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-005.webp" alt="ドルチェ_トイレ"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-006.webp" alt="ドルチェ_ランドリー"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-007.webp" alt="ドルチェ_ランドリー"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-008.webp" alt="ドルチェ_ランドリー"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-009.webp" alt="ドルチェ_リビング"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="ドルチェ_リビング"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="ドルチェ_寝室"></li>
                                                         </ul>
                                                         </div>
                                                         </div>
