@@ -1412,6 +1412,21 @@ dl.cautionBox dd{
     .slideArea{
       flex-direction: column;
     }
+    .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce{
+        width: 100%;
+    }
+    .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .sliderDolce li{
+        width: 100%;
+        padding: 0 10px;
+    }
+    .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb{
+        width: 100%;
+        margin: 10px auto;
+    }
+    .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb li{
+        width: 100%;
+        padding: 0 10px;
+    }
 }
 @media (min-width:550px) and (max-width: 768px) {
     .pointList {
