@@ -704,8 +704,10 @@ body.fixed {
     list-style: none;
     
   }
-  .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:before,.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:after,
-  .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb2 .slick-track:before,.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb2 .slick-track:after
+  .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:before,
+  .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:after,
+  .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb2 .slick-track:before,
+  .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb2 .slick-track:after
    {
       display: none;
   }
