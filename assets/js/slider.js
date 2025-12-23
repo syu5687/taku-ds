@@ -53,6 +53,7 @@ $('.sliderDolce').slick({
                     autoplay: true,
                     autoplaySpeed: 5000,
                     arrows: false,
+                    infinite: true,
                 }
             },{
                 breakpoint: 480,
