@@ -54,8 +54,8 @@ $('.sliderDolce').slick({
                     slidesToScroll: 1,
                     centerMode: true,
                     centerPadding: '10px',
-                    vertical: false,
-                    verticalSwiping: false,
+                    // vertical: false,
+                    // verticalSwiping: false,
                 }
             },{
                 breakpoint: 480,
@@ -64,8 +64,8 @@ $('.sliderDolce').slick({
                     slidesToScroll: 1,
                     centerMode: true,
                     centerPadding: '5px',
-                    vertical: false,
-                    verticalSwiping: false,
+                    // vertical: false,
+                    // verticalSwiping: false,
                 }
             }
         ]
