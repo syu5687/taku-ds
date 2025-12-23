@@ -42,7 +42,7 @@ $('.sliderDolce').slick({
         arrows: false,
         asNavFor:'.sliderDolce',
         focusOnSelect: true,
-        slidesToShow:5,
+        slidesToShow:3,
         slidesToScroll:1,
         responsive: [
             {
