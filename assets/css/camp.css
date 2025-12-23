@@ -701,8 +701,6 @@ body.fixed {
     margin: 0 auto;
     list-style: none;
     height: 500px;
-    overflow: hidden;
-    padding-right: 50px;
     display: flex;
   }
   .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb .slick-track{
@@ -732,6 +730,7 @@ body.fixed {
     margin:5px;
     list-style: none;
     padding: 0 15px;
+    display: block;
 }
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .thumb li p.listImg{
     margin-bottom: 0;
