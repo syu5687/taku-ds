@@ -1448,8 +1448,8 @@ dl.cautionBox dd{
           display: none;
       }
       .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track{
-        transform: unset !important;
-        width:100% !important;
+        transform: auto;
+        width:auto;
         display: block;
       }
       .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track .slick-slide{
