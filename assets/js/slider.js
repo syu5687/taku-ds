@@ -44,14 +44,18 @@ $('.sliderDolce').slick({
         focusOnSelect: true,
         slidesToShow:3,
         slidesToScroll:1,
+        vertical: true,
+        verticalSwiping: true,
         responsive: [
             {
                 breakpoint: 768,
                 settings: {
-                    slidesToShow: 3,
+                    slidesToShow: 5,
                     slidesToScroll: 1,
                     centerMode: true,
-                    centerPadding: '10px'
+                    centerPadding: '10px',
+                    vertical: false,
+                    verticalSwiping: false,
                 }
             },
             {
@@ -60,7 +64,9 @@ $('.sliderDolce').slick({
                     slidesToShow: 3,
                     slidesToScroll: 1,
                     centerMode: true,
-                    centerPadding: '5px'
+                    centerPadding: '5px',
+                    vertical: false,
+                    verticalSwiping: false,
                 }
             }
         ]
