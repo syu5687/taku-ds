@@ -760,17 +760,17 @@
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="浴室" loading="lazy"></p></li>
                                                         </ul>
                                                         <ul class="thumb">
-                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001.webp" alt="キッチン" loading="lazy"></p></li>
-                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="キッチン" loading="lazy"></p></li>
-                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-003.webp" alt="リビング" loading="lazy"></p></li>
-                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-004.webp" alt="浴室" loading="lazy"></p></li>
-                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-005.webp" alt="キッチン" loading="lazy"></p></li>
-                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-006.webp" alt="キッチン" loading="lazy"></p></li>
-                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-007.webp" alt="リビング" loading="lazy"></p></li>
-                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-008.webp" alt="浴室" loading="lazy"></p></li>
-                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-009.webp" alt="キッチン" loading="lazy"></p></li>
-                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="リビング" loading="lazy"></p></li>
-                                                              <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="浴室" loading="lazy"></p></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-001.webp" alt="キッチン" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="キッチン" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-003.webp" alt="リビング" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-004.webp" alt="浴室" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-005.webp" alt="キッチン" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-006.webp" alt="キッチン" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-007.webp" alt="リビング" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-008.webp" alt="浴室" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-009.webp" alt="キッチン" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="リビング" loading="lazy"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="浴室" loading="lazy"></li>
                                                         </ul>
                                                         </div>
                                                         </div>
