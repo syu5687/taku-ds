@@ -18,7 +18,7 @@ $('.sliderDolce').slick({
             {
                 breakpoint: 768,
                 settings: {
-                    
+                    arrows: true,
                     centerMode: true,
                     centerPadding: '20px'
                 }
