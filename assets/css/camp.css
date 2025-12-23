@@ -1444,16 +1444,9 @@ dl.cautionBox dd{
         height: auto;
         margin:0px auto;
       }
-      .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:before,.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track:after {
-          display: none;
-      }
-      .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track{
-        transform: auto;
-        width:auto;
-        display: block;
       }
       .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb .slick-track .slick-slide{
-        width:55px !important;
+        width:75px !important;
       }
     .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb li{
         width: 100% !important;
