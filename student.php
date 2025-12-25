@@ -81,51 +81,55 @@
                         <div class="wrapBasicPlan" id="scheduleTable">
                             <h3 class="titleItemContent">教習時間</h3>
                             <div class="contentItem">
+                                <p>※令和8年1月5日の営業開始より、下記のように時間割を変更することになりました。</p>
                                 <div class="tableWrap">
                                     <table>
                                         <tr>
                                             <td>1時限</td>
-                                            <td>9：30～10：20</td>
+                                            <td>8：50～9：40</td>
                                         </tr>
                                         <tr>
                                             <td>2時限</td>
-                                            <td>10：30～11：20</td>
+                                            <td>9：50～10：40</td>
                                         </tr>
                                         <tr>
                                             <td>3時限</td>
-                                            <td>11：30～12：20</td>
+                                            <td>10：50～11：40</td>
                                         </tr>
                                         <tr>
                                             <td>4時限</td>
-                                            <td>12：30～13：20</td>
+                                            <td>11：50～12：40</td>
+                                        </tr>
+                                        <tr>
+                                            <td>（昼）</td>
                                         </tr>
                                         <tr>
                                             <td>5時限</td>
-                                            <td>13：30～14：20</td>
+                                            <td>13：40～14：30</td>
                                         </tr>
                                         <tr>
                                             <td>6時限</td>
-                                            <td>14：30～15：20</td>
+                                            <td>14：40～15：30</td>
                                         </tr>
                                         <tr>
                                             <td>7時限</td>
-                                            <td>15：30～16：20</td>
+                                            <td>15：40～16：30</td>
                                         </tr>
                                         <tr>
                                             <td>8時限</td>
-                                            <td>16：30～17：20</td>
+                                            <td>16：40～17：30</td>
                                         </tr>
                                         <tr>
                                             <td>9時限</td>
-                                            <td>17：30～18：20</td>
+                                            <td>17：40～18：30</td>
                                         </tr>
                                         <tr>
                                             <td>10時限</td>
-                                            <td>18：30～19：20</td>
+                                            <td>18：40～19：30</td>
                                         </tr>
                                         <tr>
                                             <td>11時限</td>
-                                            <td>19：30～20：20</td>
+                                            <td>19：40～20：30</td>
                                         </tr>
                                     </table>
                                 </div>
