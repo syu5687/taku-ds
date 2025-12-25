@@ -569,11 +569,11 @@
                                         TEL:<a href="tel:0952-76-2050">0952-76-2050</a><br>
                                         mail:<a href="mailto:info@taku-ds.jp">info@taku-ds.jp</a></p>
                                 </div>
-                                <div class="licenceBtn">
+                                <!-- <div class="licenceBtn">
                                     <p class="btnBox">
                                         <a href="licence.php?tab=price">料金についてはこちら</a>
                                     </p>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="wrapBasicPlan planTheory" id="plan-theory">
