@@ -101,7 +101,7 @@
                                             <td>11：50～12：40</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="2">（昼）</td>
+                                            <td colspan="2">（昼）</td>
                                         </tr>
                                         <tr>
                                             <td>5時限</td>
