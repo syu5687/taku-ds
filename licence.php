@@ -528,6 +528,7 @@
                                             </tr>
                                         </table>
                                     </div>
+                                    <p class="tableNote sp">←横にスクロールできます→</p>
                                 </div>
                                 <p class="planSub">
                                     ※上記価格はすべて消費税10％を含んだ価格となります。<br>
