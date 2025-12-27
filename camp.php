@@ -724,7 +724,7 @@
                         </div>
                         <div class="wrapBasicPlan" id="dolce">
                             <h3 class="titleItemContent" style="margin-bottom: 10px;">ドルチェ</h3>
-                            <span style="color:#EF5350;font-size: 1.5rem;margin-bottom: 30px;">2025年11月オープン‼︎</span>
+                            <span style="color:#EF5350;font-size: 1.7rem;margin: 10px auto;display:block;width:100%;text-align: center;font-weight:bold;">&bsol;2025年11月オープン‼︎&sol;</span>
                             <div class="contentItem">
                                 <div class="hotelInfoWrap">
                                     <p class="hotelImg">
