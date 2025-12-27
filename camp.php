@@ -626,7 +626,7 @@
                             <div class="contentItem">
                                 <div class="hotelInfoWrap">
                                     <p class="hotelImg">
-                                        <img src="assets/images/camp/shalon/room-img-008.webp" alt="シェアハウス「シャロン」">
+                                        <img src="assets/images/camp/shalon/room-img-008.webp" alt="シェアハウス「シャロン」" style="border-radius: 30px;">
                                     </p>
                                     <div class="infoWrap">
                                         <h4 class="titleItem">自炊プラン（シングルプラン・ツインプラン）</h4>
@@ -647,7 +647,7 @@
                                                     </div>
                                                     <div class="boxContentOriginal">
                                                         <p class="popupTitle">シェアハウス「シャロン」</p>
-                                                        <p class="storeOriPhoto"><img src="assets/images/camp/hotel-1-big.png" alt="シェアハウス「シャロン」"></p>
+                                                        <p class="storeOriPhoto"><img src="assets/images/camp/shalon/room-img-008.webp" alt="シェアハウス「シャロン」" style="border-radius: 30px;"></p>
                                                         <p class="popupText">
                                                             シェアハウス「シャロン」は自炊のプランです。<br>
                                                             食事、ベッドメイキング、掃除、ゴミ出しなど身の回りのことはすべてお客様ご自身で行います。<br>
