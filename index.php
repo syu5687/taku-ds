@@ -19,6 +19,13 @@
                     </div>
                     <ul class="listNewsTop">
                         <li>
+                            <a href="/news#noticeNews000">
+                                <p class="timeNewsTop">25.12.27</p>
+                                <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span>年末年始休業日のお知らせ</h3>
+                            </a>
+                        </li>
+
+                        <li>
                             <a href="/news#noticeNews001">
                                 <p class="timeNewsTop">25.12.23</p>
                                 <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span> 4月からの進学・就職に間に合わせたい方におすすめプラン登場！</h3>

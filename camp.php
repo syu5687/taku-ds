@@ -723,7 +723,8 @@
                             </div>
                         </div>
                         <div class="wrapBasicPlan" id="dolce">
-                            <h3 class="titleItemContent">ドルチェ</h3>
+                            <h3 class="titleItemContent" style="margin-bottom: 10px;">ドルチェ</h3>
+                            <span style="color:#EF5350;font-size: 1.5rem;margin-bottom: 30px;">2025年11月オープン‼︎</span>
                             <div class="contentItem">
                                 <div class="hotelInfoWrap">
                                     <p class="hotelImg">
@@ -790,7 +791,7 @@
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-007.webp" alt="ドルチェ_ランドリー" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-008.webp" alt="ドルチェ_ランドリー" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-009.webp" alt="ドルチェ_リビング" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="ドルチェ_リビング" loading="lazy"></p></li>
+                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="ドルチェ_リビング" loading="lazy"></p></li> -->
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="ドルチェ_寝室" loading="lazy"></p></li>
                                                         </ul>
                                                         <ul class="thumb2">
@@ -803,7 +804,7 @@
                                                               <li><img src="assets/images/camp/dolce/room-imgD-007.webp" alt="ドルチェ_ランドリー"></li>
                                                               <li><img src="assets/images/camp/dolce/room-imgD-008.webp" alt="ドルチェ_ランドリー"></li>
                                                               <li><img src="assets/images/camp/dolce/room-imgD-009.webp" alt="ドルチェ_リビング"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="ドルチェ_リビング"></li>
+                                                              <!-- <li><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="ドルチェ_リビング"></li> -->
                                                               <li><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="ドルチェ_寝室"></li>
                                                         </ul>
                                                         </div>

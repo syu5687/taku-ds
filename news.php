@@ -13,6 +13,28 @@
                 </ul>
                 <div class="contentTab">
                     <div class="itemTab" id="noticeNews">
+                        <div class="wrapBasicPlan" id="noticeNews000">
+                            <h3 class="titleItemContent" id="noticeNewsTitle000">年末年始休業日のお知らせ</h3>
+                            <div class="contentItem">
+                                <div class="iframeNews">
+                                    <div class="boxNews">
+                                        <p class="timeNews" id="noticeNewsDate000">2025.12.27</p>
+                                        <p class="txtNoticeNews">お知らせ</p>
+                                    </div>
+                                    <div class="boxContentNews">
+                                        <p>
+                                            誠に勝手ながら、弊社の年末年始休業日を<br class="sp">下記のとおりとさせていただきます。<br>
+                                            ご迷惑をおかけいたしますが、<br class="sp">なにとぞ、ご了承いただきますよう、<br class="sp">お願い申し上げます。<br>
+                                            <span style="color:#50B482;">＜年末年始休業日期間＞</span>
+                                            １２月２８日(日)〜１月４日(日）まで休校<br>
+                                            2026年 １月５日（月）より通常営業となります。<br>
+                                            年末年始休暇期間中にいただきました<br class="sp">お問い合わせにつきましては、<br>2026年1月5日（月）より<br class="sp">順次ご連絡させていただきます。
+                                        </p>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
                         <div class="wrapBasicPlan" id="noticeNews001">
                             <h3 class="titleItemContent" id="noticeNewsTitle001">4月からの進学、就職に間に合わせたい方におすすめプラン登場！</h3>
                             <div class="contentItem">
