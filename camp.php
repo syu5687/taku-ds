@@ -17,7 +17,7 @@
                     <li><a href="#eventCalendar" data-tab="eventCalendar">カレンダー</a></li>
                     <li><a href="#accommodation" data-tab="accommodation">宿泊施設</a></li>
                     <li><a href="#campFlow" data-tab="campFlow">入校から免許取得まで</a></li>
-                    <li><a href="#termsAndConditions" data-tab="termsAndConditions">参加規約</a></li>
+                    <!-- <li><a href="#termsAndConditions" data-tab="termsAndConditions">参加規約</a></li> -->
                 </ul>
                 <div class="contentTab">
                     <div class="itemTab" id="overviewCamp">
@@ -141,6 +141,8 @@
                                     
                                     ●スマートフォンやタブレット端末をお持ちで、使用可能な方（モバイル通信でのアプリ操作、動画視聴）<br>
                                     ●日本語の読み書きができる方、日本語でのコミュニケーションができる方<br>
+                                    ●刺青（ファッションタトゥーを含む）をされている方はご入校いただけません。<br>
+                                    ●暴食団、反社会勢力との関わりがある方はご入校いただけません。<br>
                                 </p>
                                 <h4 class="titleItem">入校可能地域</h4>
                                 <p class="fxL">
@@ -175,8 +177,8 @@
                                     交通費の支給は指定の交通手段を利用され、かつ実費にかかった領収書（JR・バス・飛行機等）を提示いただいた場合のみ支給されます。<br>
                                     車・タクシーにて来校される場合、交通費は支給できませんのでご注意下さい。<br>
                                     集合場所は、JR江北駅北側ロータリーです。<br>
-                                    集合時間は12時40分です。時間に間に合うよう交通手段を手配してください。<br>
-                                    ​※集合場所までは各自お調べのうえお越しください。<br>
+                                    集合時間は13時です。時間に間に合うよう交通手段を手配してください。<br>
+                                    ※集合場所までは各自お調べのうえお越しください。<br>
                                     
                                 </p>
                                 <h4 class="titleItem">交通費の上限</h4>
@@ -337,7 +339,7 @@
                                         </tr>
                                         <tr>
                                             <th>集合時刻</th>
-                                            <td>12:40<span class="red">※時間厳守</span></td>
+                                            <td>13:00<span class="red">※時間厳守</span></td>
                                         </tr>
                                     </table>
                                 </div>
@@ -385,7 +387,7 @@
                                     <li><a href="assets/pdf/camp-overview-02.pdf" target="_blank" rel="noopener noreferrer">旅行業登録票</a></li>
                                     <li><a href="assets/pdf/camp-overview-03.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款</a></li>
                                     <li class="fxLink"><a href="assets/pdf/camp-overview-04.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款（特別補償規程）</a></li>
-                                    <li><a href="camp?tab=termsAndConditions">合宿免許の参加規約</a></li>
+                                    <!-- <li><a href="camp?tab=termsAndConditions">合宿免許の参加規約</a></li> -->
                                 </ul>
                             </div>  
                         </div>
@@ -999,7 +1001,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="itemTab" id="termsAndConditions">
+                    <!-- <div class="itemTab" id="termsAndConditions">
                         <div class="wrapBasicPlan">
                             <h3 class="titleItemContent">合宿免許の参加規約</h3>
                             <div class="contentItem">
@@ -1107,7 +1109,7 @@
                                 </p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

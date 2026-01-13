@@ -152,7 +152,7 @@
                                             <li>めがね・補聴器（必要な方のみ）</li>
                                             <li>運転できる履物でお越しください</li>
                                         </ul>
-                                        <div class="iframeSenior">
+                                        <!-- <div class="iframeSenior">
                                             <h5 class="titleSenior">手数料</h5>
                                             <ul class="listCommission">
                                                 <li>
@@ -164,7 +164,7 @@
                                                     <p class="numCommission">4,500円</p>
                                                 </li>
                                             </ul>
-                                        </div>
+                                        </div> -->
                                     </div>
                                     <div class="boxSenior">
                                         <h4 class="titleItem">高齢者講習（約２時間程度）</h4>

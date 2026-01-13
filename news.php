@@ -73,7 +73,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="wrapBasicPlan" id="noticeNews003">
+                        <!-- <div class="wrapBasicPlan" id="noticeNews003">
                             <h3 class="titleItemContent" id="noticeNewsTitle003">仮免申請料等の料金改定について</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
@@ -92,8 +92,8 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="wrapBasicPlan" id="noticeNews004">
+                        </div> -->
+                        <!-- <div class="wrapBasicPlan" id="noticeNews004">
                             <h3 class="titleItemContent">令和６年度　優良教習所の表彰について</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
@@ -108,7 +108,7 @@
                                 </div>
                                 <p><img src="assets/images/news/notice-news-photo.webp" alt="令和６年度　優良教習所の表彰について" loading="lazy"></p>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="wrapBasicPlan" id="noticeNews005">
                             <h3 class="titleItemContent" id="noticeNewsTitle005">感染症等の対策について</h3>
                             <div class="contentItem">
