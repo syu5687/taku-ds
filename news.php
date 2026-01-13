@@ -13,7 +13,7 @@
                 </ul>
                 <div class="contentTab">
                     <div class="itemTab" id="noticeNews">
-                        <div class="wrapBasicPlan" id="noticeNews000">
+                        <!-- <div class="wrapBasicPlan" id="noticeNews000">
                             <h3 class="titleItemContent" id="noticeNewsTitle000">年末年始休業日のお知らせ</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
@@ -34,9 +34,9 @@
                                     
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="wrapBasicPlan" id="noticeNews001">
-                            <h3 class="titleItemContent" id="noticeNewsTitle001">4月からの進学、就職に間に合わせたい方におすすめプラン登場！</h3>
+                            <h3 class="titleItemContent" id="noticeNewsTitle001">3月末日までに卒業可能！<br class="sp">スピードプラン（完全スケジュール制）</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
                                     <div class="boxNews">
