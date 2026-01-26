@@ -588,6 +588,20 @@ table tr td  .red{
     justify-content: center;
     cursor: pointer;
 }
+
+#licenseAndEnrollDates .popupFlowOriginal .wrapFlowOriginal .closePopup {
+    position: absolute;
+    right: 0%;
+    top: -1%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    transform: rotate(45deg);
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .closePopup,
 .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .closePopup {
     top: 3%;
@@ -1361,6 +1375,10 @@ dl.cautionBox dd{
     .popupFlowOriginal .wrapFlowOriginal  .closePopup  {
         right: 4%;
         top: 4%;
+    }
+    #licenseAndEnrollDates .popupFlowOriginal .wrapFlowOriginal  .closePopup  {
+        right: -3%;
+        top: -6%;
     }
     .popupFlowOriginal .wrapFlowOriginal  .closePopup span {
         cursor: pointer;
