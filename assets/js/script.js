@@ -175,6 +175,10 @@ $(document).ready(function() {
         $(".popupFlowOriginal").addClass('showPopup');
         $('body').addClass('fixed');
     });
+    $(".popupCalender").click(function() {
+        $(".popupLink2").addClass('showPopup');
+        $('body').addClass('fixed');
+    });
     $(".closePopup").click(function() {
         $(".popupFlowOriginal").removeClass('showPopup');
         $('body').removeClass('fixed');
