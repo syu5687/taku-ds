@@ -403,10 +403,25 @@
                             <h3 class="titleItemContent">料金表&保証内容</h3>
                             <div class="contentItem">
                                 <p class="pic">
-                                    <a class="hover" href="assets/images/camp/camp_moneyTable.webp" rel="noopener noreferrer" target="_blank">
-                                        <img src="assets/images/camp/camp_moneyTable.webp" alt="料金表" loading="lazy">
+                                   <a class="popupMoney" href="javascript:void(0)">
+                                    <img src="assets/images/camp/camp_moneyTable.webp" alt="料金表" loading="lazy">
                                     </a>
                                 </p>
+                                
+                                <div class="popupFlowOriginal popupLink1">
+                                    <div class="wrapFlowOriginal">
+                                        <div class="boxOriginal">
+                                            <div class="closePopup">
+                                                <span></span>
+                                                <span></span>
+                                            </div>
+                                            <div class="boxContentOriginal">
+                                                <img src="assets/images/camp/camp_moneyTable.webp" alt="料金表" loading="lazy">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
                                 
                                 <!-- <div class="tableWrap tableScroll">
                                     <p>令和7年11月1日～令和8年6月30日入校</p>
@@ -589,17 +604,18 @@
                                 </p>
                                 
                                 <div class="popupFlowOriginal popupLink2">
-                                <div class="wrapFlowOriginal">
-                                    <div class="boxOriginal">
-                                        <div class="closePopup">
-                                            <span></span>
-                                            <span></span>
-                                        </div>
-                                        <div class="boxContentOriginal">
-                                            <img  src="assets/images/camp/camp_calTable.webp" alt="合宿入校カレンダー" loading="lazy">
+                                    <div class="wrapFlowOriginal">
+                                        <div class="boxOriginal">
+                                            <div class="closePopup">
+                                                <span></span>
+                                                <span></span>
+                                            </div>
+                                            <div class="boxContentOriginal">
+                                                <img  src="assets/images/camp/camp_calTable.webp" alt="合宿入校カレンダー" loading="lazy">
+                                            </div>
                                         </div>
                                     </div>
-                                    </div></div>
+                                </div>
                                 <!-- <h4 class="titleItem">入校日</h4> -->
                                 <!-- <div class="tableWrap">
                                     <table>
