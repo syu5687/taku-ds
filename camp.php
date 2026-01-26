@@ -13,8 +13,8 @@
             <div class="wrapTab">
                 <ul class="listTab">
                     <li class="active"><a href="#overviewCamp" data-tab="overviewCamp">概要</a></li>
-                    <li><a href="#movingCost" data-tab="movingCost">料金表</a></li>
-                    <li><a href="#eventCalendar" data-tab="eventCalendar">カレンダー</a></li>
+                    <li><a href="#movingCost" data-tab="movingCost">料金表/カレンダー</a></li>
+                    <!-- <li><a href="#eventCalendar" data-tab="eventCalendar">カレンダー</a></li> -->
                     <li><a href="#accommodation" data-tab="accommodation">宿泊施設</a></li>
                     <li><a href="#campFlow" data-tab="campFlow">入校から免許取得まで</a></li>
                     <!-- <li><a href="#termsAndConditions" data-tab="termsAndConditions">参加規約</a></li> -->
@@ -394,18 +394,23 @@
                     </div>
                     <div class="itemTab" id="movingCost">
                         <ul class="listItem anchor">
-                            <li><a href="#pricePlan">料金プラン(3食付）</a></li>
+                            <li><a href="#pricePlan">料金表&保証内容</a></li>
                             <!-- <li><a href="#discount">割引制度</a></li> -->
-                            <li><a href="#warranty">保証内容について（30歳までの方）</a></li>
-                            <li><a href="#licenseAndEnrollDates">取得可能免許・入校日</a></li>
+                            <!-- <li><a href="#warranty">保証内容について（30歳までの方）</a></li> -->
+                            <li><a href="#licenseAndEnrollDates">入校カレンダー</a></li>
                         </ul>
                         <div class="wrapBasicPlan" id="pricePlan">
-                            <h3 class="titleItemContent">料金プラン（3食付）</h3>
+                            <h3 class="titleItemContent">料金表&保証内容</h3>
                             <div class="contentItem">
-                                <div class="tableWrap tableScroll">
+                                <p class="pic">
+                                    <a class="hover" href="assets/camp/camp_moneyTable.webp" rel="noopener noreferrer" target="_blank">
+                                        <img src="assets/images/camp/camp_moneyTable.webp" alt="料金表" loading="lazy">
+                                    </a>
+                                </p>
+                                
+                                <!-- <div class="tableWrap tableScroll">
                                     <p>令和7年11月1日～令和8年6月30日入校</p>
                                     <table>
-
                                         <tr>
                                             <th class="col">宿泊施設名</th>
                                             <th class="row">部屋タイプ</th>
@@ -477,18 +482,15 @@
                                             <td>412,500円</td>
                                         </tr>
                                     </table>
-                                </div>
-                                <p class="text tableNotes sp">←横にスクロールできます→</p>
-                                <p class="text tableNotes">
+                                </div> -->
+                                <!-- <p class="text tableNotes sp">←横にスクロールできます→</p> -->
+                                <!-- <p class="text tableNotes">
                                     ※上記金額は全て税込です。<br>
                                     <span class="bold">ホテルプランの方でお食事不要な場合は値引きいたしますのでお問い合わせください。</span><br>
                                     ※別途、仮免許申請交付料 2,900円（非課税）がかかります。（入校日に窓口でお支払いください）<br>
                                     ※上記金額より、MT の方は22,000 円UP 二輪免許所持の方は11,000 円引<br>
                                     ※お支払いは銀行振込のみとなっております。ローンをご希望の方は、入校申込時にご相談ください。
-                                </p>
-                                <p class="text">
-                                    
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                         <!-- <div class="wrapBasicPlan" id="discount">
@@ -522,7 +524,7 @@
                                 </div>
                             </div>
                         </div> -->
-                        <div class="wrapBasicPlan" id="warranty">
+                        <!-- <div class="wrapBasicPlan" id="warranty">
                             <h3 class="titleItemContent">保証内容について（30歳までの方）</h3>
                             <div class="contentItem">
                                 <div class="tableWrap">
@@ -537,14 +539,12 @@
                                         <tr>
                                             <th>修了検定</th>
                                             <td>
-                                                <!-- 1回分は教習料金に含む -->
                                                 卒業まで保証
                                             </td>
                                         </tr>
                                         <tr>
                                             <th>卒業検定</th>
                                             <td>
-                                                <!-- 1回分は教習料金に含む -->
                                                 卒業まで保証
                                             </td>
                                         </tr>
@@ -558,7 +558,7 @@
                                         </tr>
                                     </table>
                                 </div>
-                                <!-- <p class="text tableNotes">※26歳以上の方は保証はありません。</p> -->
+                                <p class="text tableNotes">※26歳以上の方は保証はありません。</p>
                                 <h4 class="titleItem">保証備考</h4>
                                 <p class="text red bold fxP">お客様の不注意や故意による教習の遅延、お客様都合による追加教習・延泊等は、保証内でも追加費用がかかります</p>
                                 <div class="blockWrap">
@@ -572,12 +572,23 @@
                                     </p>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="wrapBasicPlan" id="licenseAndEnrollDates">
-                            <h3 class="titleItemContent">取得可能免許・入校日</h3>
+                            <h3 class="titleItemContent">カレンダー</h3>
                             <div class="contentItem">
-                                <h4 class="titleItem">入校日</h4>
-                                <div class="tableWrap">
+                                <p class="text">
+                                    ※クリックで全画面表示できます。
+                                </p>
+                                <ul class="listLink">
+                                    <li><a href="/contact">申し込みはこちら</a></li>
+                                </ul>
+                                <p class="pic">
+                                    <a class="hover" href="assets/camp/camp_calTable.webp" rel="noopener noreferrer" target="_blank">
+                                    <img  src="assets/images/camp/camp_calTable.webp" alt="合宿入校カレンダー" loading="lazy">
+                                    </a>
+                                </p>
+                                <!-- <h4 class="titleItem">入校日</h4> -->
+                                <!-- <div class="tableWrap">
                                     <table>
                                         <tr>
                                             <th><span class="thText">普通車/AT</span><span class="thTime">14泊15日〜（最短）</span></th>
@@ -588,16 +599,16 @@
                                             <td>毎週<span class="red">火曜日</span></td>
                                         </tr>
                                     </table>
-                                </div>
-                                <p class="text tableNotes">
+                                </div> -->
+                                <!-- <p class="text tableNotes">
                                     ※別途、仮免申請交付料2,900円（非課税）がかかります。（窓口でお支払いください）<br>
                                     ※自動二輪免許をお持ちの方は、11,000円（税込）引きとなります。卒業日程が異なります。<br>
                                     ※料金と入校日は時期により変動がございます。
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                     </div>
-                    <div class="itemTab" id="eventCalendar">
+                    <!-- <div class="itemTab" id="eventCalendar">
                         <div class="wrapBasicPlan">
                             <h3 class="titleItemContent">入校日＆最短卒業予定日カレンダー</h3>
                             <div class="contentItem">
@@ -614,7 +625,7 @@
                                 </p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="itemTab" id="accommodation">
                         <ul class="listItem anchor">
                             <li><a href="#shareHouse">シェアハウス「シャロン」</a></li>
