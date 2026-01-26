@@ -403,7 +403,7 @@
                             <h3 class="titleItemContent">料金表&保証内容</h3>
                             <div class="contentItem">
                                 <p class="pic">
-                                    <a class="hover" href="assets/camp/camp_moneyTable.webp" rel="noopener noreferrer" target="_blank">
+                                    <a class="hover" href="assets/images/camp/camp_moneyTable.webp" rel="noopener noreferrer" target="_blank">
                                         <img src="assets/images/camp/camp_moneyTable.webp" alt="料金表" loading="lazy">
                                     </a>
                                 </p>
