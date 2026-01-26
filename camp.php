@@ -583,7 +583,7 @@
                                     <li><a href="/contact">申し込みはこちら</a></li>
                                 </ul>
                                 <p class="pic">
-                                    <a class="hover" href="assets/camp/camp_calTable.webp" rel="noopener noreferrer" target="_blank">
+                                    <a class="hover" href="assets/images/camp/camp_calTable.webp" rel="noopener noreferrer" target="_blank">
                                     <img  src="assets/images/camp/camp_calTable.webp" alt="合宿入校カレンダー" loading="lazy">
                                     </a>
                                 </p>

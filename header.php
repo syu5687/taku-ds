@@ -76,7 +76,7 @@
                         <a class="hover" href="/">
                             <picture>
                                 <source media="(max-width:768px)" srcset="assets/images/common/logo-sp.svg">
-                                <img src="assets/images/common/logo.svg" alt="" loading="eager" fetchpriority="high">
+                                <img src="/assets/images/common/logo.svg" alt="" loading="eager" fetchpriority="high">
                             </picture>
                         </a>
                     </div>

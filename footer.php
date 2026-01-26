@@ -20,7 +20,7 @@
     <!-- #content -->
     <div class="scrollToTop">
         <a href="#">
-            <p class="icon"><img src="assets/images/common/icon-scroll-top.svg" alt="PAGETOTOP" loading="lazy"></p>
+            <p class="icon"><img src="/assets/images/common/icon-scroll-top.svg" alt="PAGETOTOP" loading="lazy"></p>
             <p class="txtPageTop">PAGE TOP</p>
         </a>
     </div>
@@ -28,7 +28,7 @@
     <div id="footer">
         <div class="inner">
             <div class="wrapFooter">
-                <p class="logoFt"><a class="hover" href="/"><img src="assets/images/common/logo.svg" alt="" loading="lazy"></a></p>
+                <p class="logoFt"><a class="hover" href="/"><img src="/assets/images/common/logo.svg" alt="" loading="lazy"></a></p>
                 <div class="wrapInfoFt">
                     <p class="txtAddress">〒846-0012<br>佐賀県多久市東多久町大字別府1980</p>
                     <div class="wrapContactInfoFt">
@@ -39,8 +39,8 @@
                 </div>
                 <p class="insFt">
                     <a href="https://www.instagram.com/saga_takuds/" target="_blank">
-                        <img class="insOriginal" src="assets/images/common/icon-ins.svg" alt="" loading="lazy">
-                        <img class="insHover" src="assets/images/common/icon-ins-hover.svg" alt="" loading="lazy">
+                        <img class="insOriginal" src="/assets/images/common/icon-ins.svg" alt="" loading="lazy">
+                        <img class="insHover" src="/assets/images/common/icon-ins-hover.svg" alt="" loading="lazy">
                     </a>
                 </p>
             </div>
