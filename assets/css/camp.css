@@ -589,7 +589,8 @@ table tr td  .red{
     cursor: pointer;
 }
 
-#licenseAndEnrollDates .popupFlowOriginal .wrapFlowOriginal .closePopup {
+#pricePlan .popupFlowOriginal .wrapFlowOriginal .closePopup,
+#licenseAndEnrollDates .popupFlowOriginal .wrapFlowOriginal .closePopup{
     position: absolute;
     right: 0%;
     top: -1%;
@@ -1376,7 +1377,8 @@ dl.cautionBox dd{
         right: 4%;
         top: 4%;
     }
-    #licenseAndEnrollDates .popupFlowOriginal .wrapFlowOriginal  .closePopup  {
+    #licenseAndEnrollDates .popupFlowOriginal .wrapFlowOriginal .closePopup,
+    #pricePlan .popupFlowOriginal .wrapFlowOriginal  .closePopup{
         right: -3%;
         top: -6%;
     }
