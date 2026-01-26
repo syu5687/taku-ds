@@ -583,10 +583,23 @@
                                     <li><a href="/contact">申し込みはこちら</a></li>
                                 </ul>
                                 <p class="pic">
-                                    <a class="hover" href="assets/images/camp/camp_calTable.webp" rel="noopener noreferrer" target="_blank">
+                                   <a class="popupLink2" href="javascript:void(0)">
                                     <img  src="assets/images/camp/camp_calTable.webp" alt="合宿入校カレンダー" loading="lazy">
                                     </a>
                                 </p>
+                                
+                                <div class="popupFlowOriginal popupLink2">
+                                <div class="wrapFlowOriginal">
+                                    <div class="boxOriginal">
+                                        <div class="closePopup">
+                                            <span></span>
+                                            <span></span>
+                                        </div>
+                                        <div class="boxContentOriginal">
+                                            <img  src="assets/images/camp/camp_calTable.webp" alt="合宿入校カレンダー" loading="lazy">
+                                        </div>
+                                    </div>
+                                    </div></div>
                                 <!-- <h4 class="titleItem">入校日</h4> -->
                                 <!-- <div class="tableWrap">
                                     <table>
