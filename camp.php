@@ -383,7 +383,7 @@
                             <div class="contentItem">
                                 <p class="cter">合宿免許にお申込みいただく前に、下記の旅行条件書をご確認ください。</p>
                                 <ul class="listLink cter">
-                                    <li><a href="assets/pdf/camp-overview-01.pdf" target="_blank" rel="noopener noreferrer">旅行条件書</a></li>
+                                    <li><a href="assets/pdf/camp-overview-01-2.pdf" target="_blank" rel="noopener noreferrer">旅行条件書</a></li>
                                     <li><a href="assets/pdf/camp-overview-02-2.pdf" target="_blank" rel="noopener noreferrer">旅行業登録票</a></li>
                                     <li><a href="assets/pdf/camp-overview-03.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款</a></li>
                                     <li class="fxLink"><a href="assets/pdf/camp-overview-04.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款（特別補償規程）</a></li>
