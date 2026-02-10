@@ -25,12 +25,12 @@
                             </a>
                         </li> -->
 
-                        <li>
+                        <!-- <li>
                             <a href="/news#noticeNews001">
                                 <p class="timeNewsTop">25.12.23</p>
                                 <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span>3月末日までに卒業可能！<br class="sp">スピードプラン（完全スケジュール制）</h3>
                             </a>
-                        </li>
+                        </li> -->
                         <li>
                             <a href="/news#noticeNews002">
                                 <p class="timeNewsTop">25.08.01</p>
