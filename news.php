@@ -35,7 +35,7 @@
                                 </div>
                             </div>
                         </div> -->
-                        <div class="wrapBasicPlan" id="noticeNews001">
+                        <!-- <div class="wrapBasicPlan" id="noticeNews001">
                             <h3 class="titleItemContent" id="noticeNewsTitle001">3月末日までに卒業可能！<br class="sp">スピードプラン（完全スケジュール制）</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
@@ -55,7 +55,7 @@
                                     <p><img src="assets/images/licence/licence-plan-photo-08.webp" alt="スピードプラン" loading="lazy"></p>
                                     <p><img src="assets/images/licence/licence-plan-photo-09.webp" alt="3月卒業プラン" loading="lazy"></p>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="wrapBasicPlan" id="noticeNews002">
                             <h3 class="titleItemContent" id="noticeNewsTitle002">教習スケジュール制度導入のお知らせ</h3>
                             <div class="contentItem">
