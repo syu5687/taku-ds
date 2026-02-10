@@ -543,13 +543,12 @@
                             <h3 class="titleItemContent">スピードプラン</h3>
                             <div class="contentItem">
                                 <p class="speedSub">早く運転免許を取りたい方に最適なプラン。<br><span
-                                        class="line">プラン内容・条件：定員制となりますので事前にお問い合わせ下さい。</span><br><br>プラン料金：<span
-                                        class="red">通常料金＋33,000円（税込）～</span>
+                                        class="line">プラン内容・条件：定員制となりますので事前にお問い合わせ下さい。</span>
                                 </p>
                                 <div class="basicWrap">
-                                    <p class="basicIntro">2月・3月入校生限定プラン</p>
-                                    <p>3月末までに卒業できるプランで、入校日〜卒業日までのスケジュールを組みます！</p>
-                                    <ul class="planList">
+                                    <!-- <p class="basicIntro">2月・3月入校生限定プラン</p>
+                                    <p>3月末までに卒業できるプランで、入校日〜卒業日までのスケジュールを組みます！</p> -->
+                                    <!-- <ul class="planList">
                                         <li>
                                          <p class="planSub">
                                                 <img src="assets/images/licence/licence-plan-photo-07.webp" alt="ハイスピードプラン" loading="lazy">
@@ -565,9 +564,9 @@
                                                <img src="assets/images/licence/licence-plan-photo-09.webp" alt="3月卒業プラン" loading="lazy">
                                             </p>
                                         </li>
-                                    </ul>
-                                    <p class="planTelMail">※MTをご希望の方、各プランについては事前にお問い合わせ下さい。<br>
-                                        TEL:<a href="tel:0952-76-2050">0952-76-2050</a><br>
+                                    </ul> -->
+                                    <!-- <p class="planTelMail">※MTをご希望の方、各プランについては事前にお問い合わせ下さい。</p> -->
+                                        <p class="planTelMail">TEL:<a href="tel:0952-76-2050">0952-76-2050</a><br>
                                         mail:<a href="mailto:info@taku-ds.jp">info@taku-ds.jp</a></p>
                                 </div>
                                 <!-- <div class="licenceBtn">
