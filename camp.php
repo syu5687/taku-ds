@@ -597,21 +597,21 @@
                                 <ul class="listLink">
                                     <li><a href="/contact">申し込みはこちら</a></li>
                                 </ul>
-                                <p class="pic view_timer" data-end-date="2026/3/30 14:58">
+                                <p class="pic">
                                    <a class="popupCalender" href="javascript:void(0)">
-                                    <img src="assets/images/camp/camp_calTable.webp?1" alt="合宿入校カレンダー" loading="lazy">
+                                    <img src="assets/images/camp/camp_calTable-260330.webp?1" alt="合宿入校カレンダー" loading="lazy">
                                     </a>
                                 </p>
                                 
                                 <div class="popupFlowOriginal popupLink2">
-                                    <div class="wrapFlowOriginal view_timer" data-start-date="2026/3/30 14:58">
+                                    <div class="wrapFlowOriginal">
                                         <div class="boxOriginal">
                                             <div class="closePopup">
                                                 <span></span>
                                                 <span></span>
                                             </div>
                                             <div class="boxContentOriginal">
-                                                <img src="assets/images/camp/camp_calTable.webp?1" alt="合宿入校カレンダー" loading="lazy">
+                                                <img src="assets/images/camp/camp_calTable-260330.webp?1" alt="合宿入校カレンダー" loading="lazy">
                                             </div>
                                         </div>
                                     </div>
