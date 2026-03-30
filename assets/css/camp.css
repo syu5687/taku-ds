@@ -1379,8 +1379,8 @@ dl.cautionBox dd{
     }
     #licenseAndEnrollDates .popupFlowOriginal .wrapFlowOriginal .closePopup,
     #pricePlan .popupFlowOriginal .wrapFlowOriginal  .closePopup{
-        right: -3%;
-        top: -6%;
+        right: -1%;
+        top: -1%;
     }
     .popupFlowOriginal .wrapFlowOriginal  .closePopup span {
         cursor: pointer;
