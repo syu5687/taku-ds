@@ -40,7 +40,7 @@
                                             <div class="contentItemApprentice">
                                                 <h5 class="titleSenior">勤務時間</h5>
                                                 <ul class="listApprentice">
-                                                    <li>8時50分～17時30分　残業あり</li>
+                                                    <li>8時30分～17時30分　残業あり</li>
                                                 </ul>
                                             </div>
                                             <div class="contentItemApprentice">
@@ -96,7 +96,7 @@
                                             <div class="contentItemApprentice">
                                                 <h5 class="titleSenior">勤務時間</h5>
                                                 <ul class="listApprentice">
-                                                    <li>8時50分～17時30分　残業あり</li>
+                                                    <li>8時30分～17時30分　残業あり</li>
                                                 </ul>
                                             </div>
                                             <div class="contentItemApprentice">
