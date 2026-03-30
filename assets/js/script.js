@@ -224,7 +224,7 @@ function getMobileOperatingSystem() {
     return "unknown";
 }
 
-<script>
+
   $(document).ready(function() {
     $(".view_timer").each(function(index, target) {
       var startDate = $(this).attr("data-start-date");
@@ -245,5 +245,5 @@ function getMobileOperatingSystem() {
       }
     });
   });
-  </script>
+
 
