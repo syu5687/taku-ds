@@ -416,7 +416,7 @@
                                                 <span></span>
                                             </div>
                                             <div class="boxContentOriginal">
-                                                <img src="assets/images/camp/camp_moneyTable.webp" alt="料金表" loading="lazy">
+                                                <img src="assets/images/camp/camp_moneyTable-260330.webp" alt="料金表" loading="lazy">
                                             </div>
                                         </div>
                                     </div>
@@ -597,33 +597,11 @@
                                 <ul class="listLink">
                                     <li><a href="/contact">申し込みはこちら</a></li>
                                 </ul>
-                                <p class="pic view_timer" data-end-date="2026/3/30 15:12">
-                                   <a class="popupCalender" href="javascript:void(0)">
-                                    <img src="assets/images/camp/camp_calTable.webp?1" alt="合宿入校カレンダー" loading="lazy">
-                                    </a>
-                                </p>
-                                
-                                <p class="pic view_timer" data-start-date="2026/3/30 15:12">
+                                <p class="pic">
                                    <a class="popupCalender" href="javascript:void(0)">
                                     <img src="assets/images/camp/camp_calTable-260330.webp?1" alt="合宿入校カレンダー" loading="lazy">
                                     </a>
                                 </p>
-                                <div class="view_timer" data-end-date="2026/3/30 15:12">
-                                <div class="popupFlowOriginal popupLink2">
-                                    <div class="wrapFlowOriginal">
-                                        <div class="boxOriginal">
-                                            <div class="closePopup">
-                                                <span></span>
-                                                <span></span>
-                                            </div>
-                                            <div class="boxContentOriginal">
-                                                <img src="assets/images/camp/camp_calTable.webp?1" alt="合宿入校カレンダー" loading="lazy">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                </div>
-                                <div class="view_timer" data-start-date="2026/3/30 15:12">
                                 <div class="popupFlowOriginal popupLink2">
                                     <div class="wrapFlowOriginal">
                                         <div class="boxOriginal">
@@ -637,7 +615,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                </div>
+                                
                                 <!-- <h4 class="titleItem">入校日</h4> -->
                                 <!-- <div class="tableWrap">
                                     <table>
