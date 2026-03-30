@@ -166,7 +166,7 @@
                                         </p>
                                         <div class="staffInfo">
                                             <p class="infoName">Ｎ 指導員</p>
-                                            <p class="basicSub">【血液型】Ｂ型<br>【星座】乙女座<br>【趣味】映画<br>【一言】早く一人前になります。</p>
+                                            <p class="basicSub">【血液型】Ｂ型<br>【星座】乙女座<br>【趣味】映画<br>【一言】車のことならなんでも聞いて下さい!</p>
                                         </div>
                                     </li>
                                     <li>
@@ -503,7 +503,7 @@
                                                 <img src="assets/images/about/about-faq-icon-a.svg" alt="A">
                                             </p>
                                             <div class="answerDetail">
-                                                <p class="faqSub">仮免許が取得できる年齢は18歳ですが、お誕生日二ヶ月前から教習を始めることができます。<br>混み合う時期には、お早目の入校をおすすめしております。<br>2ヶ月以上前から入校をご希望の方はご相談ください。</p>
+                                                <p class="faqSub">当校では、18歳になるお誕生日の二ヶ月前から教習を始めることができます。<br>混み合う時期には、お早目の入校をおすすめしております。<br>2ヶ月以上前から入校をご希望の方はご相談ください。</p>
                                             </div>
                                         </div>
                                     </li>

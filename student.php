@@ -81,7 +81,7 @@
                         <div class="wrapBasicPlan" id="scheduleTable">
                             <h3 class="titleItemContent">教習時間</h3>
                             <div class="contentItem">
-                                <p>※令和8年1月5日の営業開始より、下記のように時間割を変更することになりました。</p>
+                                <!-- <p>※令和8年1月5日の営業開始より、下記のように時間割を変更することになりました。</p> -->
                                 <div class="tableWrap">
                                     <table>
                                         <tr>

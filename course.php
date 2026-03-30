@@ -196,9 +196,9 @@
                             </div>
                         </div>
                         <div class="wrapBasicPlan" id="noticeFee">
-                            <h3 class="titleItemContent">高齢者講習等料金改定のおしらせ</h3>
+                            <h3 class="titleItemContent">高齢者講習等料金のおしらせ</h3>
                             <div class="contentItem">
-                                <p class="txtTuition"><span style="text-decoration: underline;font-size: 1.2rem;font-weight: bold;">令和8年1月より</span>高齢者講習等の料金を下記の通り改定いたします。</p>
+                                <!-- <p class="txtTuition"><span style="text-decoration: underline;font-size: 1.2rem;font-weight: bold;">令和8年1月より</span>高齢者講習等の料金を下記の通り改定いたします。</p> -->
                                 <!-- <div class="wrapTableTuition">
                                     <table>
                                         <tr>

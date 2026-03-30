@@ -404,7 +404,7 @@
                             <div class="contentItem">
                                 <p class="pic">
                                    <a class="popupMoney" href="javascript:void(0)">
-                                    <img src="assets/images/camp/camp_moneyTable.webp" alt="料金表" loading="lazy">
+                                    <img src="assets/images/camp/camp_moneyTable-260330.webp" alt="料金表" loading="lazy">
                                     </a>
                                 </p>
                                 
