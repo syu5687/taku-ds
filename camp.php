@@ -388,6 +388,8 @@
                                     <li><a href="assets/pdf/camp-overview-03.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款</a></li>
                                     <li class="fxLink"><a href="assets/pdf/camp-overview-04.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款（特別補償規程）</a></li>
                                     <!-- <li><a href="camp?tab=termsAndConditions">合宿免許の参加規約</a></li> -->
+                                    <li class="view_timer" data-start-date="2026/3/30 16:06"><a href="#" target="_blank" rel="noopener noreferrer">..</a></li>
+                                    <li class="view_timer" data-end-date="2026/3/30 16:06"><a href="#" target="_blank" rel="noopener noreferrer">.</a></li>
                                 </ul>
                             </div>  
                         </div>
