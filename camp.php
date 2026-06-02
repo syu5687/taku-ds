@@ -405,7 +405,7 @@
                             <div class="contentItem">
                                 <p class="pic">
                                    <a class="popupMoney" href="javascript:void(0)">
-                                    <img src="assets/images/camp/camp_moneyTable-260330.webp" alt="料金表" loading="lazy">
+                                    <img src="assets/images/camp/camp_moneyTable.webp" alt="料金表" loading="lazy">
                                     </a>
                                 </p>
                                 
@@ -417,7 +417,7 @@
                                                 <span></span>
                                             </div>
                                             <div class="boxContentOriginal">
-                                                <img src="assets/images/camp/camp_moneyTable-260330.webp" alt="料金表" loading="lazy">
+                                                <img src="assets/images/camp/camp_moneyTable.webp" alt="料金表" loading="lazy">
                                             </div>
                                         </div>
                                     </div>
@@ -600,7 +600,7 @@
                                 </ul>
                                 <p class="pic">
                                    <a class="popupCalender" href="javascript:void(0)">
-                                    <img src="assets/images/camp/camp_calTable-260330.webp?1" alt="合宿入校カレンダー" loading="lazy">
+                                    <img src="assets/images/camp/camp_calTable.webp?1" alt="合宿入校カレンダー" loading="lazy">
                                     </a>
                                 </p>
                                 <div class="popupFlowOriginal popupLink2">
@@ -611,7 +611,7 @@
                                                 <span></span>
                                             </div>
                                             <div class="boxContentOriginal">
-                                                <img src="assets/images/camp/camp_calTable-260330.webp?1" alt="合宿入校カレンダー" loading="lazy">
+                                                <img src="assets/images/camp/camp_calTable.webp?1" alt="合宿入校カレンダー" loading="lazy">
                                             </div>
                                         </div>
                                     </div>
