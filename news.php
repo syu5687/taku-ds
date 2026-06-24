@@ -24,7 +24,7 @@
                                     <div class="boxContentNews">
                                         <p>
                                             大学生・専門学生の皆さんへ、2026年夏休み運転免許取得のためのご案内！<br>
-                                            詳しくは<a href="./pdf/summervaca_2026.pdf">こちら↓<img src="assets/images/news/summer2026.webp" alt="2026年夏休み運転免許取得のためのご案内" loading="lazy"></a>
+                                            詳しくは<a href="assets/pdf/summervaca_2026.pdf">こちら↓<img src="assets/images/news/summer2026.webp" alt="2026年夏休み運転免許取得のためのご案内" loading="lazy"></a>
                                         </p>
                                     </div>
                                     
