@@ -18,12 +18,12 @@
                         <p class="subTitleTop">お知らせ</p>
                     </div>
                     <ul class="listNewsTop">
-                        <!-- <li>
+                        <li>
                             <a href="/news#noticeNews000">
-                                <p class="timeNewsTop">25.12.27</p>
-                                <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span>年末年始休業日のお知らせ</h3>
+                                <p class="timeNewsTop">2026.06.24</p>
+                                <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span>2026年夏休み運転免許取得のためのご案内</h3>
                             </a>
-                        </li> -->
+                        </li>
 
                         <!-- <li>
                             <a href="/news#noticeNews001">
