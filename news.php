@@ -13,28 +13,27 @@
                 </ul>
                 <div class="contentTab">
                     <div class="itemTab" id="noticeNews">
-                        <!-- <div class="wrapBasicPlan" id="noticeNews000">
-                            <h3 class="titleItemContent" id="noticeNewsTitle000">年末年始休業日のお知らせ</h3>
+                        <div class="wrapBasicPlan" id="noticeNews000">
+                            <h3 class="titleItemContent" id="noticeNewsTitle000">2026年夏休み運転免許取得のためのご案内</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
                                     <div class="boxNews">
-                                        <p class="timeNews" id="noticeNewsDate000">2025.12.27</p>
+                                        <p class="timeNews" id="noticeNewsDate000">2026.06.24</p>
                                         <p class="txtNoticeNews">お知らせ</p>
                                     </div>
                                     <div class="boxContentNews">
                                         <p>
-                                            誠に勝手ながら、弊社の年末年始休業日を<br class="sp">下記のとおりとさせていただきます。<br>
-                                            ご迷惑をおかけいたしますが、<br class="sp">なにとぞ、ご了承いただきますよう、<br class="sp">お願い申し上げます。<br><br>
-                                            <span style="color:#50B482;">＜年末年始休業日期間＞</span><br>
-                                            １２月２８日(日)〜１月４日(日）まで休校<br>
-                                            2026年 １月５日（月）より通常営業となります。<br><br>
-                                            年末年始休暇期間中にいただきました<br class="sp">お問い合わせにつきましては、<br>2026年1月5日（月）より<br class="sp">順次ご連絡させていただきます。
+                                            大学生・専門学生の皆さんへ、2026年夏休み運転免許取得のためのご案内！<br>
+                                            詳しくは<a href="./pdf/summervaca_2026.pdf"><img src="assets/images/news/summer2026.webp" alt="2026年夏休み運転免許取得のためのご案内" loading="lazy">こちら↓</a>
                                         </p>
                                     </div>
                                     
                                 </div>
                             </div>
-                        </div> -->
+                            <div class="underImage">
+                                    <p><a href="./pdf/summervaca_2026.pdf"><img src="assets/images/news/summer2026.webp" alt="2026年夏休み運転免許取得のためのご案内" loading="lazy"></a></p>
+                            </div>
+                        </div>
                         <!-- <div class="wrapBasicPlan" id="noticeNews001">
                             <h3 class="titleItemContent" id="noticeNewsTitle001">3月末日までに卒業可能！<br class="sp">スピードプラン（完全スケジュール制）</h3>
                             <div class="contentItem">
