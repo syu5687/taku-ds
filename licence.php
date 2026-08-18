@@ -118,7 +118,7 @@
                             <h3 class="titleItemContent"><span class="step">STEP2</span>入校日・入校式の確認</h3>
                             <div class="contentItem">
                                 <div class="stepWrap">
-                                    <p class="twoNote"><a href="student.php?tab=schedule">コチラよりご確認ください。</a></p>
+                                    <p class="twoNote"><a href="/student?tab=schedule">コチラよりご確認ください。</a></p>
                                     <p class="stepSub">入校日時は、時期により変わりますのでご注意ください。<br>
                                         カラーコンタクト、ディファイン（黒目を大きく見せるもの）は付けて来ないで下さい。<br>
                                         入校日より授業がありますので３時間程度かかります。</p>
@@ -571,7 +571,7 @@
                                 </div>
                                 <!-- <div class="licenceBtn">
                                     <p class="btnBox">
-                                        <a href="licence.php?tab=price">料金についてはこちら</a>
+                                        <a href="/licence?tab=price">料金についてはこちら</a>
                                     </p>
                                 </div> -->
                             </div>

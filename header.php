@@ -124,7 +124,7 @@
                             <li><a href="/camp?tab=movingCost">料金表</a></li>
                             <li><a href="/camp?tab=eventCalendar">カレンダー</a></li>
                             <li><a href="/camp?tab=accommodation">宿泊施設</a></li>
-                            <li class="menuFsz18"><a href="camp.php?tab=campFlow">入学から<br class="pc">免許取得まで</a></li>
+                            <li class="menuFsz18"><a href="/camp?tab=campFlow">入学から<br class="pc">免許取得まで</a></li>
                             <li><a href="/licence">入学の流れ</a></li>
                         </ul>
                     </li>

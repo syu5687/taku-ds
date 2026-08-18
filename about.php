@@ -492,7 +492,7 @@
                                                 <img src="assets/images/about/about-faq-icon-a.svg" alt="A">
                                             </p>
                                             <div class="answerDetail">
-                                                <p class="faqSub"><span class="red">日曜日はお休みです。</span><br>その他時期によって休校日が増えますので、詳しくは<span class="green"><a href="student.php?tab=schedule">スケジュール</a></span>をご覧下さい。</p>
+                                                <p class="faqSub"><span class="red">日曜日はお休みです。</span><br>その他時期によって休校日が増えますので、詳しくは<span class="green"><a href="/student?tab=schedule">スケジュール</a></span>をご覧下さい。</p>
                                             </div>
                                         </div> 
                                     </li>
@@ -536,7 +536,7 @@
                                                 <img src="assets/images/about/about-faq-icon-a.svg" alt="A">
                                             </p>
                                             <div class="answerDetail">
-                                                <p class="faqSub">年齢・視力・色別・聴力・一定の病気などの条件が設けられています。<br>また、過去に免許取り消しの処分を受けた方や免許停止中の方は免許の受験資格がない場合があります。<br>入校予約をする前に、<span class="green"><a href="licence.php?tab=progress#_stepone">入校案内ページの入校の資格</a></span>にてご確認をお願いいたします。</p>
+                                                <p class="faqSub">年齢・視力・色別・聴力・一定の病気などの条件が設けられています。<br>また、過去に免許取り消しの処分を受けた方や免許停止中の方は免許の受験資格がない場合があります。<br>入校予約をする前に、<span class="green"><a href="/licence?tab=progress#_stepone">入校案内ページの入校の資格</a></span>にてご確認をお願いいたします。</p>
                                             </div>
                                         </div>
                                     </li>
@@ -556,7 +556,7 @@
                                                 </div>
                                                 <div class="detailBox">
                                                     <h5 class="titleSenior">AT車限定で免許を取った場合</h5>
-                                                    <p class="faqSub">免許取得後AT車限定解除を受けることで、AT車・MT車どちらも運転が可能となります。<br>詳しくは<span class="green"><a href="licence.php?tab=plan">教習プラン</a></span>をご覧下さい。</p>
+                                                    <p class="faqSub">免許取得後AT車限定解除を受けることで、AT車・MT車どちらも運転が可能となります。<br>詳しくは<span class="green"><a href="/licence?tab=plan">教習プラン</a></span>をご覧下さい。</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -590,7 +590,7 @@
                                                 <img src="assets/images/about/about-faq-icon-a.svg" alt="A">
                                             </p>
                                             <div class="answerDetail">
-                                                <p class="faqSub"><strong>銀行振込・クレジットカード</strong>・ローンの中からお選びいただけます。<br><span class="green"><a href="licence.php?tab=price#_price-payment">お支払い方法</a></span>についてをご覧ください。</p>
+                                                <p class="faqSub"><strong>銀行振込・クレジットカード</strong>・ローンの中からお選びいただけます。<br><span class="green"><a href="/licence?tab=price#_price-payment">お支払い方法</a></span>についてをご覧ください。</p>
                                             </div>
                                         </div>
                                     </li>
@@ -615,7 +615,7 @@
                                                 <img src="assets/images/about/about-faq-icon-a.svg" alt="A">
                                             </p>
                                             <div class="answerDetail">
-                                                <p class="faqSub">入校前にローンのお申込み及び審査が必要となりますので、入校希望日の一週間前までに職員にお知らせください。提携しているローン会社をご案内いたします。<br>ホームページよりお申込みの場合は、ご意見・ご要望等の欄に「ローンでの支払い希望」とご入力ください。メールまたはお電話でご案内いたします。<br><br>入校日の3日前までにお支払い方法が確定していない場合（ローンの審査が完了していない場合等）は入校日を延期していただくことがありますので、お早めにご相談ください。<br><span class="green"><a href="licence.php?tab=price#_price-payment">お支払い方法について</a></span>もご覧ください。</p>
+                                                <p class="faqSub">入校前にローンのお申込み及び審査が必要となりますので、入校希望日の一週間前までに職員にお知らせください。提携しているローン会社をご案内いたします。<br>ホームページよりお申込みの場合は、ご意見・ご要望等の欄に「ローンでの支払い希望」とご入力ください。メールまたはお電話でご案内いたします。<br><br>入校日の3日前までにお支払い方法が確定していない場合（ローンの審査が完了していない場合等）は入校日を延期していただくことがありますので、お早めにご相談ください。<br><span class="green"><a href="/licence?tab=price#_price-payment">お支払い方法について</a></span>もご覧ください。</p>
                                             </div>
                                         </div>
                                     </li>
@@ -670,7 +670,7 @@
                                                 <img src="assets/images/about/about-faq-icon-a.svg" alt="A">
                                             </p>
                                             <div class="answerDetail">
-                                                <p class="faqSub">おこなっております。<br>詳しくは<span class="green"><a href="camp.php">こちら</a></span>をご覧ください。</p>
+                                                <p class="faqSub">おこなっております。<br>詳しくは<span class="green"><a href="/camp">こちら</a></span>をご覧ください。</p>
                                             </div>
                                         </div>
                                     </li> -->
@@ -681,7 +681,7 @@
                                                 <img src="assets/images/about/about-faq-icon-a.svg" alt="A">
                                             </p>
                                             <div class="answerDetail">
-                                                <p class="faqSub">おこなっております。<br>詳しくは<span class="green"><a href="camp.php">こちら</a></span>をご覧ください。</p>
+                                                <p class="faqSub">おこなっております。<br>詳しくは<span class="green"><a href="/camp">こちら</a></span>をご覧ください。</p>
                                             </div>
                                         </div>
                                     </li>
@@ -693,7 +693,7 @@
                                                 <img src="assets/images/about/about-faq-icon-a.svg" alt="A">
                                             </p>
                                             <div class="answerDetail">
-                                                <p class="faqSub">当校では入校申込みや資料請求、お問い合わせへのご返答など、全て確認のメールをお送りしておりますが、「iCloud」メールをご利用のお客様へのメール送信不可となってしまうケースが多発しております。<br><br>迷惑メール設定により受信拒否、削除されてしまうことが原因のひとつとなっているため、お手数をお掛けいたしますが、当校のメールアドレス「info@taku-ds.jp」の受信許可設定をお願いいたします。<br><br>※iCloud以外にも、DOCOMO等の携帯キャリア、Gmail等のフリーメールでも同様の現象が発生する場合がございます。<br><br>当校からのメールの到着が無い場合は、お手数をお掛けいたしますが、お電話にてご連絡ください。<br><br>↓こちらのページもあわせてご確認ください。<br><span class="green"><a href="student.php?tab=notice#_useIcloud">《お知らせ・当校からメールが届かない場合（iCloudをご利用のお客様）》</a></span></p>
+                                                <p class="faqSub">当校では入校申込みや資料請求、お問い合わせへのご返答など、全て確認のメールをお送りしておりますが、「iCloud」メールをご利用のお客様へのメール送信不可となってしまうケースが多発しております。<br><br>迷惑メール設定により受信拒否、削除されてしまうことが原因のひとつとなっているため、お手数をお掛けいたしますが、当校のメールアドレス「info@taku-ds.jp」の受信許可設定をお願いいたします。<br><br>※iCloud以外にも、DOCOMO等の携帯キャリア、Gmail等のフリーメールでも同様の現象が発生する場合がございます。<br><br>当校からのメールの到着が無い場合は、お手数をお掛けいたしますが、お電話にてご連絡ください。<br><br>↓こちらのページもあわせてご確認ください。<br><span class="green"><a href="/student?tab=notice#_useIcloud">《お知らせ・当校からメールが届かない場合（iCloudをご利用のお客様）》</a></span></p>
                                             </div>
                                         </div>
                                     </li>

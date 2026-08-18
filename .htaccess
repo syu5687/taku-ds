@@ -40,11 +40,11 @@ RewriteRule ^main/3\.html$ https://taku-ds.jp/licence [R=301,L]
 
 # /index.php・/index → /（トップページを1本化）
 RewriteCond %{THE_REQUEST} \s/+index(\.php)?[\s?] [NC]
-RewriteRule ^ / [R=301,L,NE]
+RewriteRule ^ https://taku-ds.jp/ [R=301,L,NE]
 
 # /xxx.php → /xxx（拡張子付きURLを拡張子無しに1本化）
 RewriteCond %{THE_REQUEST} \s/+([^?\s]+)\.php[\s?] [NC]
-RewriteRule ^ /%1 [R=301,L,NE]
+RewriteRule ^ https://taku-ds.jp/%1 [R=301,L,NE]
 
 # ============================================================
 # 拡張子省略ルーティング（内部リライト）
