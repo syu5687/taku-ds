@@ -38,8 +38,18 @@
     <meta name="description" content="佐賀県多久市の多久自動車学校で運転免許を取得！地元高校生向けの通学プランと、大学生にも人気の合宿免許を用意。短期取得＆充実サポートで安心。宿泊施設も完備。" />
     <meta name="keywords" content="多久自動車学校,佐賀県自動車学校,佐賀県指定自動車教習所,合宿免許,多久市,多久,自動車学校,自動車" />
     <meta name="author" content="公安委員会の指定 多久自動車学校" />
-    <meta name="robots" content=" all " />
-    <meta name="googlebot" content=" all ">
+<?php
+      // ---- URL正規化：正規URLは https://taku-ds.jp（www無し・拡張子無し）----
+      $canonical_url = ($filename === 'index') ? 'https://taku-ds.jp/' : 'https://taku-ds.jp/' . $filename;
+    ?>
+    <?php if ($filename === '404') : ?>
+    <meta name="robots" content="noindex, follow" />
+    <?php else : ?>
+    <meta name="robots" content="all" />
+    <meta name="googlebot" content="all">
+    <link rel="canonical" href="<?php echo $canonical_url; ?>" />
+    <meta property="og:url" content="<?php echo $canonical_url; ?>" />
+    <?php endif; ?>
     <meta property="og:image" content="https://taku-ds.jp/assets/images/common/OGP.jpg"/>
     
     <link rel="preconnect" href="https://fonts.googleapis.com">

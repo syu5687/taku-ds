@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://taku-ds.jp/sitemap.xml
