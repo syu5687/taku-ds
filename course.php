@@ -49,7 +49,7 @@
                         <ul class="listItem anchor">
                             <li><a href="#70YearsOld">高齢者講習（70〜74歳）</a></li>
                             <li><a href="#75YearsOld">高齢者講習（75歳以上）</a></li>
-                            <li><a href="#noticeFee">高齢者講習等料金改定のおしらせ</a></li>
+                            <!-- <li><a href="#noticeFee">高齢者講習等料金改定のおしらせ</a></li> -->
                         </ul>
                         <div class="wrapBasicPlan" id="70YearsOld">
                             <h3 class="titleItemContent">高齢者講習<span class="numTitleContent">70〜74歳</span></h3>
