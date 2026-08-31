@@ -20,20 +20,20 @@
                     <ul class="listNewsTop">
                         <li>
                             <a href="/news#noticeNews000">
-                                <p class="timeNewsTop">2026.06.24</p>
-                                <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span>2026年夏休み運転免許取得のためのご案内</h3>
+                                <p class="timeNewsTop">2026.08.31</p>
+                                <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span>高齢者講習のご案内</h3>
                             </a>
                         </li>
 
-                        <!-- <li>
-                            <a href="/news#noticeNews001">
-                                <p class="timeNewsTop">25.12.23</p>
-                                <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span>3月末日までに卒業可能！<br class="sp">スピードプラン（完全スケジュール制）</h3>
-                            </a>
-                        </li> -->
                         <li>
-                            <a href="/news#noticeNews002">
-                                <p class="timeNewsTop">25.08.01</p>
+                            <a href="/news#noticeNews001">
+                                <p class="timeNewsTop">2026.06.24</p>
+                            <h3 class="titleNewsTop">2026年夏休み運転免許取得のためのご案内</h3>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/news#noticeNewsChange">
+                                <p class="timeNewsTop">2025.08.01</p>
                                 <h3 class="titleNewsTop">教習スケジュール制度導入のお知らせ</h3>
                             </a>
                         </li>

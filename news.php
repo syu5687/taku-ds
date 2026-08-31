@@ -14,45 +14,41 @@
                 <div class="contentTab">
                     <div class="itemTab" id="noticeNews">
                         <div class="wrapBasicPlan" id="noticeNews000">
-                            <h3 class="titleItemContent" id="noticeNewsTitle000">2026年夏休み運転免許取得のためのご案内</h3>
+                            <h3 class="titleItemContent" id="noticeNewsTitle000">高齢者講習受付中</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
                                     <div class="boxNews">
-                                        <p class="timeNews" id="noticeNewsDate000">2026.06.24</p>
+                                        <p class="timeNews" id="noticeNewsDate000">2026.08.31</p>
                                         <p class="txtNoticeNews">お知らせ</p>
                                     </div>
                                     <div class="boxContentNews">
                                         <p>
-                                            大学生・専門学生の皆さんへ、2026年夏休み運転免許取得のためのご案内！<br>
-                                            詳しくは<a href="assets/pdf/summervaca_2026.pdf">こちら↓<img src="assets/images/news/summer2026.webp" alt="2026年夏休み運転免許取得のためのご案内" loading="lazy"></a>
+                                            <a href="assets/pdf/2609_koureisya.pdf">こちら↓<img src="assets/images/news/2609koureisya.webp" alt="2026年高齢者講習のご案内" loading="lazy"></a>
                                         </p>
                                     </div>
                                     
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="wrapBasicPlan" id="noticeNews001">
-                            <h3 class="titleItemContent" id="noticeNewsTitle001">3月末日までに卒業可能！<br class="sp">スピードプラン（完全スケジュール制）</h3>
-                            <div class="contentItem">
-                                <div class="iframeNews">
-                                    <div class="boxNews">
-                                        <p class="timeNews" id="noticeNewsDate001">2025.12.23</p>
-                                        <p class="txtNoticeNews">お知らせ</p>
-                                    </div>
-                                    <div class="boxContentNews">
-                                        <p>4月からの進学、就職に間に合わせたい方におすすめプラン登場！<br>
-                                            ハイスピードプラン・スピードプラン・3月末卒業プラン→<a href="/licence?tab=plan#plan-speed" style="color:#50B482;">詳しくはこちら</a></p>
-                                    </div>
-                                    
-                                </div>
-                            </div>
-                            <div class="underImage">
-                                    <p><img src="assets/images/licence/licence-plan-photo-07.webp" alt="ハイスピードプラン" loading="lazy"></p>
-                                    <p><img src="assets/images/licence/licence-plan-photo-08.webp" alt="スピードプラン" loading="lazy"></p>
-                                    <p><img src="assets/images/licence/licence-plan-photo-09.webp" alt="3月卒業プラン" loading="lazy"></p>
-                            </div>
-                        </div> -->
                         <div class="wrapBasicPlan" id="noticeNews002">
+                            <h3 class="titleItemContent" id="noticeNewsTitle001">2026年夏休み運転免許取得のためのご案内</h3>
+                            <div class="contentItem">
+                            <div class="iframeNews">
+                                <div class="boxNews">
+                                    <p class="timeNews" id="noticeNewsDate001">2026.06.24</p>
+                                    <p class="txtNoticeNews">お知らせ</p>
+                                </div>
+                                <div class="boxContentNews">
+                                    <p>
+                                        大学生・専門学生の皆さんへ、2026年夏休み運転免許取得のためのご案内！<br>
+                                        詳しくは<a href="assets/pdf/summervaca_2026.pdf">こちら↓<img src="assets/images/news/summer2026.webp" alt="2026年夏休み運転免許取得のためのご案内" loading="lazy"></a>
+                                    </p>
+                                </div>
+                                
+                            </div>
+                        </div>
+                        </div>
+                        <div class="wrapBasicPlan" id="noticeNewsChange">
                             <h3 class="titleItemContent" id="noticeNewsTitle002">教習スケジュール制度導入のお知らせ</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">

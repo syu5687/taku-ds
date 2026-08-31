@@ -195,9 +195,24 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="wrapBasicPlan" id="noticeFee">
+                        <div class="wrapBasicPlan" id="noticeFee">
                             <h3 class="titleItemContent">高齢者講習等料金のおしらせ</h3>
                             <div class="contentItem">
+                                <!-- <p class="txtTuition"><span style="text-decoration: underline;font-size: 1.2rem;font-weight: bold;">令和8年1月より</span>高齢者講習等の料金を下記の通り改定いたします。</p> -->
+                                <!-- <div class="wrapTableTuition">
+                                    <table>
+                                        <tr>
+                                            <th>70～74歳の方</th>
+                                            <td>高齢者講習</td>
+                                            <td>7,000円</td>
+                                        </tr>
+                                        <tr>
+                                            <th>75歳以上の方</th>
+                                            <td>認知機能検査+高齢者講習</td>
+                                            <td>8,500円</td>
+                                        </tr>
+                                    </table>
+                                </div> -->
                                 <div class="iframeTuitionDiff">
                                     <h5 class="titleSenior">内訳</h5>
                                     <div class="wrapTableTuitionDiff">
@@ -225,10 +240,11 @@
                                     </div>
                                 </div>
                                 <p class="txtTuition">
+                                    <!-- ※公安委員会より郵送される、高齢者講習等のお知らせ「案内ハガキ」に記載されている手数料とは料金が異なります。また、実施教習所によっても異なります。 -->
                                     ※実施教習所により料金は異なります。
                                 </p>
                             </div>
-                        </div> -->
+                        </div>
                     </div>
                 </div>
             </div>

@@ -16,8 +16,8 @@
                 <div class="contentTab">
                     <div class="itemTab" id="notice">
                         <p class="noticeImg">
-                            <a href="https://mantensama.jp/takuds" target="_blank" rel="noopener noreferrer" class="hover">
-                                <img src="assets/images/student/notice-img.webp" alt="多久自動車学校インターネット学習システム満点様のログインはこちら" loading="eager" fetchpriority="high">
+                            <a href="https://www.musasi.jp/taku-ds/" target="_blank" rel="noopener noreferrer" class="hover">
+                                <img src="assets/images/student/notice-img.webp?1" alt="多久自動車学校インターネット学習システムMUSASHIのログインはこちら" loading="eager" fetchpriority="high">
                             </a>
                         </p>
                         <div class="wrapBasicPlan">
