@@ -23,7 +23,7 @@
                                     </div>
                                     <div class="boxContentNews">
                                         <p>
-                                            <a href="assets/pdf/2609_koureisya.pdf">こちら↓<img src="assets/images/news/2609koureisya.webp" alt="2026年高齢者講習のご案内" loading="lazy"></a>
+                                            <a href="assets/pdf/2609_koureisya.pdf">高齢者講習受付中<br>詳しくはこちら↓<img src="assets/images/news/2609koureisya.webp" alt="2026年高齢者講習のご案内" loading="lazy"></a>
                                         </p>
                                     </div>
                                     
