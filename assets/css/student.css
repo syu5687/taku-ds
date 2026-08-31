@@ -23,8 +23,8 @@
     margin-top: 9px;
 }
 .itemTab .noticeImg img {
-    aspect-ratio: 364 / 192;
-    max-width: 364px;
+    /* aspect-ratio: 364 / 192; */
+    max-width: 300px;
     width: 100%;
 }
 .titleItem {
