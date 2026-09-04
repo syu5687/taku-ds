@@ -388,7 +388,7 @@
 }
 
 .areaBannerTop .listBannerTop li:first-child {
-	margin-top: -36px;
+	/* margin-top: -36px; */
 }
 .areaBannerTop .listBannerTop li:nth-child(3n),
 .areaBannerTop .listBannerTop li:last-child {
