@@ -403,9 +403,14 @@
                         <div class="wrapBasicPlan" id="pricePlan">
                             <h3 class="titleItemContent">料金表&保証内容</h3>
                             <div class="contentItem">
-                                <p class="pic">
+                                <p class="pic view_timer" data-end-date="2026/9/7 10:00">
                                    <a class="popupMoney" href="javascript:void(0)">
                                     <img src="assets/images/camp/camp_moneyTable.webp" alt="料金表" loading="lazy">
+                                    </a>
+                                </p>
+                                <p class="pic view_timer" data-start-date="2026/9/7 10:00">
+                                   <a class="popupMoney" href="javascript:void(0)">
+                                    <img src="assets/images/camp/camp_moneyTable0907.webp" alt="料金表" loading="lazy">
                                     </a>
                                 </p>
                                 
@@ -416,8 +421,11 @@
                                                 <span></span>
                                                 <span></span>
                                             </div>
-                                            <div class="boxContentOriginal">
+                                            <div class="boxContentOriginal view_timer" data-end-date="2026/9/7 10:00">
                                                 <img src="assets/images/camp/camp_moneyTable.webp" alt="料金表" loading="lazy">
+                                            </div>
+                                            <div class="boxContentOriginal view_timer" data-start-date="2026/9/7 10:00">
+                                                <img src="assets/images/camp/camp_moneyTable0907.webp" alt="料金表" loading="lazy">
                                             </div>
                                         </div>
                                     </div>
@@ -598,9 +606,14 @@
                                 <ul class="listLink">
                                     <li><a href="/contact">申し込みはこちら</a></li>
                                 </ul>
-                                <p class="pic">
+                                <p class="pic view_timer" data-end-date="2026/9/7 10:00">
                                    <a class="popupCalender" href="javascript:void(0)">
                                     <img src="assets/images/camp/camp_calTable.webp?1" alt="合宿入校カレンダー" loading="lazy">
+                                    </a>
+                                </p>
+                                <p class="pic view_timer" data-start-date="2026/9/7 10:00">
+                                   <a class="popupCalender" href="javascript:void(0)">
+                                    <img src="assets/images/camp/camp_calTable0907.webp?1" alt="合宿入校カレンダー" loading="lazy">
                                     </a>
                                 </p>
                                 <div class="popupFlowOriginal popupLink2">
@@ -610,8 +623,11 @@
                                                 <span></span>
                                                 <span></span>
                                             </div>
-                                            <div class="boxContentOriginal">
+                                            <div class="boxContentOriginal view_timer" data-end-date="2026/9/7 10:00">
                                                 <img src="assets/images/camp/camp_calTable.webp?1" alt="合宿入校カレンダー" loading="lazy">
+                                            </div>
+                                            <div class="boxContentOriginal view_timer" data-start-date="2026/9/7 10:00">
+                                                <img src="assets/images/camp/camp_calTable0907.webp?1" alt="合宿入校カレンダー" loading="lazy">
                                             </div>
                                         </div>
                                     </div>
