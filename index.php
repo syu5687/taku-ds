@@ -5,7 +5,7 @@
         </p>
         <p class="numberMainTop">
             <a href="/news?tab=campaignNews" class="hover">
-                <img src="assets/images/index/number-main-top.webp" alt="多久自動車学校は学生なら5,000円割引" loading="eager" fetchpriority="high">
+                <img src="assets/images/index/number-main-top.webp?1" alt="多久自動車学校は学生なら5,000円割引" loading="eager" fetchpriority="high">
             </a>
         </p>
     </div>
@@ -182,7 +182,7 @@
                         <a class="hover" href="/news?tab=campaignNews">
                             <picture>
                                 <source media="(max-width:940px)" srcset="assets/images/index/banner-top-01-sp.webp">
-                                <img src="assets/images/index/banner-top-01.webp" alt="多久自動車学校なら学生は5,000円割引" loading="lazy">
+                                <img src="assets/images/index/banner-top-01.webp?1" alt="多久自動車学校なら学生は5,000円割引" loading="lazy">
                             </picture>
                         </a>
                     </li>
@@ -198,7 +198,7 @@
                         <a class="hover" href="/student?tab=notice">
                             <picture>
                                 <source media="(max-width:940px)" srcset="assets/images/index/banner-top-03-sp.webp">
-                                <img src="assets/images/index/banner-top-03.webp" alt="多久自動車学校在学生専用ページ" loading="lazy">
+                                <img src="assets/images/index/banner-top-03.webp?1" alt="多久自動車学校在学生専用ページ" loading="lazy">
                             </picture>
                         </a>
                     </li>
