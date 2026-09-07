@@ -184,7 +184,9 @@ table tr:nth-child(2n - 1) td {
     margin-left: 3px;
 }
 .itemTab .fxFlex .precautionImg img {
-    aspect-ratio: 330 / 430;
+    width: 100%;
+    border-radius: 1rem;
+    object-fit: cover;
 }
 /* tab4 */
 #notes {
