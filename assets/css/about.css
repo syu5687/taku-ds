@@ -17,7 +17,9 @@
 }
 .aboutBasic .basicTop .basicPhoto img {
     width: 100%;
-    aspect-ratio: 350/200;
+    aspect-ratio: 16/9;
+    border-radius: 1rem;
+    object-fit: cover;
 }
 .aboutBasic .basicTop .itemInfo {
     width: calc(100% - 401px);
@@ -47,7 +49,9 @@
 }
 .aboutBasic .basicList li .basicPhoto img {
     width: 100%;
-    aspect-ratio: 400/300;
+    border-radius: 1rem;
+    object-fit: cover;
+    aspect-ratio: 16/9;
 }
 .aboutBasic .basicMap .basicSub {
     text-align: center;

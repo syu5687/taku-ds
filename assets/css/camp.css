@@ -846,7 +846,10 @@ body.fixed {
     margin-right: 39px;
 }
 #campFlow .flowInfo .flowImg img {
-    aspect-ratio: 350 / 200;
+    border-radius: 1rem;
+    object-fit: cover;
+    aspect-ratio: 16/9;
+    width: 100%;
 }
 #campFlow .flowInfo .flowTxt {
     width: 100%;

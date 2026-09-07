@@ -29,7 +29,7 @@
                                             <p class="txtNoteVarious">※夜間教習（17：30以降の教習）をご希望の場合は、1時間につき手数料を別途申し受けます。</p>
                                         </div>
                                     </div>
-                                    <p class="variousPhoto"><img src="assets/images/course/various-photo-01.webp?1" alt="ペーパードライバー講習" loading="eager" fetchpriority="high"></p>
+                                    <p class="variousPhoto"><img src="assets/images/course/various-photo-01.webp?2" alt="ペーパードライバー講習" loading="eager" fetchpriority="high"></p>
                                 </div>
                             </div>
                         </div>

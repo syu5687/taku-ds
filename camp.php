@@ -727,14 +727,14 @@
                                                             <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-003.webp" alt="シャロン_リビング" loading="lazy"></p></li> -->
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-004.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-005.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-013.webp?1" alt="シャロン_キッチン" loading="lazy"></p></li>
+                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-013.webp?1" alt="シャロン_キッチン" loading="lazy"></p></li> -->
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-006.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-007.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-008.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-009.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-010.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
+                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-007.webp?1" alt="シャロン_室内" loading="lazy"></p></li> -->
+                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-008.webp?1" alt="シャロン_室内" loading="lazy"></p></li> -->
+                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-009.webp?1" alt="シャロン_室内" loading="lazy"></p></li> -->
+                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-010.webp?1" alt="シャロン_室内" loading="lazy"></p></li> -->
                                                             <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-011.webp" alt="シャロン_トイレ" loading="lazy"></p></li> -->
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-012.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
+                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-012.webp?1" alt="シャロン_室内" loading="lazy"></p></li> -->
                                                             
                                                         </ul>
                                                         <ul class="thumb">
@@ -743,14 +743,14 @@
                                                               <!-- <li><img src="assets/images/camp/shalon/room-img-003.webp" alt="シャロン_リビング"></li> -->
                                                               <li><img src="assets/images/camp/shalon/room-img-004.webp?1" alt="シャロン_室内"></li>
                                                               <li><img src="assets/images/camp/shalon/room-img-005.webp?1" alt="シャロン_室内"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-013.webp?1" alt="シャロン_室内"></li>
+                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-013.webp?1" alt="シャロン_室内"></li> -->
                                                               <li><img src="assets/images/camp/shalon/room-img-006.webp?1" alt="シャロン_室内"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-007.webp?1" alt="シャロン_室内"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-008.webp?1" alt="シャロン_室内"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-009.webp?1" alt="シャロン_室内"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-010.webp?1" alt="シャロン_室内"></li>
+                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-007.webp?1" alt="シャロン_室内"></li> -->
+                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-008.webp?1" alt="シャロン_室内"></li> -->
+                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-009.webp?1" alt="シャロン_室内"></li> -->
+                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-010.webp?1" alt="シャロン_室内"></li> -->
                                                               <!-- <li><img src="assets/images/camp/shalon/room-img-011.webp" alt="シャロン_トイレ"></li> -->
-                                                              <li><img src="assets/images/camp/shalon/room-img-012.webp?1" alt="シャロン_室内"></li>
+                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-012.webp?1" alt="シャロン_室内"></li> -->
                                                               
                                                         </ul>
                                                         </div>
@@ -929,7 +929,7 @@
                                         入校申し込み
                                     </h3>
                                     <div class="flowInfo">
-                                        <p class="flowImg"><img src="assets/images/camp/flow-img-1.webp?1" alt="flow-img-1" loading="eager" fetchpriority="high"></p>
+                                        <p class="flowImg"><img src="assets/images/camp/flow-img-1.webp?2" alt="flow-img-1" loading="eager" fetchpriority="high"></p>
                                         <div class="flowTxt">
                                             <p class="text">入校カレンダーで入校日・卒業日・料金や入校資格を確認してWEBから簡単にお申込みができます。）
                                             </p>
@@ -946,7 +946,7 @@
                                         入校初日
                                     </h3>
                                     <div class="flowInfo">
-                                        <p class="flowImg"><img src="assets/images/camp/flow-img-2.webp" alt="flow-img-2"></p>
+                                        <p class="flowImg"><img src="assets/images/camp/flow-img-2.webp?1" alt="flow-img-2"></p>
                                         <div class="flowTxt">
                                             <p class="text">JR江北駅に集合して送迎バスにて自動車学校へ。<br>（時期により変動あり、詳しくはお問い合せください）</p>
                                             <ul class="listLink">
@@ -962,7 +962,7 @@
                                             13：30〜入校式
                                     </h3>
                                     <div class="flowInfo">
-                                        <p class="flowImg"><img src="assets/images/camp/flow-img-3.webp" alt="flow-img-3" loading="eager" fetchpriority="high"></p>
+                                        <p class="flowImg"><img src="assets/images/camp/flow-img-3.webp?1" alt="flow-img-3" loading="eager" fetchpriority="high"></p>
                                         <div class="flowTxt">
                                             <p class="text"> 入校式が終わったらLet’s教習開始！</p>
                                             <ul class="listLink scheduleLink">
@@ -988,7 +988,7 @@
                                         合宿
                                     </h3>
                                     <div class="flowInfo">
-                                        <p class="flowImg"><img src="assets/images/camp/flow-img-4.webp" alt="flow-img-4" loading="eager" fetchpriority="high"></p>
+                                        <p class="flowImg"><img src="assets/images/camp/flow-img-4.webp?1" alt="flow-img-4" loading="eager" fetchpriority="high"></p>
                                         <div class="flowTxt">
                                             <p class="text">AT車 14泊15日〜（最短）<br>MT車 16泊17日〜（最短）</p>
                                             <ul class="listLink">
@@ -1003,7 +1003,7 @@
                                         卒業
                                     </h3>
                                     <div class="flowInfo">
-                                        <p class="flowImg"><img src="assets/images/camp/flow-img-5.webp" alt="flow-img-5" loading="eager" fetchpriority="high"></p>
+                                        <p class="flowImg"><img src="assets/images/camp/flow-img-5.webp?1" alt="flow-img-5" loading="eager" fetchpriority="high"></p>
                                         <div class="flowTxt">
                                             <p class="text">
                                                 Congratulations!!<br>
@@ -1022,7 +1022,7 @@
                                         本免学科試験
                                     </h3>
                                     <div class="flowInfo">
-                                        <p class="flowImg"><img src="assets/images/camp/flow-img-6.webp" alt="flow-img-6" loading="eager" fetchpriority="high"></p>
+                                        <p class="flowImg"><img src="assets/images/camp/flow-img-6.webp?1" alt="flow-img-6" loading="eager" fetchpriority="high"></p>
                                         <div class="flowTxt">
                                             <p class="text">
                                                 自動車学校を卒業しても本免学科試験に合格しなければ、免許証は取得できません。<br>

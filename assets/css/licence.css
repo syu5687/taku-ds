@@ -615,7 +615,7 @@
 } 
 .licencePlan .planBasic .basicList li .basicPhoto img{
     width: 100%;
-    aspect-ratio: 368/270;
+    border-radius: 1rem;
 } 
 .licencePlan .planBasic .basicWrap {
     background-color: rgba(255,216,0,0.2);
@@ -896,7 +896,7 @@
 }
 .licenceOverview .overList li .overBox .overPhoto img {
     width: 100%;
-    aspect-ratio: 350/200;
+    border-radius: 1rem;
 }
 .licenceOverview .overList li .overBox .overSub {
     font-size: 16px;
