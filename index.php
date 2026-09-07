@@ -181,7 +181,7 @@
                     <li>
                         <a class="hover" href="/news?tab=campaignNews">
                             <picture>
-                                <source media="(max-width:940px)" srcset="assets/images/index/banner-top-01-sp.webp">
+                                <source media="(max-width:940px)" srcset="assets/images/index/banner-top-01.webp">
                                 <img src="assets/images/index/banner-top-01.webp?1" alt="多久自動車学校なら学生は5,000円割引" loading="lazy">
                             </picture>
                         </a>
@@ -189,7 +189,7 @@
                     <li>
                         <a class="hover" href="/student?tab=bus">
                             <picture>
-                                <source media="(max-width:940px)" srcset="assets/images/index/banner-top-02-sp.webp">
+                                <source media="(max-width:940px)" srcset="assets/images/index/banner-top-02.webp">
                                 <img src="assets/images/index/banner-top-02.webp" alt="無料送迎バスのご案内" loading="lazy">
                             </picture>
                         </a>
@@ -197,7 +197,7 @@
                     <li>
                         <a class="hover" href="/student?tab=notice">
                             <picture>
-                                <source media="(max-width:940px)" srcset="assets/images/index/banner-top-03-sp.webp">
+                                <source media="(max-width:940px)" srcset="assets/images/index/banner-top-03.webp">
                                 <img src="assets/images/index/banner-top-03.webp?1" alt="多久自動車学校在学生専用ページ" loading="lazy">
                             </picture>
                         </a>
