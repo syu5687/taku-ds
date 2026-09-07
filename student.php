@@ -246,7 +246,7 @@
                                     </span>
                                 </p>
                                 <p class="precautionImg">
-                                    <img src="assets/images/student/bus-img.webp" alt="多久自動車学校送迎バス" loading="lazy">
+                                    <img src="assets/images/student/bus-img.webp?1" alt="多久自動車学校送迎バス" loading="lazy">
                                 </p>
                             </div>
                         </div>
