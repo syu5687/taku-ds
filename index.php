@@ -65,7 +65,7 @@
                         <li>
                             <p class="licenceTopPhoto">
                                 <picture>
-                                    <source media="(max-width:768px)" srcset="assets/images/index/licence-top-photo-01-sp.webp">
+                                    <source media="(max-width:768px)" srcset="assets/images/index/licence-top-photo-01-sp.webp?1">
                                     <img src="assets/images/index/licence-top-photo-01.webp" alt="通学免許" loading="lazy">
                                 </picture>
                             </p>
@@ -78,7 +78,7 @@
                         <li>
                             <p class="licenceTopPhoto">
                                 <picture>
-                                    <source media="(max-width:768px)" srcset="assets/images/index/licence-top-photo-02-sp.webp">
+                                    <source media="(max-width:768px)" srcset="assets/images/index/licence-top-photo-02-sp.webp?1">
                                     <img src="assets/images/index/licence-top-photo-02.webp" alt="合宿免許" loading="lazy">
                                 </picture>
                             </p>
@@ -165,7 +165,7 @@
                     </div>
                     <div class="iframePlanTop"> 
                         <div class="boxPlanTop">    
-                            <p class="planPhoto"><img src="assets/images/index/plan-top-photo.webp" alt="教習プランイメージ" loading="lazy"></p>
+                            <p class="planPhoto"><img src="assets/images/index/plan-top-photo.webp?1" alt="教習プランイメージ" loading="lazy"></p>
                             <div class="contentPlanTop">
                                 <p class="txtPlanTop">経験豊富な指導員が責任を持って免許取得をサポートします。運転技術に自信が無い方に、安心して教習に専念して頂ける安心パックもご用意しております。</p>
                                 <p class="linkPlanTop"><a href="/licence?tab=plan"><span class="txtLinkPlanTop">詳しくはこちら</span></a></p>
