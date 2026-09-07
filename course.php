@@ -29,7 +29,7 @@
                                             <p class="txtNoteVarious">※夜間教習（17：30以降の教習）をご希望の場合は、1時間につき手数料を別途申し受けます。</p>
                                         </div>
                                     </div>
-                                    <p class="variousPhoto"><img src="assets/images/course/various-photo-01.webp" alt="ペーパードライバー講習" loading="eager" fetchpriority="high"></p>
+                                    <p class="variousPhoto"><img src="assets/images/course/various-photo-01.webp?1" alt="ペーパードライバー講習" loading="eager" fetchpriority="high"></p>
                                 </div>
                             </div>
                         </div>
@@ -37,7 +37,7 @@
                             <h3 class="titleItemContent">法人・企業様向け講習</h3>
                             <div class="contentItem">
                                 <div class="boxVarious">
-                                    <p class="variousPhoto"><img src="assets/images/course/various-photo-02.webp" alt="法人・企業様向け講習" loading="eager" fetchpriority="high"></p>
+                                    <p class="variousPhoto"><img src="assets/images/course/various-photo-02.webp?1" alt="法人・企業様向け講習" loading="eager" fetchpriority="high"></p>
                                     <div class="boxVariousLeft">
                                         <p class="txtVarious">多久自動車学校では、当校の持つ安全運転者育成のノウハウを、初心運転者だけでなく、一般企業研修という形で皆様のお役に立てていただき、より安全な交通社会を目指していきたいと考えています。<br><br>当校の経験豊富な教習スタッフによる技能講習や、膨大なデータを基に個々人の運転適正を明確に知らせる運転適性検査などの方法により運転者の安全運転意識と技術の向上を目指します。<br><br>ぜひとも、多久自動車学校の安全運転講習会をご利用下さい。<br><br>※講習ご希望の際は、当校窓口までお気軽にご相談下さい。</p>
                                     </div>
@@ -64,7 +64,7 @@
                                             <li><a href="#_75YearsOld">75歳以上の方はコチラ</a></li>
                                         </ul>
                                     </div>
-                                    <p class="variousPhoto"><img src="assets/images/course/various-photo-01.webp" alt="ペーパードライバー講習" loading="eager" fetchpriority="high"></p>
+                                    <p class="variousPhoto"><img src="assets/images/course/various-photo-01.webp?1" alt="ペーパードライバー講習" loading="eager" fetchpriority="high"></p>
                                 </div>
                                 <div class="contentItemSenior">
                                     <div class="boxSenior">

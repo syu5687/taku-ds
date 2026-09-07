@@ -25,7 +25,7 @@
                             <div class="contentItem">
                                 <div class="basicTop">
                                     <p class="basicPhoto">
-                                        <img loading="lazy" src="assets/images/about/about-basic-photo-01.webp" alt="本校の特徴">
+                                        <img loading="lazy" src="assets/images/about/about-basic-photo-01.webp?1" alt="本校の特徴">
                                     </p>
                                     <div class="itemInfo">
                                         <h4 class="titleItem">本校の特徴</h4>
@@ -49,7 +49,7 @@
                                     </li>
                                     <li>
                                         <p class="basicPhoto">
-                                            <img loading="lazy" src="assets/images/about/about-basic-photo-03.webp" alt="学科教室">
+                                            <img loading="lazy" src="assets/images/about/about-basic-photo-03.webp?1" alt="学科教室">
                                         </p>
                                         <div class="itemInfo">
                                             <h4 class="titleItem">学科教室</h4>
@@ -58,7 +58,7 @@
                                     </li>
                                     <li>
                                         <p class="basicPhoto">
-                                            <img loading="lazy" src="assets/images/about/about-basic-photo-04.webp" alt="受付">
+                                            <img loading="lazy" src="assets/images/about/about-basic-photo-04.webp?1" alt="受付">
                                         </p>
                                         <div class="itemInfo">
                                             <h4 class="titleItem">受付</h4>
@@ -67,7 +67,7 @@
                                     </li>
                                     <li>
                                         <p class="basicPhoto">
-                                            <img loading="lazy" src="assets/images/about/about-basic-photo-05.webp" alt="生徒控室">
+                                            <img loading="lazy" src="assets/images/about/about-basic-photo-05.webp?1" alt="生徒控室">
                                         </p>
                                         <div class="itemInfo">
                                             <h4 class="titleItem">生徒控室</h4>
@@ -76,7 +76,7 @@
                                     </li>
                                     <li>
                                         <p class="basicPhoto">
-                                            <img loading="lazy" src="assets/images/about/about-basic-photo-06.webp" alt="トレーチャー教室">
+                                            <img loading="lazy" src="assets/images/about/about-basic-photo-06.webp?1" alt="トレーチャー教室">
                                         </p>
                                         <div class="itemInfo">
                                             <h4 class="titleItem">トレーチャー教室</h4>

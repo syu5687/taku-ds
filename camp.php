@@ -385,9 +385,9 @@
                                 <ul class="listLink cter">
                                     <li><a href="assets/pdf/camp-overview-01-2.pdf?v2" target="_blank" rel="noopener noreferrer">旅行条件書</a></li>
                                     <li><a href="assets/pdf/camp-overview-02-2.pdf" target="_blank" rel="noopener noreferrer">旅行業登録票</a></li>
-                                    <li class="view_timer" data-end-date="2026/4/1 9:00"><a href="assets/pdf/camp-overview-03.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款</a></li>
+                                    <li class="view_timer" data-end-date="2026/4/1 9:00"><a href="assets/pdf/camp-overview-03.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款0000</a></li>
                                     <li class="view_timer" data-start-date="2026/4/1 9:00"><a href="assets/pdf/camp-overview-03-2604.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款</a></li>
-                                    <li class="fxLink view_timer" data-end-date="2026/4/1 9:00"><a href="assets/pdf/camp-overview-04.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款（特別補償規程）</a></li>
+                                    <li class="fxLink view_timer" data-end-date="2026/4/1 9:00"><a href="assets/pdf/camp-overview-04.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款（特別補償規程）0000</a></li>
                                     <!-- <li><a href="camp?tab=termsAndConditions">合宿免許の参加規約</a></li> -->
                                 </ul>
                             </div>  
@@ -403,12 +403,7 @@
                         <div class="wrapBasicPlan" id="pricePlan">
                             <h3 class="titleItemContent">料金表&保証内容</h3>
                             <div class="contentItem">
-                                <p class="pic view_timer" data-end-date="2026/9/7 10:00">
-                                   <a class="popupMoney" href="javascript:void(0)">
-                                    <img src="assets/images/camp/camp_moneyTable.webp" alt="料金表" loading="lazy">
-                                    </a>
-                                </p>
-                                <p class="pic view_timer" data-start-date="2026/9/7 10:00">
+                                <p class="pic">
                                    <a class="popupMoney" href="javascript:void(0)">
                                     <img src="assets/images/camp/camp_moneyTable0907.webp" alt="料金表" loading="lazy">
                                     </a>
@@ -421,10 +416,8 @@
                                                 <span></span>
                                                 <span></span>
                                             </div>
-                                            <div class="boxContentOriginal view_timer" data-end-date="2026/9/7 10:00">
-                                                <img src="assets/images/camp/camp_moneyTable.webp" alt="料金表" loading="lazy">
-                                            </div>
-                                            <div class="boxContentOriginal view_timer" data-start-date="2026/9/7 10:00">
+                                        
+                                            <div class="boxContentOriginal">
                                                 <img src="assets/images/camp/camp_moneyTable0907.webp" alt="料金表" loading="lazy">
                                             </div>
                                         </div>
@@ -606,12 +599,7 @@
                                 <ul class="listLink">
                                     <li><a href="/contact">申し込みはこちら</a></li>
                                 </ul>
-                                <p class="pic view_timer" data-end-date="2026/9/7 10:00">
-                                   <a class="popupCalender" href="javascript:void(0)">
-                                    <img src="assets/images/camp/camp_calTable.webp?1" alt="合宿入校カレンダー" loading="lazy">
-                                    </a>
-                                </p>
-                                <p class="pic view_timer" data-start-date="2026/9/7 10:00">
+                                <p class="pic">
                                    <a class="popupCalender" href="javascript:void(0)">
                                     <img src="assets/images/camp/camp_calTable0907.webp?1" alt="合宿入校カレンダー" loading="lazy">
                                     </a>
@@ -623,10 +611,7 @@
                                                 <span></span>
                                                 <span></span>
                                             </div>
-                                            <div class="boxContentOriginal view_timer" data-end-date="2026/9/7 10:00">
-                                                <img src="assets/images/camp/camp_calTable.webp?1" alt="合宿入校カレンダー" loading="lazy">
-                                            </div>
-                                            <div class="boxContentOriginal view_timer" data-start-date="2026/9/7 10:00">
+                                            <div class="boxContentOriginal">
                                                 <img src="assets/images/camp/camp_calTable0907.webp?1" alt="合宿入校カレンダー" loading="lazy">
                                             </div>
                                         </div>
@@ -685,7 +670,7 @@
                             <div class="contentItem">
                                 <div class="hotelInfoWrap">
                                     <p class="hotelImg">
-                                        <img src="assets/images/camp/shalon/room-img-008.webp" alt="シェアハウス「シャロン」" style="border-radius: 30px;">
+                                        <img src="assets/images/camp/shalon/room-img-008.webp?1" alt="シェアハウス「シャロン」" style="border-radius: 30px;">
                                     </p>
                                     <div class="infoWrap">
                                         <h4 class="titleItem">自炊プラン（シングルプラン・ツインプラン）</h4>
@@ -706,7 +691,7 @@
                                                     </div>
                                                     <div class="boxContentOriginal">
                                                         <p class="popupTitle">シェアハウス「シャロン」</p>
-                                                        <p class="storeOriPhoto"><img src="assets/images/camp/shalon/room-img-008.webp" alt="シェアハウス「シャロン」" style="border-radius: 30px;"></p>
+                                                        <p class="storeOriPhoto"><img src="assets/images/camp/shalon/room-img-008.webp?1" alt="シェアハウス「シャロン」" style="border-radius: 30px;"></p>
                                                         <p class="popupText">
                                                             シェアハウス「シャロン」は自炊のプランです。<br>
                                                             食事、ベッドメイキング、掃除、ゴミ出しなど身の回りのことはすべてお客様ご自身で行います。<br>
@@ -737,35 +722,35 @@
                                                         </ul> -->
                                                         <div class="slideArea">
                                                         <ul class="sliderShalon">
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-001.webp" alt="シャロン_リビング"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-002.webp" alt="シャロン_リビング"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-001.webp?1" alt="シャロン_室内"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-002.webp?1" alt="シャロン_室内"></p></li>
                                                             <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-003.webp" alt="シャロン_リビング" loading="lazy"></p></li> -->
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-004.webp" alt="シャロン_キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-005.webp" alt="シャロン_キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-013.webp" alt="シャロン_キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-006.webp" alt="シャロン_STAR" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-007.webp" alt="シャロン_部屋SKY" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-008.webp" alt="シャロン_部屋SKY" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-009.webp" alt="シャロン_部屋MOON" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-010.webp" alt="シャロン_洗面所" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-004.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-005.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-013.webp?1" alt="シャロン_キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-006.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-007.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-008.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-009.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-010.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
                                                             <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-011.webp" alt="シャロン_トイレ" loading="lazy"></p></li> -->
-                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-012.webp" alt="シャロン_トイレ" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-012.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
                                                             
                                                         </ul>
                                                         <ul class="thumb">
-                                                              <li><img src="assets/images/camp/shalon/room-img-001.webp" alt="シャロン_リビング"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-002.webp" alt="シャロン_リビング"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-001.webp?1" alt="シャロン_室内"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-002.webp?1" alt="シャロン_室内"></li>
                                                               <!-- <li><img src="assets/images/camp/shalon/room-img-003.webp" alt="シャロン_リビング"></li> -->
-                                                              <li><img src="assets/images/camp/shalon/room-img-004.webp" alt="シャロン_キッチン"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-005.webp" alt="シャロン_キッチン"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-013.webp" alt="シャロン_キッチン"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-006.webp" alt="シャロン_部屋STAR"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-007.webp" alt="シャロン_部屋SKY"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-008.webp" alt="シャロン_部屋SKY"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-009.webp" alt="シャロン_部屋MOON"></li>
-                                                              <li><img src="assets/images/camp/shalon/room-img-010.webp" alt="シャロン_洗面所"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-004.webp?1" alt="シャロン_室内"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-005.webp?1" alt="シャロン_室内"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-013.webp?1" alt="シャロン_室内"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-006.webp?1" alt="シャロン_室内"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-007.webp?1" alt="シャロン_室内"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-008.webp?1" alt="シャロン_室内"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-009.webp?1" alt="シャロン_室内"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-010.webp?1" alt="シャロン_室内"></li>
                                                               <!-- <li><img src="assets/images/camp/shalon/room-img-011.webp" alt="シャロン_トイレ"></li> -->
-                                                              <li><img src="assets/images/camp/shalon/room-img-012.webp" alt="シャロン_トイレ"></li>
+                                                              <li><img src="assets/images/camp/shalon/room-img-012.webp?1" alt="シャロン_室内"></li>
                                                               
                                                         </ul>
                                                         </div>
@@ -839,30 +824,30 @@
                                                         </ul> -->
                                                         <div class="slideArea">
                                                         <ul class="sliderDolce">
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001-1.webp" alt="ドルチェ_キッチン"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="ドルチェ_キッチン"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-003.webp" alt="ドルチェ_キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-004.webp" alt="ドルチェ_キッチン" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-005.webp" alt="ドルチェ_トイレ" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-006.webp" alt="ドルチェ_ランドリー" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-007.webp" alt="ドルチェ_ランドリー" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-008.webp" alt="ドルチェ_ランドリー" loading="lazy"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-009.webp" alt="ドルチェ_リビング" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001-1.webp?1" alt="ドルチェ_キッチン"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-002.webp?1" alt="ドルチェ_キッチン"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-003.webp?1" alt="ドルチェ_キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-004.webp?1" alt="ドルチェ_キッチン" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-005.webp?1" alt="ドルチェ_トイレ" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-006.webp?1" alt="ドルチェ_ランドリー" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-007.webp?1" alt="ドルチェ_ランドリー" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-008.webp?1" alt="ドルチェ_ランドリー" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-009.webp?1" alt="ドルチェ_リビング" loading="lazy"></p></li>
                                                             <!-- <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="ドルチェ_リビング" loading="lazy"></p></li> -->
-                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="ドルチェ_寝室" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-011.webp?1" alt="ドルチェ_寝室" loading="lazy"></p></li>
                                                         </ul>
                                                         <ul class="thumb2">
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-001-1.webp" alt="ドルチェ_キッチン"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-002.webp" alt="ドルチェ_キッチン"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-003.webp" alt="ドルチェ_キッチン"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-004.webp" alt="ドルチェ_キッチン"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-005.webp" alt="ドルチェ_トイレ"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-006.webp" alt="ドルチェ_ランドリー"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-007.webp" alt="ドルチェ_ランドリー"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-008.webp" alt="ドルチェ_ランドリー"></li>
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-009.webp" alt="ドルチェ_リビング"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-001-1.webp?1" alt="ドルチェ_キッチン"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-002.webp?1" alt="ドルチェ_キッチン"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-003.webp?1" alt="ドルチェ_キッチン"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-004.webp?1" alt="ドルチェ_キッチン"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-005.webp?1" alt="ドルチェ_トイレ"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-006.webp?1" alt="ドルチェ_ランドリー"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-007.webp?1" alt="ドルチェ_ランドリー"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-008.webp?1" alt="ドルチェ_ランドリー"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-009.webp?1" alt="ドルチェ_リビング"></li>
                                                               <!-- <li><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="ドルチェ_リビング"></li> -->
-                                                              <li><img src="assets/images/camp/dolce/room-imgD-011.webp" alt="ドルチェ_寝室"></li>
+                                                              <li><img src="assets/images/camp/dolce/room-imgD-011.webp?1" alt="ドルチェ_寝室"></li>
                                                         </ul>
                                                         </div>
                                                         </div>

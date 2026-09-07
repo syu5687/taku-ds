@@ -582,17 +582,17 @@
                                 <ul class="theoryList">
                                     <li>
                                         <a href="assets/pdf/licence-plan-01.pdf" target="_blank" class="hover">
-                                            <img src="assets/images/licence/licence-plan-photo-03.webp" alt="pdf01" loading="lazy">
+                                            <img src="assets/images/licence/licence-plan-photo-03.webp?1" alt="pdf01" loading="lazy">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="assets/pdf/licence-plan-02.pdf" target="_blank" class="hover">
-                                            <img src="assets/images/licence/licence-plan-photo-04.webp" alt="pdf02" loading="lazy">
+                                            <img src="assets/images/licence/licence-plan-photo-04.webp?1" alt="pdf02" loading="lazy">
                                         </a>
                                     </li>
                                     <li>
                                         <a href="assets/pdf/licence-plan-03.pdf" target="_blank" class="hover">
-                                            <img src="assets/images/licence/licence-plan-photo-05.webp" alt="pdf03" loading="lazy">
+                                            <img src="assets/images/licence/licence-plan-photo-05.webp?1" alt="pdf03" loading="lazy">
                                         </a>
                                     </li>
                                 </ul>
@@ -613,7 +613,7 @@
                                         </p>
                                         <div class="overBox">
                                             <p class="overPhoto">
-                                                <img src="assets/images/licence/licence-overview-photo-01.webp" alt="入校日" loading="lazy">
+                                                <img src="assets/images/licence/licence-overview-photo-01.webp?1" alt="入校日" loading="lazy">
                                             </p>
                                             <p class="overSub">入校受付・視力検査・適正検査。学科（教程1）を行います。<br>（所要時間３時間）</p>
                                         </div>
@@ -626,7 +626,7 @@
                                         </p>
                                         <div class="overBox">
                                             <p class="overPhoto">
-                                                <img src="assets/images/licence/licence-overview-photo-02.webp" alt="第１段階" loading="lazy">
+                                                <img src="assets/images/licence/licence-overview-photo-02.webp?1" alt="第１段階" loading="lazy">
                                             </p>
                                             <p class="overSub"><span class="red">場内にて教習を行います。</span><br><br>
                                                 【場内教習】<br>
@@ -647,7 +647,7 @@
                                         </p>
                                         <div class="overBox">
                                             <p class="overPhoto">
-                                                <img src="assets/images/licence/licence-overview-photo-03.webp" alt="修了検定・仮免試験" loading="lazy" >
+                                                <img src="assets/images/licence/licence-overview-photo-03.webp?1" alt="修了検定・仮免試験" loading="lazy" >
                                             </p>
                                             <p class="overSub">
                                                 路上にて技能検定を行い、<br>合格されたら仮免試験に進みます。<br>仮免試験（筆記）に合格されると<br>仮免許証が交付されます。</p>
@@ -662,7 +662,7 @@
                                         </p>
                                         <div class="overBox">
                                             <p class="overPhoto">
-                                                <img src="assets/images/licence/licence-overview-photo-04.webp" alt="第2段階" loading="lazy">
+                                                <img src="assets/images/licence/licence-overview-photo-04.webp?1" alt="第2段階" loading="lazy">
                                             </p>
                                             <p class="overSub"><span class="red">路上にて教習を行います。</span><br><br>
                                                 【路上教習】<br>
@@ -681,7 +681,7 @@
                                         </p>
                                         <div class="overBox">
                                             <p class="overPhoto">
-                                                <img src="assets/images/licence/licence-overview-photo-05.webp" alt="卒業検定" loading="lazy">
+                                                <img src="assets/images/licence/licence-overview-photo-05.webp?1" alt="卒業検定" loading="lazy">
                                             </p>
                                             <p class="overSub">路上にて技能検定を行います。<br><br>
                                                 【MT車を希望の方】<br>
@@ -701,7 +701,7 @@
                                         </p>
                                         <div class="overBox">
                                             <p class="overPhoto">
-                                                <img src="assets/images/licence/licence-overview-photo-06.webp" alt="卒業" loading="lazy">
+                                                <img src="assets/images/licence/licence-overview-photo-06.webp?1" alt="卒業" loading="lazy">
                                             </p>
                                             <p class="overSub"><span class="red">免許取得まであともう少し!</span><br><br>
                                                 卒業証明書を受け取ります。<br>（有効期限は1年間です）<br><br>
@@ -718,7 +718,7 @@
                                         </p>
                                         <div class="overBox">
                                             <p class="overPhoto">
-                                                <img src="assets/images/licence/licence-overview-photo-07.webp" alt="本免試験/免許証発行" loading="lazy">
+                                                <img src="assets/images/licence/licence-overview-photo-07.webp?1" alt="本免試験/免許証発行" loading="lazy">
                                             </p>
                                             <p class="overSub">
                                                 <span class="green">本免試験</span><br>
