@@ -65,8 +65,8 @@
                         <li>
                             <p class="licenceTopPhoto">
                                 <picture>
-                                    <source media="(max-width:768px)" srcset="assets/images/index/licence-top-photo-01-sp.webp?1">
-                                    <img src="assets/images/index/licence-top-photo-01.webp" alt="通学免許" loading="lazy">
+                                    <source media="(max-width:768px)" srcset="assets/images/index/licence-top-photo-01.webp?1">
+                                    <img src="assets/images/index/licence-top-photo-01.webp?1" alt="通学免許" loading="lazy">
                                 </picture>
                             </p>
                             <div class="boxLicence">
@@ -78,8 +78,8 @@
                         <li>
                             <p class="licenceTopPhoto">
                                 <picture>
-                                    <source media="(max-width:768px)" srcset="assets/images/index/licence-top-photo-02-sp.webp?1">
-                                    <img src="assets/images/index/licence-top-photo-02.webp" alt="合宿免許" loading="lazy">
+                                    <source media="(max-width:768px)" srcset="assets/images/index/licence-top-photo-02.webp?1">
+                                    <img src="assets/images/index/licence-top-photo-02.webp?1" alt="合宿免許" loading="lazy">
                                 </picture>
                             </p>
                             <div class="boxLicence">
