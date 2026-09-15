@@ -29,6 +29,18 @@
                         <div class="wrapBasicPlan" id="features">
                             <h3 class="titleItemContent">特徴</h3>
                             <div class="contentItem">
+                                <div class="contentItem_planBox">
+                                    <div class="contentItem_planBoxInner">
+                                        <span class="contentItem_planBoxTitle">●アパートプラン（宿泊料はいただいておりません）</span>
+                                        <p>・自炊<br>・当校ホームページ又は斡旋業者から申込み
+                                        </p>
+                                    </div>
+                                    <div class="contentItem_planBoxInner">
+                                        <span class="contentItem_planBoxTitle">●ホテルプラン</span>
+                                        <p>・３食付き（食事なしも選択可）<br>・斡旋業者からのみ申込み
+                                        </p>
+                                    </div>
+                                </div>
                                 <ul class="pointList">
                                     <li>
                                         <p class="pointImg">

@@ -933,6 +933,30 @@ dl.cautionBox dd{
    font-size: 0.7rem;
 }
 
+.contentItem_planBox{
+  width: 100%;
+  padding: 15px;
+  margin: 15px auto;
+  background: rgba(255, 216, 0, 0.3);
+  border-radius: 1rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.contentItem_planBox .contentItem_planBoxInner{
+  width: 48%;
+  padding: 10px;
+  margin: 8px auto;
+  background: white;
+  border-radius: 1rem;
+}
+
+.contentItem_planBox .contentItem_planBoxInner .contentItem_planBoxTitle{
+  color: #50B482;
+  padding: 5px 0 8px;
+}
+
 @media (min-width: 769px) {
     .enrollLink a:hover {
         color: #FFD800;
@@ -1512,6 +1536,13 @@ dl.cautionBox dd{
     .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb li img,
     .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal ul.thumb2 li img{
         aspect-ratio: 1/1;
+    }
+    .contentItem_planBox{
+      flex-direction: column;
+    }
+    
+    .contentItem_planBox .contentItem_planBoxInner{
+      width: 100%;
     }
 }
 @media (min-width:550px) and (max-width: 768px) {
