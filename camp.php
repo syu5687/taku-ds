@@ -615,7 +615,7 @@
                                         <img src="assets/images/camp/hotel-2.webp" alt="多久シティホテル松屋" loading="eager" fetchpriority="high">
                                     </p>
                                     <div class="infoWrap">
-                                        <h4 class="titleItem">ホテルプラン（シングルプラン）</h4>
+                                        <h4 class="titleItem">ホテルプラン（シングル）</h4>
                                         <p class="text">多久の市内を見下ろす小高い丘にあるシティホテルです。</p>
                                         <p class="text">自然豊かで落ち着いた場所、静かな環境でゆっくりお過ごしいただけます。<br>
                                             ホテルスタッフの方も親切丁寧で、合宿が不安な方も安心です。
@@ -640,7 +640,7 @@
                                         <img src="assets/images/camp/hotelAZ.webp" alt="ホテルAZ" loading="eager" fetchpriority="high">
                                     </p>
                                     <div class="infoWrap">
-                                        <h4 class="titleItem">ホテルプラン（シングルプラン）</h4>
+                                        <h4 class="titleItem">ホテルプラン（シングル）</h4>
                                         <ul class="listLink">
                                             <li>
                                                 <a href="https://www.az-hotel.com/ogi/" target="_blank" rel="noopener noreferrer">詳しくはこちら</a>
