@@ -955,6 +955,10 @@ dl.cautionBox dd{
 .contentItem_planBox .contentItem_planBoxInner .contentItem_planBoxTitle{
   color: #50B482;
   padding: 5px 0 8px;
+  font-size: 1.2rem;
+  display: block;
+  border-bottom: 1px solid;
+  margin: 0 0 .8rem;
 }
 
 @media (min-width: 769px) {
