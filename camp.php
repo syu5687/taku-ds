@@ -99,20 +99,6 @@
                                             <p class="pointTxt">ちょっとした合間に利用できるコンビニやカフェも近くにあります</p>
                                         </div>
                                     </li>
-                                    <!-- <li>
-                                        <p class="pointImg">
-                                            <span class="pointNum">
-                                                <img src="assets/images/camp/point-5.webp" alt="point-5" loading="eager" fetchpriority="high">
-                                            </span>
-                                            <span class="pointImage">
-                                                <img src="assets/images/camp/point-img-6.webp" alt="point-img-5" loading="eager" fetchpriority="high">
-                                            </span>
-                                        </p>
-                                        <div class="pointWrap">
-                                            <h4 class="titleItem pointTitle">時期によって<br>お得な特典もあり！</h4>
-                                            <p class="pointTxt">温泉・パフェ・など色々!!お楽しみに♪</p>
-                                        </div>
-                                    </li> -->
                                     <li>
                                         <p class="pointImg">
                                             <span class="pointNum">
@@ -387,17 +373,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="wrapBasicPlan" id="travelBussiness">
-                            <h3 class="titleItemContent">旅行業の取扱い</h3>
-                            <div class="contentItem">
-                                <p class="cter">合宿免許にお申込みいただく前に、下記の旅行条件書をご確認ください。</p>
-                                <ul class="listLink cter">
-                                    <li><a href="assets/pdf/camp-overview-01-2.pdf?v2" target="_blank" rel="noopener noreferrer">旅行条件書</a></li>
-                                    <li><a href="assets/pdf/camp-overview-02-2.pdf" target="_blank" rel="noopener noreferrer">旅行業登録票</a></li>
-                                    <li class="view_timer" data-start-date="2026/4/1 9:00"><a href="assets/pdf/camp-overview-03-2604.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款</a></li>
-                                </ul>
-                            </div>  
-                        </div>
+                        
                     </div>
                     <div class="itemTab" id="movingCost">
                         <ul class="listItem anchor">
