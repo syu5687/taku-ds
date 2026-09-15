@@ -409,7 +409,7 @@
                             <div class="contentItem">
                                 <p class="pic">
                                    <a class="popupMoney" href="javascript:void(0)">
-                                    <img src="assets/images/camp/camp_moneyTable0907.webp" alt="料金表" loading="lazy">
+                                    <img src="assets/images/camp/camp_moneyTable260915.webp" alt="料金表" loading="lazy">
                                     </a>
                                 </p>
                                 
@@ -422,7 +422,7 @@
                                             </div>
                                         
                                             <div class="boxContentOriginal">
-                                                <img src="assets/images/camp/camp_moneyTable0907.webp" alt="料金表" loading="lazy">
+                                                <img src="assets/images/camp/camp_moneyTable260915.webp" alt="料金表" loading="lazy">
                                             </div>
                                         </div>
                                     </div>
