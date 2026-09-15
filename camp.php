@@ -14,10 +14,8 @@
                 <ul class="listTab">
                     <li class="active"><a href="#overviewCamp" data-tab="overviewCamp">概要</a></li>
                     <li><a href="#movingCost" data-tab="movingCost">料金表/カレンダー</a></li>
-                    <!-- <li><a href="#eventCalendar" data-tab="eventCalendar">カレンダー</a></li> -->
                     <li><a href="#accommodation" data-tab="accommodation">宿泊施設</a></li>
                     <li><a href="#campFlow" data-tab="campFlow">入校から免許取得まで</a></li>
-                    <!-- <li><a href="#termsAndConditions" data-tab="termsAndConditions">参加規約</a></li> -->
                 </ul>
                 <div class="contentTab">
                     <div class="itemTab" id="overviewCamp">
@@ -26,7 +24,6 @@
                             <li><a href="#qualifications">入校資格について</a></li>
                             <li><a href="#transportCost">交通手段・交通費について</a></li>
                             <li><a href="#meetDateTime">集合場所・時間について</a></li>
-                            <li><a href="#travelBussiness">旅行業の取扱い</a></li>
                             
                         </ul>
                         <div class="wrapBasicPlan" id="features">
@@ -58,7 +55,7 @@
                                         </p>
                                         <div class="pointWrap">
                                             <h4 class="titleItem pointTitle">昼食は私達が作った<br>愛情たっぷりの日替わり弁当</h4>
-                                            <p class="pointTxt">昼食のお米は多久産の「さがびより」を使用。快適に運転免許が取れますように食事の面からもサポート</p>
+                                            <p class="pointTxt">昼食のお米は多久産の「さがびより」を使用。快適に運転免許が取れますように食事の面からもサポート（食事はホテルプランのみ）</p>
                                         </div>
                                     </li>
                                     <li>
@@ -73,7 +70,7 @@
                                         </p>
                                         <div class="pointWrap">
                                             <h4 class="titleItem pointTitle">各宿泊施設・校内にWi-Fi<br>完備</h4>
-                                            <p class="pointTxt">教習の空き時間やバスの待ち時間もホテルでもサクサク通信。</p>
+                                            <p class="pointTxt">教習の空き時間やバスの待ち時間もアパート・ホテルでもサクサク通信。</p>
                                         </div>
                                     </li>
                                     <li>
@@ -385,10 +382,7 @@
                                 <ul class="listLink cter">
                                     <li><a href="assets/pdf/camp-overview-01-2.pdf?v2" target="_blank" rel="noopener noreferrer">旅行条件書</a></li>
                                     <li><a href="assets/pdf/camp-overview-02-2.pdf" target="_blank" rel="noopener noreferrer">旅行業登録票</a></li>
-                                    <!-- <li class="view_timer" data-end-date="2026/4/1 9:00"><a href="assets/pdf/camp-overview-03.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款0000</a></li> -->
                                     <li class="view_timer" data-start-date="2026/4/1 9:00"><a href="assets/pdf/camp-overview-03-2604.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款</a></li>
-                                    <!-- <li class="fxLink view_timer" data-end-date="2026/4/1 9:00"><a href="assets/pdf/camp-overview-04.pdf" target="_blank" rel="noopener noreferrer">標準旅行業約款（特別補償規程）0000</a></li> -->
-                                    <!-- <li><a href="camp?tab=termsAndConditions">合宿免許の参加規約</a></li> -->
                                 </ul>
                             </div>  
                         </div>
@@ -396,8 +390,6 @@
                     <div class="itemTab" id="movingCost">
                         <ul class="listItem anchor">
                             <li><a href="#pricePlan">料金表&保証内容</a></li>
-                            <!-- <li><a href="#discount">割引制度</a></li> -->
-                            <!-- <li><a href="#warranty">保証内容について（30歳までの方）</a></li> -->
                             <li><a href="#licenseAndEnrollDates">入校カレンダー</a></li>
                         </ul>
                         <div class="wrapBasicPlan" id="pricePlan">
@@ -424,172 +416,8 @@
                                     </div>
                                 </div>
 
-                                
-                                <!-- <div class="tableWrap tableScroll">
-                                    <p>令和7年11月1日～令和8年6月30日入校</p>
-                                    <table>
-                                        <tr>
-                                            <th class="col">宿泊施設名</th>
-                                            <th class="row">部屋タイプ</th>
-                                            <th class="row">利用条件</th>
-                                            <th class="row">4/12～6/30<br>11/1～12/27<br>入校</th>
-                                            <th class="row">1/5～1/17<br>3/29～4/11<br>入校</th>
-                                            <th class="row">1/18～1/24<br>3/22～3/28<br>入校</th>
-                                            <th class="row">3/15～3/21<br>入校</th>
-                                            <th class="row">1/25～3/14<br>入校</th>
-                                        </tr>
-                                        <tr>
-                                            <th class="col">シャロン<br>（シェアハウス）</th>
-                                            <td>相部屋ツイン<br><span style="font-size:0.8rem;">食事無し</span></td>
-                                            <td>女性限定</td>
-                                            <td>217,360円</td>
-                                            <td>227,370円</td>
-                                            <td>271,370円</td>
-                                            <td>290,400円</td>
-                                            <td>361,900円</td>
-                                        </tr>
-                                        <tr>
-                                            <th class="col">ドルチェ</th>
-                                            <td>相部屋ツイン<br><span style="font-size:0.8rem;">食事無し</span></td>
-                                            <td>ー</td>
-                                            <td>217,360円</td>
-                                            <td>227,370円</td>
-                                            <td>271,370円</td>
-                                            <td>290,400円</td>
-                                            <td>361,900円</td>
-                                        </tr>
-                                        <tr>
-                                            <th class="col">シャロン<br>（シェアハウス）</th>
-                                            <td>シングル<br><span style="font-size:0.8rem;">食事無し</span></td>
-                                            <td>女性限定</td>
-                                            <td>232,100円</td>
-                                            <td>242,000円</td>
-                                            <td>282,370円</td>
-                                            <td>301,400円</td>
-                                            <td>372,900円</td>
-                                        </tr>
-                                        <tr>
-                                            <th class="col">ドルチェ</th>
-                                            <td>シングル<br><span style="font-size:0.8rem;">食事無し</span></td>
-                                            <td>ー</td>
-                                            <td>232,100円</td>
-                                            <td>242,000円</td>
-                                            <td>282,370円</td>
-                                            <td>301,400円</td>
-                                            <td>372,900円</td>
-                                        </tr>
-                                        <tr>
-                                            <th class="col">多久シティホテル松屋</th>
-                                            <td>シングルB<br>3食付</td>
-                                            <td>ー</td>
-                                            <td>266,200円</td>
-                                            <td>276,100円</td>
-                                            <td>316,470円</td>
-                                            <td>341,000円</td>
-                                            <td>412,500円</td>
-                                        </tr>
-                                        <tr>
-                                            <th class="col">ホテルAZ</th>
-                                            <td>シングルA<br>3食付</td>
-                                            <td>ー</td>
-                                            <td>266,200円</td>
-                                            <td>276,100円</td>
-                                            <td>316,470円</td>
-                                            <td>341,000円</td>
-                                            <td>412,500円</td>
-                                        </tr>
-                                    </table>
-                                </div> -->
-                                <!-- <p class="text tableNotes sp">←横にスクロールできます→</p> -->
-                                <!-- <p class="text tableNotes">
-                                    ※上記金額は全て税込です。<br>
-                                    <span class="bold">ホテルプランの方でお食事不要な場合は値引きいたしますのでお問い合わせください。</span><br>
-                                    ※別途、仮免許申請交付料 2,900円（非課税）がかかります。（入校日に窓口でお支払いください）<br>
-                                    ※上記金額より、MT の方は22,000 円UP 二輪免許所持の方は11,000 円引<br>
-                                    ※お支払いは銀行振込のみとなっております。ローンをご希望の方は、入校申込時にご相談ください。
-                                </p> -->
                             </div>
                         </div>
-                        <!-- <div class="wrapBasicPlan" id="discount">
-                            <h3 class="titleItemContent">割引制度</h3>
-                            <div class="contentItem">
-                                <h4 class="titleItem">早割</h4>
-                                <p class="text">
-                                    <span class="red bold">5,500円引</span>
-                                    2か月前のご予約で適用します。
-                                </p>
-                                <h4 class="titleItem">グル割</h4>
-                                <p class="text">
-                                    <span class="red bold">5,500円引</span>
-                                    2人以上の同日入校で適用します
-                                </p>
-                                <div class="blockWrap">
-                                    <h5 class="titleSenior">入校日限定キャンペーン</h5>
-                                    <p class="text">
-                                        対象日：<span class="bold">R7　4/8　5/8　6/3　6/19　7/3　7/24　10/9　10/23　11/6　11/20　12/4</span><br>
-                                        多久シティホテル松屋・シャロン利用で税込11,000円割引（※30歳以上不可）
-                                    </p>
-                                    <p class="text">
-                                        ※AT入校のみとなっております。<br>
-                                        ※他の割引プランと併用可。詳しくはお問合せ下さい。
-                                    </p>
-                                    <ul class="listLink">
-                                        <li>
-                                            <li><a href="/contact">申し込みはこちら</a></li>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div> -->
-                        <!-- <div class="wrapBasicPlan" id="warranty">
-                            <h3 class="titleItemContent">保証内容について（30歳までの方）</h3>
-                            <div class="contentItem">
-                                <div class="tableWrap">
-                                    <table>
-                                        <tr>
-                                            <th>保証内容</th>
-                                        </tr>
-                                        <tr>
-                                            <th>技能教習</th>
-                                            <td>卒業まで保証</td>
-                                        </tr>
-                                        <tr>
-                                            <th>修了検定</th>
-                                            <td>
-                                                卒業まで保証
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <th>卒業検定</th>
-                                            <td>
-                                                卒業まで保証
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <th>仮免学科</th>
-                                            <td>1 回分は仮免許申請交付料に含む（入校日別途徴収分）</td>
-                                        </tr>
-                                        <tr>
-                                            <th>宿泊食事</th>
-                                            <td>卒業まで保証（+3泊分）</td>
-                                        </tr>
-                                    </table>
-                                </div>
-                                <p class="text tableNotes">※26歳以上の方は保証はありません。</p>
-                                <h4 class="titleItem">保証備考</h4>
-                                <p class="text red bold fxP">お客様の不注意や故意による教習の遅延、お客様都合による追加教習・延泊等は、保証内でも追加費用がかかります</p>
-                                <div class="blockWrap">
-                                    <h5 class="titleSenior">保証を超えた場合の追加料金</h5>
-                                    <p class="text">
-                                        技能教習：5,940円／時限<br>
-                                        修了検定：4,950円／回<br>
-                                        卒業検定：5,720円／回<br>
-                                        仮免学科：1,800円（非課税）／回<br>
-                                        宿泊食事：6,600円／泊(保証を超えた延泊は食事が付きません)
-                                    </p>
-                                </div>
-                            </div>
-                        </div> -->
                         <div class="wrapBasicPlan" id="licenseAndEnrollDates">
                             <h3 class="titleItemContent">カレンダー</h3>
                             <div class="contentItem">
@@ -618,45 +446,9 @@
                                     </div>
                                 </div>
                                 
-                                <!-- <h4 class="titleItem">入校日</h4> -->
-                                <!-- <div class="tableWrap">
-                                    <table>
-                                        <tr>
-                                            <th><span class="thText">普通車/AT</span><span class="thTime">14泊15日〜（最短）</span></th>
-                                            <td>毎週<span class="red">火曜日・木曜日</span></td>
-                                        </tr>
-                                        <tr>
-                                            <th><span class="thText">普通車/MT</span><span class="thTime">16泊17日〜（最短）</span></th>
-                                            <td>毎週<span class="red">火曜日</span></td>
-                                        </tr>
-                                    </table>
-                                </div> -->
-                                <!-- <p class="text tableNotes">
-                                    ※別途、仮免申請交付料2,900円（非課税）がかかります。（窓口でお支払いください）<br>
-                                    ※自動二輪免許をお持ちの方は、11,000円（税込）引きとなります。卒業日程が異なります。<br>
-                                    ※料金と入校日は時期により変動がございます。
-                                </p> -->
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="itemTab" id="eventCalendar">
-                        <div class="wrapBasicPlan">
-                            <h3 class="titleItemContent">入校日＆最短卒業予定日カレンダー</h3>
-                            <div class="contentItem">
-                                <p class="text">
-                                    ※クリックで全画面表示できます。
-                                </p>
-                                <ul class="listLink">
-                                    <li><a href="/contact">申し込みはこちら</a></li>
-                                </ul>
-                                <p class="eventCalendarImg">
-                                    <a class="hover" href="assets/pdf/camp-calendar-251001.pdf" rel="noopener noreferrer" target="_blank">
-                                        <img src="assets/images/camp/event-calendar-251001.webp" alt="多久自動車学校合宿入校日＆最短卒業予定日カレンダー" loading="eager" fetchpriority="high">
-                                    </a>
-                                </p>
-                            </div>
-                        </div>
-                    </div> -->
                     <div class="itemTab" id="accommodation">
                         <ul class="listItem anchor">
                             <li><a href="#shareHouse">シェアハウス「シャロン」</a></li>
@@ -673,7 +465,7 @@
                                         <img src="assets/images/camp/shalon/room-img-008.webp?1" alt="シェアハウス「シャロン」" style="border-radius: 30px;">
                                     </p>
                                     <div class="infoWrap">
-                                        <h4 class="titleItem">自炊プラン（シングルプラン・ツインプラン）</h4>
+                                        <h4 class="titleItem">アパートプラン（ツイン・相部屋）</h4>
                                         <p class="text">多久市内の閑静な住宅街の中にある女性専用宿舎です！</p>
                                         <p class="text">それぞれコンセプトの異なるお洒落なお部屋で過ごしたり、広いキッチンで自炊することで、お友達との沢山の思い出が出来ること間違い無し！！</p>
                                         <p class="text">設備やセキュリティーの面も万全ですので是非ご利用ください。</p>
@@ -702,55 +494,25 @@
                                                             各個室2名ずつの3部屋、最大6名が宿泊できる施設です。<br>
                                                            1人でご入校される方は同時期にご宿泊の方と一緒のお部屋でご案内いたします。
                                                         </p>
-                                                        <!-- <ul class="roomsList">
-                                                            <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-img-1.webp" alt="食堂" loading="lazy"></p>
-                                                                <p class="listTxt">食堂</p>
-                                                            </li>
-                                                            <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-img-2.webp" alt="キッチン" loading="lazy"></p>
-                                                                <p class="listTxt">キッチン</p>
-                                                            </li>
-                                                            <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-img-3.webp" alt="シングル" loading="lazy"></p>
-                                                                <p class="listTxt">シングル</p>
-                                                            </li>
-                                                            <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-img-4.webp" alt="相部屋" loading="lazy"></p>
-                                                                <p class="listTxt">相部屋</p>
-                                                            </li>
-                                                        </ul> -->
                                                         <div class="slideArea">
                                                         <ul class="sliderShalon">
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-001.webp?1" alt="シャロン_室内"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-002.webp?1" alt="シャロン_室内"></p></li>
-                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-003.webp" alt="シャロン_リビング" loading="lazy"></p></li> -->
+                                                            
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-004.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-005.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
-                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-013.webp?1" alt="シャロン_キッチン" loading="lazy"></p></li> -->
+                                                            
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-006.webp?1" alt="シャロン_室内" loading="lazy"></p></li>
-                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-007.webp?1" alt="シャロン_室内" loading="lazy"></p></li> -->
-                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-008.webp?1" alt="シャロン_室内" loading="lazy"></p></li> -->
-                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-009.webp?1" alt="シャロン_室内" loading="lazy"></p></li> -->
-                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-010.webp?1" alt="シャロン_室内" loading="lazy"></p></li> -->
-                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-011.webp" alt="シャロン_トイレ" loading="lazy"></p></li> -->
-                                                            <!-- <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-012.webp?1" alt="シャロン_室内" loading="lazy"></p></li> -->
+                                                            
                                                             
                                                         </ul>
                                                         <ul class="thumb">
                                                               <li><img src="assets/images/camp/shalon/room-img-001.webp?1" alt="シャロン_室内"></li>
                                                               <li><img src="assets/images/camp/shalon/room-img-002.webp?1" alt="シャロン_室内"></li>
-                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-003.webp" alt="シャロン_リビング"></li> -->
+                                                              
                                                               <li><img src="assets/images/camp/shalon/room-img-004.webp?1" alt="シャロン_室内"></li>
                                                               <li><img src="assets/images/camp/shalon/room-img-005.webp?1" alt="シャロン_室内"></li>
-                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-013.webp?1" alt="シャロン_室内"></li> -->
                                                               <li><img src="assets/images/camp/shalon/room-img-006.webp?1" alt="シャロン_室内"></li>
-                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-007.webp?1" alt="シャロン_室内"></li> -->
-                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-008.webp?1" alt="シャロン_室内"></li> -->
-                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-009.webp?1" alt="シャロン_室内"></li> -->
-                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-010.webp?1" alt="シャロン_室内"></li> -->
-                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-011.webp" alt="シャロン_トイレ"></li> -->
-                                                              <!-- <li><img src="assets/images/camp/shalon/room-img-012.webp?1" alt="シャロン_室内"></li> -->
                                                               
                                                         </ul>
                                                         </div>
@@ -774,10 +536,10 @@
                                         <img src="assets/images/camp/hotelDOLCE.webp?1" alt="ドルチェ外観">
                                     </p>
                                     <div class="infoWrap">
-                                        <h4 class="titleItem">自炊プラン（シングルプラン・ツインプラン）</h4>
+                                        <h4 class="titleItem">アパートプラン（ツイン・相部屋）</h4>
                                         <p class="text">小城市牛津町にあるアパートタイプの宿舎です！</p>
                                         <p class="text">2025年11月オープンの新しい施設です。</p>
-                                        <p class="text">プライベート充実のアパートタイプで一人暮らし気分を味わえます。<br>料理を楽しんだり、広い浴室でゆったり過ごしたり！<br>是非ご利用ください。</p>
+                                        <p class="text">プライベート充実のアパートタイプです。<br>料理を楽しんだり、広い浴室でゆったり過ごしたり！<br>是非ご利用ください。</p>
                                         <ul class="listLink">
                                             <li>
                                                 <a class="popupHotelLink2" href="javascript:void(0)">詳しくはこちら</a>
@@ -804,24 +566,6 @@
                                                             <br>
                                                             ※テレビはチューナーレスのため地上波は映りません。
                                                         </p>
-                                                        <!-- <ul class="roomsList">
-                                                            <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-1.webp?2" alt="キッチン" loading="lazy"></p>
-                                                                <p class="listTxt">キッチン</p>
-                                                            </li>
-                                                            <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-2.webp?2" alt="キッチン" loading="lazy"></p>
-                                                                <p class="listTxt">キッチン</p>
-                                                            </li>
-                                                            <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-3.webp?2" alt="リビング" loading="lazy"></p>
-                                                                <p class="listTxt">リビング</p>
-                                                            </li>
-                                                            <li>
-                                                                <p class="listImg"><img src="assets/images/camp/room-imgD-4.webp" alt="浴室" loading="lazy"></p>
-                                                                <p class="listTxt">浴室</p>
-                                                            </li>
-                                                        </ul> -->
                                                         <div class="slideArea">
                                                         <ul class="sliderDolce">
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001-1.webp?1" alt="ドルチェ_キッチン"></p></li>
@@ -1041,115 +785,6 @@
                             </ul>
                         </div>
                     </div>
-                    <!-- <div class="itemTab" id="termsAndConditions">
-                        <div class="wrapBasicPlan">
-                            <h3 class="titleItemContent">合宿免許の参加規約</h3>
-                            <div class="contentItem">
-                                <h4 class="titleItem">1 申し込み</h4>
-                                <p class="text">
-                                    当校所定の申込み手続きをしたうえ、免許証のある方は免許証のコピー、 無い方は住民票（本籍地記載、最新のもの）を一通添え申込みをする。<br>
-                                    （外国籍の 方はパスポートと在留カードのコピー） 
-                                </p>
-                                <h4 class="titleItem">2 参加資格（下記条件に該当する場合は参加できません）</h4>
-                                <p class="text">
-                                    1.公安委員会が定める免許取得条件を満たさない方<br>
-                                    2.日本語の読解が出来ない方<br>
-                                    3.刺青（ファッションタトゥーを含む）をされている方<br>
-                                    4.18 歳未満の方は保護者（保証人）の承認を受けていない方<br>
-                                    5.健康面で短期教習スケジュールに耐える事が出来ない方<br>
-                                    6.暴力団、暴力団関係者、反社会勢力との関わりがある方<br>
-                                    7.書類不備や料金未納等、手続きに不備がある方
-                                </p>
-                                <p class="text">以上、上記の各項目に関し虚偽の申告を行った場合は入校の拒否、強制退校処分を受けても、当校に対し異議申し立てを行わないものとする。 </p>
-                                <h4 class="titleItem">3 入校契約の成立</h4>
-                                <p class="text">
-                                    当校<a class="blueul" href="assets/pdf/camp-overview-01.pdf" target="_blank">旅行条件書</a>第 3 項により契約は成立するものとする。
-                                </p>
-                                <h4 class="titleItem">4 契約の解除及び払戻し</h4>
-                                <p class="text">
-                                    (1) お客様の解除権 <br>
-                                    当校<a class="blueul" href="assets/pdf/camp-overview-01.pdf" target="_blank">旅行条件書</a>第 11 項⑴により解除できるものとする。
-                                </p>
-                                <p class="text">
-                                    (2) 払戻し方法<br>
-                                    当校は上記事項により契約が解除された時は、既に受領している合宿料金 から所定の取消料及び振込手数料を差引き、払戻しを行うものとする。 
-                                </p>
-                                <p class="text">
-                                    (3) 当校の解除権<br>
-                                    当校<a class="blueul" href="assets/pdf/camp-overview-01.pdf" target="_blank">旅行条件書</a>第 11 項⑵により解除できるものとする。
-                                </p>
-                                <p class="text">
-                                    (4) 入校後の途中解約時の払戻し<br>
-                                    入校後、お客様の申し出により合宿の途中で解約する場合は下記の計算にて返金するものとする。 
-                                </p>
-                                <p class="text">
-                                    教習料金－(教習料金÷宿泊予定日数)×教習・宿泊消化日数 
-                                </p>
-                                <p class="text">
-                                    上記以外に、解約手数料 55,000 円を当校に支払うものとする。<br>
-                                    また、宿泊キャンセル料が発生する場合がある。<br>
-                                    なお、この場合の交通費は往復全額自己負担とする。<br>
-                                    転校を希望する場合は、転校事務手数料 5,500 円を当校に支払うものとする。<br>
-                                    MT から AT 変更の場合、差額の返金はないものとする。
-                                </p>
-                                <p class="text">
-                                    (5) 教習予定の無断キャンセル<br>
-                                    キャンセル料として 1 時間当たり相当額の教習料を当校に支払うものとする。
-                                </p>
-                                <h4 class="titleItem">5 お客様の責任</h4>
-                                <p class="text">
-                                    お客様の故意、法令違反、公序良俗に反する行為、虚偽の申告を行った場合、当校が定める校則、宿泊規則を守らない場合、当校及び宿泊施設に損害を与えた場合、強制退校処分となりこの場合教習料金は一切返金しないものとする。<br>
-                                    また、別途損害賠償を請求する場合がある。
-                                </p>
-                                <h4 class="titleItem">6 免責</h4>
-                                <p class="text">
-                                    次に例示するような事由により損害を被った場合においては当校では責任を負わないものとする。
-
-                                </p>
-                                <p class="text">
-                                    1.自然災害、官公庁の命令、その他当校の管理できない事由により生ずる 教習の中止、日程の変更
-                                    2.教習中、検定中並びに送迎中においてお客様の故意、また重大な不注意 により発生した事故 
-                                    3.自由行動中の事故
-                                    4.盗難
-                                </p>
-                                <h4 class="titleItem">7 最短日数</h4>
-                                <p class="text">当校では入校日により最短日数を定めているが、これはあくまでも予定であり 天候等自然条件、またお客様の能力等個人差により卒業までの日数が異なる場合がある為、あくまでも参考とする。 </p>
-                                <h4 class="titleItem">8 教習の中断 </h4>
-                                <p class="text">基本的に認めないものとするが、やむを得ず一時帰宅する場合は当校所定の手 続きを済ませ、その後の日程等指示に従うものとする。</p>
-                                <h4 class="titleItem">9 事故等の処理 </h4>
-                                <p class="text">当校は適正な入校説明を行う等、合宿中に発生した事故、紛争の防止に務める ものとするが、合宿中に発生した事故、紛争についてはお客様と当校の相対間において誠意をもって協議し自主的な解決を図るものとする。 </p>
-                                <h4 class="titleItem">10 交通費</h4>
-                                <p class="text">卒業したお客様については、当校の定める規定実費を支給するものとする。 </p>
-                                <h4 class="titleItem">11 追加料金</h4>
-                                <p class="text">
-                                    当校で保証する教習時限、宿泊日数を超えて教習を受ける場合は、追加料金が 発生する。<br>
-                                    この場合の追加料金は当校の請求に対し、卒業までに支払うものとする。<br>
-                                    （支払えない場合は一切の書類を当校が預かるものとする。）
-                                </p>
-                                <h4 class="titleItem">12 終了 </h4>
-                                <p class="text">
-                                    この合宿教習はお客様の卒業検定合格をもって終了とする。 
-                                </p>
-                                <h4 class="titleItem">13 強制退校 </h4>
-                                <p class="text">
-                                    お客様が法律で定められている行為に反した場合、また社会の良俗に反した場 合、特に暴力、セクハラ、器物破損、20 歳未満の飲酒喫煙、校則違反等指導員及び当校職員の指示に従わない場合は強制退校とする。 
-                                </p>
-                                <h4 class="titleItem">14 その他特記事項</h4>
-                                <p class="text">
-                                    1.自然災害その他の事由により教習の中断または一時帰宅が発生する場合がある<br>
-                                    2.宿泊施設等の付帯設備はお客様へのサービスとして提供する<br>
-                                    3.合宿期間中の飲酒については控えること<br>
-                                    4.食事については食物アレルギーについての個別対応は無いものとする<br>
-                                    5.20 歳未満の学生の方については下記の保護者（保証人）を記入した上、参加する
-                                </p>
-                                <p class="note">
-                                    附則<br>
-                                    平成29 年 8 月 1 日 制定 施行<br>
-                                    令和5 年 3 月 30 日 改定 施行
-                                </p>
-                            </div>
-                        </div>
-                    </div> -->
                 </div>
             </div>
         </div>
