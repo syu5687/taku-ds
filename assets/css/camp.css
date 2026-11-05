@@ -604,7 +604,8 @@ table tr td  .red{
     cursor: pointer;
 }
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .closePopup,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .closePopup {
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .closePopup,
+.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .closePopup{
     top: 3%;
 }
 .popupFlowOriginal .wrapFlowOriginal .closePopup span {
@@ -638,14 +639,16 @@ body.fixed {
     width: 76vw;
 }
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal {
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal,
+.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal  {
     background: white;
     max-width: 1419px;
     width: 100%;
     padding-top: 71px;
 }   
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal{
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal,
+.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal,{
     max-width: 1187px;
     width: 100%;
     margin: 0 auto;
@@ -653,7 +656,8 @@ body.fixed {
     
 }
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .popupTitle,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .popupTitle {
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .popupTitle,
+.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .popupTitle {
     font-size: 53px; 
     font-weight: bold;
     line-height: 1.433;
@@ -661,7 +665,8 @@ body.fixed {
     margin-bottom: 34px;
 }
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .storeOriPhoto,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .storeOriPhoto{
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .storeOriPhoto,
+.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .storeOriPhoto{
     max-width: 1106px;
     width: 100%;
     margin: 0 auto 47px;
@@ -669,19 +674,22 @@ body.fixed {
     max-height: unset;
 }
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .storeOriPhoto img,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .storeOriPhoto img {
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .storeOriPhoto img,
+.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .storeOriPhoto img {
     aspect-ratio: 1072 / 804;
     width: 100%;
 }
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .popupText,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .popupText{
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .popupText,
+.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .popupText{
     font-size: 18px;
     font-weight: bold;
     line-height: 1.667;
     margin-bottom: 30px;
 }       
 .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .popupText.fxppText,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .popupText.fxppText{
+.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .popupText.fxppText,
+.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .popupText.fxppText{
     margin-bottom: 0;
 }
 

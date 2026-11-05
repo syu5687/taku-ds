@@ -441,6 +441,7 @@
                         <ul class="listItem anchor">
                             <li><a href="#shareHouse">シェアハウス「シャロン」</a></li>
                             <li><a href="#dolce">ドルチェ</a></li>
+                            <!-- <li><a href="#leopa">レオパレス</a></li> -->
                             <li><a href="#takuHotel">多久シティホテル松屋</a></li>
                             <li><a href="#hotelAZ">ホテルAZ</a></li>
                             <li><a href="#hotelAvailable ">満室時利用ホテル</a></li>
@@ -595,13 +596,13 @@
                                 </div>
                             </div>
                             
-                        <div class="wrapBasicPlan" id="leopa">
+                        <div class="wrapBasicPlan" id="leopa" style="display: none;">
                         <h3 class="titleItemContent" style="margin-bottom: 10px;">レオパレス</h3>
                        
                         <div class="contentItem">
                             <div class="hotelInfoWrap">
                                 <p class="hotelImg">
-                                    <img src="assets/images/camp/leola.webp?1" alt="レオパレス外観">
+                                    <img src="assets/images/camp/leopa.webp?1" alt="レオパレス外観">
                                 </p>
                                 <div class="infoWrap">
                                     <h4 class="titleItem">アパートプラン（シングル）</h4>
@@ -621,7 +622,7 @@
                                                 </div>
                                                 <div class="boxContentOriginal">
                                                     <p class="popupTitle">レオパレス</p>
-                                                    <p class="storeOriPhoto"><img src="assets/images/camp/leola.webp" alt="レオパレス外観"></p>
+                                                    <p class="storeOriPhoto"><img src="assets/images/camp/leopa.webp" alt="レオパレス外観"></p>
                                                     
                                                     <div class="slideArea">
                                                     <ul class="sliderDolce">
