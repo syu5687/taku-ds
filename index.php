@@ -21,7 +21,7 @@
                         <li>
                             <a href="/news#noticeNews000">
                                 <p class="timeNewsTop">2026.11.05</p>
-                                <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span>高齢者講習のご案内</h3>
+                                <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span>10月から入校される高校生の皆様へご案内！</h3>
                             </a>
                         </li>
 
