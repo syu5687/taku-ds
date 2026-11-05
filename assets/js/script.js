@@ -183,6 +183,7 @@ $(document).ready(function() {
         $(".popupLink2").addClass('showPopup');
         $('body').addClass('fixed');
     });
+    
     $(".closePopup").click(function() {
         $(".popupFlowOriginal").removeClass('showPopup');
         $('body').removeClass('fixed');
@@ -194,6 +195,10 @@ $(document).ready(function() {
     });
     $(".popupHotelLink2").click(function() {
         $(".popupHotel2").addClass('showPopup');
+        $('body').addClass('fixed');
+    });
+    $(".popupHotelLink3").click(function() {
+        $(".popupHotel3").addClass('showPopup');
         $('body').addClass('fixed');
     });
     $(".closePopup").click(function() {

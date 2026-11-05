@@ -594,6 +594,65 @@
                                    <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3336.4089542013194!2d130.19994507585915!3d33.255784459364996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE1JzIwLjgiTiAxMzDCsDEyJzA5LjEiRQ!5e0!3m2!1sja!2sjp!4v1760414120494!5m2!1sja!2sjp" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                 </div>
                             </div>
+                            
+                        <div class="wrapBasicPlan" id="leopa">
+                        <h3 class="titleItemContent" style="margin-bottom: 10px;">レオパレス</h3>
+                       
+                        <div class="contentItem">
+                            <div class="hotelInfoWrap">
+                                <p class="hotelImg">
+                                    <img src="assets/images/camp/leola.webp?1" alt="レオパレス外観">
+                                </p>
+                                <div class="infoWrap">
+                                    <h4 class="titleItem">アパートプラン（シングル）</h4>
+                                    <p class="text">桜の名所、小城公園の近くにあるアパートタイプの宿舎です！</p>
+                                    <p class="text">他の人に気を遣わず、自分のペースで学習や休息ができます。是非ご利用ください。</p>
+                                    <ul class="listLink">
+                                        <li>
+                                            <a class="popupHotelLink3" href="javascript:void(0)">詳しくはこちら</a>
+                                        </li>
+                                    </ul>
+                                    <div class="popupFlowOriginal popupHotel3">
+                                        <div class="wrapFlowOriginal">
+                                            <div class="boxOriginal">
+                                                <div class="closePopup">
+                                                    <span></span>
+                                                    <span></span>
+                                                </div>
+                                                <div class="boxContentOriginal">
+                                                    <p class="popupTitle">レオパレス</p>
+                                                    <p class="storeOriPhoto"><img src="assets/images/camp/leola.webp" alt="レオパレス外観"></p>
+                                                    
+                                                    <div class="slideArea">
+                                                    <ul class="sliderDolce">
+                                                        <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-001.webp?1" alt="レオパレス写真"></p></li>
+                                                        <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-002.webp?1" alt="レオパレス写真"></p></li>
+                                                        <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-003.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
+                                                        <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-004.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
+                                                        <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-005.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
+                                                        <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-006.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
+                                                        
+                                                    </ul>
+                                                    <ul class="thumb2">
+                                                    <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-001.webp?1" alt="レオパレス写真"></p></li>
+                                                    <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-002.webp?1" alt="レオパレス写真"></p></li>
+                                                    <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-003.webp?1" alt="レオパレス写真"></p></li>
+                                                    <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-004.webp?1" alt="レオパレス写真"></p></li>
+                                                    <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-005.webp?1" alt="レオパレス写真"></p></li>
+                                                    <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-006.webp?1" alt="レオパレス写真"></p></li>                            </ul>
+                                                    </div>
+                                                    </div>
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- <div class="mapWrap">
+                               <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3336.4089542013194!2d130.19994507585915!3d33.255784459364996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE1JzIwLjgiTiAxMzDCsDEyJzA5LjEiRQ!5e0!3m2!1sja!2sjp!4v1760414120494!5m2!1sja!2sjp" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            </div> -->
+                        </div>
                         
                         <div class="wrapBasicPlan" id="takuHotel">
                             <h3 class="titleItemContent">多久シティホテル松屋</h3>
