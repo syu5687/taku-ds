@@ -14,34 +14,33 @@
                 <div class="contentTab">
                     <div class="itemTab" id="noticeNews">
                         <div class="wrapBasicPlan" id="noticeNews000">
-                            <h3 class="titleItemContent" id="noticeNewsTitle000">高齢者講習受付中</h3>
+                            <h3 class="titleItemContent" id="noticeNewsTitle000">10月から入校される高校生の皆様へご案内！</h3>
                             <div class="contentItem">
                                 <div class="iframeNews">
                                     <div class="boxNews">
-                                        <p class="timeNews" id="noticeNewsDate000">2026.08.31</p>
+                                        <p class="timeNews" id="noticeNewsDate000">2026.11.05</p>
                                         <p class="txtNoticeNews">お知らせ</p>
                                     </div>
                                     <div class="boxContentNews">
                                         <p>
-                                            <a href="assets/pdf/2609_koureisya.pdf">高齢者講習受付中<br>詳しくはこちら↓<img src="assets/images/news/2609koureisya.webp" alt="2026年高齢者講習のご案内" loading="lazy"></a>
+                                            <a href="assets/pdf/261105student.pdf">10月から入校される高校生の皆様！17歳6ヶ月から仮免試験が受験できる！<br>詳しくはこちら↓<img src="assets/images/news/261105student.webp" alt="2026年10月から入校される高校生の皆様へご案内" loading="lazy"></a>
                                         </p>
                                     </div>
                                     
                                 </div>
                             </div>
                         </div>
-                        <div class="wrapBasicPlan" id="noticeNews002">
-                            <h3 class="titleItemContent" id="noticeNewsTitle001">2026年夏休み運転免許取得のためのご案内</h3>
+                        <div class="wrapBasicPlan" id="noticeNews001">
+                            <h3 class="titleItemContent" id="noticeNewsTitle001">高齢者講習受付中</h3>
                             <div class="contentItem">
                             <div class="iframeNews">
                                 <div class="boxNews">
-                                    <p class="timeNews" id="noticeNewsDate001">2026.06.24</p>
+                                    <p class="timeNews" id="noticeNewsDate001">2026.08.31</p>
                                     <p class="txtNoticeNews">お知らせ</p>
                                 </div>
                                 <div class="boxContentNews">
                                     <p>
-                                        大学生・専門学生の皆さんへ、2026年夏休み運転免許取得のためのご案内！<br>
-                                        詳しくは<a href="assets/pdf/summervaca_2026.pdf">こちら↓<img src="assets/images/news/summer2026.webp" alt="2026年夏休み運転免許取得のためのご案内" loading="lazy"></a>
+                                        <a href="assets/pdf/2609_koureisya.pdf">高齢者講習受付中<br>詳しくはこちら↓<img src="assets/images/news/2609koureisya.webp" alt="2026年高齢者講習のご案内" loading="lazy"></a>
                                     </p>
                                 </div>
                                 
