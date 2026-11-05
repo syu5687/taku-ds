@@ -214,20 +214,20 @@
                                                     <td class="dashedRight">31</td>
                                                     <td style="border-style:none dashed none;">4</td>
                                                     <td class="dashedLeft">26</td>
-                                                    <td>352,110円</td>
+                                                    <td>359,590円</td>
                                                     <td class="dashedRight">1,800円</td>
                                                     <td class="dashedLeft">1,100円</td>
-                                                    <td class="total">355,010円</td>
+                                                    <td class="total">362,490円</td>
                                                 </tr>
                                                 <tr>
                                                     <td>自二免</td>
                                                     <td class="dashedRight">29</td>
                                                     <td style="border-style:none dashed solid;">4</td>
                                                     <td class="dashedLeft">2</td>
-                                                    <td>283,360円</td>
+                                                    <td>290,620円</td>
                                                     <td class="dashedRight">1,800円</td>
                                                     <td class="dashedLeft">1,100円</td>
-                                                    <td class="total">286,260円</td>
+                                                    <td class="total">293,520円</td>
                                                 </tr>
                                                 <tr>
                                                     <th rowspan="2">普通免許<br>(AT)</th>
@@ -235,20 +235,20 @@
                                                     <td class="dashedRight">31</td>
                                                     <td style="border-style:none dashed none;">-</td>
                                                     <td class="dashedLeft">26</td>
-                                                    <td>322,630円</td>
+                                                    <td>328,680円</td>
                                                     <td class="dashedRight">1,800円</td>
                                                     <td class="dashedLeft">1,100円</td>
-                                                    <td class="total">325,530円</td>
+                                                    <td class="total">331,580円</td>
                                                 </tr>
                                                 <tr>
                                                     <td>自二免</td>
                                                     <td class="dashedRight">29</td>
                                                     <td style="border-style:none dashed none;">-</td>
                                                     <td class="dashedLeft">2</td>
-                                                    <td>253,880円</td>
+                                                    <td>259,710円</td>
                                                     <td class="dashedRight">1,800円</td>
                                                     <td class="dashedLeft">1,100円</td>
-                                                    <td class="total">256,780円</td>
+                                                    <td class="total">262,610円</td>
                                                 </tr>
                                                 <!-- <tr>
                                                     <th>普通免許<br>(AT・MT)</th>
@@ -283,7 +283,7 @@
                                                 <td>普通免許（AT)</td>
                                                 <td class="dashedRight">4</td>
                                                 <td class="dashedLeft">0</td>
-                                                <td class="total">47,080円</td>
+                                                <td class="total">48,510円</td>
                                             </tr>
                                         </table>
                                         </div>
@@ -323,7 +323,7 @@
                                                         <th>適性代</th>
                                                         <th>副教材代</th>
                                                         <th>写真代</th>
-                                                        <th class="fs14">コース<br>図代</th>
+                                                        
                                                         <th class="blBlack">教科書代</th>
                                                         <th class="fs14 nextSpace">応急救護<br>消耗品代</th>
                                                         <th class="fs14 prevSpace">技能</th>
@@ -331,19 +331,19 @@
                                                     </tr>
                                                     <tr style="border-bottom:2px solid #000;">
                                                         <th>普通免許</th>
-                                                        <td>60,500円</td>
+                                                        <td>61,600円</td>
                                                         <td>3,080円</td>
                                                         <td>1,320円</td>
                                                         <td>1,100円</td>
-                                                        <td>440円</td>
+                                                        
                                                         <td>3,300円</td>
                                                         <td class="nextSpace">880円</td>
                                                         <td class="space"></td>
-                                                        <td>5,940円</td>
+                                                        <td>6,050円</td>
                                                         <td class="nextSpace">2,200円</td>
                                                         <td class="space"></td>
-                                                        <td>修了検定<br>4,950円</td>
-                                                        <td>卒業検定<br>5,720円</td>
+                                                        <td>修了検定<br>5,940円</td>
+                                                        <td>卒業検定<br>6,710円</td>
                                                     </tr>
                                                     <!-- <tr>
                                                         <th>普通免許<br>(AT)</th>
@@ -500,7 +500,7 @@
                         <div class="wrapBasicPlan planSafety" id="plan-safety">
                             <h3 class="titleItemContent">安心パック</h3>
                             <div class="contentItem">
-                                <p class="planSub">入校日から各パック時限数までの補習料金を保証致します。<span class="colRed">（通常1時限につき5,940円）</span><br><br>
+                                <p class="planSub">入校日から各パック時限数までの補習料金を保証致します。<span class="colRed">（通常1時限につき6,050円）</span><br><br>
                                 <span class="colGreen">運転するのが不安・・・<br>補習がたくさんついてしまうかも・・・ </span><br><br>
                                 と、いうように運転技術に自身が無い方に、安心して教習に専念して頂けるパックです。
                                 </p>
@@ -516,9 +516,9 @@
                                             </tr>
                                             <tr>
                                                 <th>パック料金</th>
-                                                <td>8,910円</td>
-                                                <td>14,850円</td>
-                                                <td>29,700円</td>
+                                                <td>9,075円</td>
+                                                <td>15,125円</td>
+                                                <td>30,250円</td>
                                             </tr>
                                             <tr>
                                                 <th>保証時限数</th>

@@ -20,17 +20,24 @@
                     <ul class="listNewsTop">
                         <li>
                             <a href="/news#noticeNews000">
-                                <p class="timeNewsTop">2026.08.31</p>
+                                <p class="timeNewsTop">2026.11.05</p>
                                 <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span>高齢者講習のご案内</h3>
                             </a>
                         </li>
 
                         <li>
                             <a href="/news#noticeNews001">
+                                <p class="timeNewsTop">2026.08.31</p>
+                                <h3 class="titleNewsTop">高齢者講習のご案内</h3>
+                            </a>
+                        </li>
+
+                        <!-- <li>
+                            <a href="/news#noticeNews001">
                                 <p class="timeNewsTop">2026.06.24</p>
                             <h3 class="titleNewsTop">2026年夏休み運転免許取得のためのご案内</h3>
                             </a>
-                        </li>
+                        </li> -->
                         <li>
                             <a href="/news#noticeNewsChange">
                                 <p class="timeNewsTop">2025.08.01</p>
