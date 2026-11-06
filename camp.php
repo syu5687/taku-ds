@@ -495,7 +495,7 @@
                                                             
                                                             
                                                         </ul>
-                                                        <ul class="thumb">
+                                                        <ul class="hotelThumb">
                                                               <li><img src="assets/images/camp/shalon/room-img-001.webp?1" alt="シャロン_室内"></li>
                                                               <li><img src="assets/images/camp/shalon/room-img-002.webp?1" alt="シャロン_室内"></li>
                                                               
