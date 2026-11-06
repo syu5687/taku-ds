@@ -441,7 +441,7 @@
                         <ul class="listItem anchor">
                             <li><a href="#shareHouse">シェアハウス「シャロン」</a></li>
                             <li><a href="#dolce">ドルチェ</a></li>
-                            <!-- <li><a href="#leopa">レオパレス</a></li> -->
+                            <li><a href="#leo">レオパレス</a></li>
                             <li><a href="#takuHotel">多久シティホテル松屋</a></li>
                             <li><a href="#hotelAZ">ホテルAZ</a></li>
                             <li><a href="#hotelAvailable ">満室時利用ホテル</a></li>
@@ -596,7 +596,7 @@
                                 </div>
                             </div>
                             
-                        <div class="wrapBasicPlan" id="leopa" style="display: none;">
+                        <div class="wrapBasicPlan" id="leo">
                         <h3 class="titleItemContent" style="margin-bottom: 10px;">レオパレス</h3>
                        
                         <div class="contentItem">
@@ -625,24 +625,24 @@
                                                     <p class="storeOriPhoto"><img src="assets/images/camp/leopa.webp" alt="レオパレス外観"></p>
                                                     
                                                     <div class="slideArea">
-                                                    <ul class="sliderDolce">
-                                                        <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-001.webp?1" alt="レオパレス写真"></p></li>
-                                                        <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-002.webp?1" alt="レオパレス写真"></p></li>
-                                                        <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-003.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
-                                                        <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-004.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
-                                                        <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-005.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
-                                                        <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-006.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
-                                                        
-                                                    </ul>
-                                                    <ul class="thumb2">
-                                                    <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-001.webp?1" alt="レオパレス写真"></p></li>
-                                                    <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-002.webp?1" alt="レオパレス写真"></p></li>
-                                                    <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-003.webp?1" alt="レオパレス写真"></p></li>
-                                                    <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-004.webp?1" alt="レオパレス写真"></p></li>
-                                                    <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-005.webp?1" alt="レオパレス写真"></p></li>
-                                                    <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-006.webp?1" alt="レオパレス写真"></p></li>                            </ul>
+                                                        <ul class="sliderLeo">
+                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-001.webp?1" alt="レオパレス写真"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-002.webp?1" alt="レオパレス写真"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-003.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-004.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-005.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-006.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
+                                                        </ul>
+                                                        <ul class="thumb2">
+                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-001.webp?1" alt="レオパレス写真"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-002.webp?1" alt="レオパレス写真"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-003.webp?1" alt="レオパレス写真"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-004.webp?1" alt="レオパレス写真"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-005.webp?1" alt="レオパレス写真"></p></li>
+                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-006.webp?1" alt="レオパレス写真"></p></li>
+                                                        </ul>
                                                     </div>
-                                                    </div>
+                                                </div>
                                                     
                                                 </div>
                                             </div>
