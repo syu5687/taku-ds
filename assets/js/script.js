@@ -171,45 +171,30 @@ $(document).ready(function() {
         }
     });
     // Popup Camp
-    $(".scheduleLink a").click(function() {
-        $(".popupFlowOriginal").addClass('showPopup');
+    // data-popup="#○○" を持つリンクをクリックしたら、そのidのポップアップ「だけ」を開く
+    $('[data-popup]').on('click', function (e) {
+        e.preventDefault();
+        var $popup = $($(this).attr('data-popup'));
+        // 対象のidが見つからない（書き間違いなど）ときは何もしない
+        if (!$popup.length) return;
+    
+        $popup.addClass('showPopup');
         $('body').addClass('fixed');
-    });
-    $(".popupMoney").click(function() {
-        $(".popupLink1").addClass('showPopup');
-        $('body').addClass('fixed');
-    });
-    $(".popupCalender").click(function() {
-        $(".popupLink2").addClass('showPopup');
-        $('body').addClass('fixed');
+    
+        // 非表示中に初期化されたスライダーの幅を、表示した直後に計算し直す
+        $popup.find('.slick-initialized').slick('setPosition');
     });
     
-    $(".closePopup").click(function() {
-        $(".popupFlowOriginal").removeClass('showPopup');
+    // 閉じる処理を1つにまとめる（×ボタンと背景クリックの両方から呼ぶ）
+    function closePopup() {
+        $('.popupFlowOriginal').removeClass('showPopup');
         $('body').removeClass('fixed');
-    });
-    //
-    $(".popupHotelLink").click(function() {
-        $(".popupHotel").addClass('showPopup');
-        $('body').addClass('fixed');
-    });
-    $(".popupHotelLink2").click(function() {
-        $(".popupHotel2").addClass('showPopup');
-        $('body').addClass('fixed');
-    });
-    $(".popupHotelLink3").click(function() {
-        $(".popupHotel3").addClass('showPopup');
-        $('body').addClass('fixed');
-    });
-    $(".closePopup").click(function() {
-        $(".popupHotel").removeClass('showPopup');
-        $('body').removeClass('fixed');
-    });
-    //
-    $(document).click(function(e) {
+    }
+    $('.closePopup').on('click', closePopup);
+    $(document).on('click', function (e) {
+        // 黒い背景そのものをクリックしたときだけ閉じる
         if ($(e.target).is('.popupFlowOriginal')) {
-            $(".popupFlowOriginal").removeClass('showPopup');
-            $('body').removeClass('fixed');
+            closePopup();
         }
     });
 });
