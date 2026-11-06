@@ -384,12 +384,12 @@
                             <h3 class="titleItemContent">料金表&保証内容</h3>
                             <div class="contentItem">
                                 <p class="pic">
-                                   <a class="popupMoney" href="javascript:void(0)" data-popup="#popupMoney">
+                                   <a href="javascript:void(0)" data-popup="#popupMoney">
                                     <img src="assets/images/camp/camp_moneyTable260915.webp" alt="料金表" loading="lazy">
                                     </a>
                                 </p>
                                 
-                                <div class="popupFlowOriginal popupLink1" id="popupMoney">
+                                <div class="popupFlowOriginal" id="popupMoney">
                                     <div class="wrapFlowOriginal">
                                         <div class="boxOriginal">
                                             <div class="closePopup">
@@ -416,11 +416,11 @@
                                     <li><a href="/contact">申し込みはこちら</a></li>
                                 </ul>
                                 <p class="pic">
-                                   <a class="popupCalender" href="javascript:void(0)" data-popup="#popupCalendar">
+                                   <a href="javascript:void(0)" data-popup="#popupCalendar">
                                     <img src="assets/images/camp/camp_calTable0907.webp?1" alt="合宿入校カレンダー" loading="lazy">
                                     </a>
                                 </p>
-                                <div class="popupFlowOriginal popupLink2" id="popupCalendar">
+                                <div class="popupFlowOriginal" id="popupCalendar">
                                     <div class="wrapFlowOriginal">
                                         <div class="boxOriginal">
                                             <div class="closePopup">
@@ -460,10 +460,10 @@
                                         <p class="text">設備やセキュリティーの面も万全ですので是非ご利用ください。</p>
                                         <ul class="listLink">
                                             <li>
-                                                <a class="popupHotelLink" href="javascript:void(0)" data-popup="#popupShalon">詳しくはこちら</a>
+                                                <a href="javascript:void(0)" data-popup="#popupShalon">詳しくはこちら</a>
                                             </li>
                                         </ul>
-                                        <div class="popupFlowOriginal popupHotel hotelPopup" id="popupShalon">
+                                        <div class="popupFlowOriginal hotelPopup" id="popupShalon">
                                             <div class="wrapFlowOriginal">
                                                 <div class="boxOriginal">
                                                     <div class="closePopup">
@@ -484,7 +484,7 @@
                                                            1人でご入校される方は同時期にご宿泊の方と一緒のお部屋でご案内いたします。
                                                         </p>
                                                         <div class="slideArea">
-                                                        <ul class="sliderShalon hotelSlider">
+                                                        <ul class="hotelSlider">
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-001.webp?1" alt="シャロン_室内"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-002.webp?1" alt="シャロン_室内"></p></li>
                                                             
@@ -531,10 +531,10 @@
                                         <p class="text">プライベート充実のアパートタイプです。<br>料理を楽しんだり、広い浴室でゆったり過ごしたり！<br>是非ご利用ください。</p>
                                         <ul class="listLink">
                                             <li>
-                                                <a class="popupHotelLink2" href="javascript:void(0)" data-popup="#popupDolce">詳しくはこちら</a>
+                                                <a href="javascript:void(0)" data-popup="#popupDolce">詳しくはこちら</a>
                                             </li>
                                         </ul>
-                                        <div class="popupFlowOriginal popupHotel2 hotelPopup" id="popupDolce">
+                                        <div class="popupFlowOriginal hotelPopup" id="popupDolce">
                                             <div class="wrapFlowOriginal">
                                                 <div class="boxOriginal">
                                                     <div class="closePopup">
@@ -556,7 +556,7 @@
                                                             ※テレビはチューナーレスのため地上波は映りません。
                                                         </p>
                                                         <div class="slideArea">
-                                                        <ul class="sliderDolce hotelSlider">
+                                                        <ul class="hotelSlider">
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001-1.webp?1" alt="ドルチェ_キッチン"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-002.webp?1" alt="ドルチェ_キッチン"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-003.webp?1" alt="ドルチェ_キッチン" loading="lazy"></p></li>
@@ -569,7 +569,7 @@
                                                             <!-- <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="ドルチェ_リビング" loading="lazy"></p></li> -->
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-011.webp?1" alt="ドルチェ_寝室" loading="lazy"></p></li>
                                                         </ul>
-                                                        <ul class="thumb2 hotelThumb">
+                                                        <ul class="hotelThumb">
                                                               <li><img src="assets/images/camp/dolce/room-imgD-001-1.webp?1" alt="ドルチェ_キッチン"></li>
                                                               <li><img src="assets/images/camp/dolce/room-imgD-002.webp?1" alt="ドルチェ_キッチン"></li>
                                                               <li><img src="assets/images/camp/dolce/room-imgD-003.webp?1" alt="ドルチェ_キッチン"></li>
@@ -610,10 +610,10 @@
                                     <p class="text">他の人に気を遣わず、自分のペースで学習や休息ができます。是非ご利用ください。</p>
                                     <ul class="listLink">
                                         <li>
-                                            <a class="popupHotelLink3" href="javascript:void(0)" data-popup="#popupLeo">詳しくはこちら</a>
+                                            <a href="javascript:void(0)" data-popup="#popupLeo">詳しくはこちら</a>
                                         </li>
                                     </ul>
-                                    <div class="popupFlowOriginal popupHotel3 hotelPopup" id="popupLeo">
+                                    <div class="popupFlowOriginal hotelPopup" id="popupLeo">
                                         <div class="wrapFlowOriginal">
                                             <div class="boxOriginal">
                                                 <div class="closePopup">
@@ -625,7 +625,7 @@
                                                     <p class="storeOriPhoto"><img src="assets/images/camp/leopa.webp" alt="レオパレス外観"></p>
                                                     
                                                     <div class="slideArea">
-                                                        <ul class="sliderLeo hotelSlider">
+                                                        <ul class="hotelSlider">
                                                             <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-001.webp?1" alt="レオパレス写真"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-002.webp?1" alt="レオパレス写真"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-003.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
@@ -633,7 +633,7 @@
                                                             <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-005.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-006.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
                                                         </ul>
-                                                        <ul class="thumb3 hotelThumb">
+                                                        <ul class="hotelThumb">
                                                             <li><img src="assets/images/camp/leo/room-imgL-001.webp?1" alt="レオパレス写真"></li>
                                                             <li><img src="assets/images/camp/leo/room-imgL-002.webp?1" alt="レオパレス写真"></li>
                                                             <li><img src="assets/images/camp/leo/room-imgL-003.webp?1" alt="レオパレス写真"></li>
@@ -757,7 +757,7 @@
                                         <p class="flowImg"><img src="assets/images/camp/flow-img-3.webp?1" alt="flow-img-3" loading="eager" fetchpriority="high"></p>
                                         <div class="flowTxt">
                                             <p class="text"> 入校式が終わったらLet’s教習開始！</p>
-                                            <ul class="listLink scheduleLink">
+                                            <ul class="listLink">
                                                 <li><a href="javascript:void(0)" data-popup="#popupSchedule">1日のモデルスケジュール</a></li>
                                             </ul>
                                             <div class="popupFlowOriginal" id="popupSchedule">

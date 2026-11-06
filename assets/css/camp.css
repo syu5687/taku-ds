@@ -735,49 +735,7 @@ body.fixed {
 
 
 
-.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList,
-.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList {
-    width: 100%;
-    border: 3px solid #50B482;
-    border-radius: 20px;
-    padding: 20px 24px 18px 23px;
-    display: flex;
-    flex-wrap: nowrap;
-    margin-top: 52px;
-}
-.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li,
-.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li{
-    flex: 0 0 calc((100% - 46px) / 4);
-    margin-right: 15px;
-}
-.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li:last-child,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li:last-child,
-.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li:last-child {
-    margin-right: 0;
-}
-.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listImg,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listImg,
-.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listImg {
-    width: 100%;
-    margin-bottom: 9px;
-}
-.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listImg img,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listImg img,
-.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listImg img{
-    aspect-ratio: 1 / 1;
-    width: 100%;
-}
-.popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listTxt,
-.popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listTxt,
-.popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listTxt  {
-    text-align: center;
-    font-size: 38px;
-    line-height: 1.29;
-    font-weight: bold;
-    margin-bottom: 0;
-}
+
 /* #tab 5  */
 #campFlow {
     padding-top: 123px;
@@ -961,11 +919,6 @@ dl.cautionBox dd{
     }
 }
 @media (max-width: 1240px) {
-    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listTxt,
-    .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listTxt,
-    .popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listTxt{
-        font-size: 22px;
-    }
     .popupFlowOriginal.hotelPopup .wrapFlowOriginal .boxOriginal .popupTitle {
         font-size: 38px;
     }
@@ -1426,31 +1379,7 @@ dl.cautionBox dd{
         margin-bottom: clamp(24px, 5vw, 34px);
         padding: 0;
     }
-    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList,
-    .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList,
-    .popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList {
-        margin-top: clamp(36px,8vw,46px);
-        flex-direction: row;
-        flex-wrap: wrap;
-        row-gap: clamp(24px,5vw,34px);
-        padding: clamp(20px,3.6vw,30px);
-    }
-    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li,
-    .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li,
-    .popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li{
-        flex: 0 0 calc((100% / 2 - 2.133vw));
-        margin-right: 4.266vw;
-    }
-    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li:nth-child(2n),
-    .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li:nth-child(2n),
-    .popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li:nth-child(2n){
-        margin-right: 0;
-    }
-    .popupFlowOriginal.popupHotel .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listTxt,
-    .popupFlowOriginal.popupHotel2 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listTxt,
-    .popupFlowOriginal.popupHotel3 .wrapFlowOriginal .boxOriginal .boxContentOriginal .roomsList li .listTxt{
-        font-size: clamp(18px,3.2vw,24px);
-    }
+    
     
     #pricePlan .tableWrap.tableScroll::-webkit-scrollbar {
         height: 5px;
