@@ -463,7 +463,7 @@
                                                 <a class="popupHotelLink" href="javascript:void(0)">詳しくはこちら</a>
                                             </li>
                                         </ul>
-                                        <div class="popupFlowOriginal popupHotel">
+                                        <div class="popupFlowOriginal popupHotel hotelPopup">
                                             <div class="wrapFlowOriginal">
                                                 <div class="boxOriginal">
                                                     <div class="closePopup">
@@ -484,7 +484,7 @@
                                                            1人でご入校される方は同時期にご宿泊の方と一緒のお部屋でご案内いたします。
                                                         </p>
                                                         <div class="slideArea">
-                                                        <ul class="sliderShalon">
+                                                        <ul class="sliderShalon hotelSlider">
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-001.webp?1" alt="シャロン_室内"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/shalon/room-img-002.webp?1" alt="シャロン_室内"></p></li>
                                                             
@@ -534,7 +534,7 @@
                                                 <a class="popupHotelLink2" href="javascript:void(0)">詳しくはこちら</a>
                                             </li>
                                         </ul>
-                                        <div class="popupFlowOriginal popupHotel2">
+                                        <div class="popupFlowOriginal popupHotel2 hotelPopup">
                                             <div class="wrapFlowOriginal">
                                                 <div class="boxOriginal">
                                                     <div class="closePopup">
@@ -556,7 +556,7 @@
                                                             ※テレビはチューナーレスのため地上波は映りません。
                                                         </p>
                                                         <div class="slideArea">
-                                                        <ul class="sliderDolce">
+                                                        <ul class="sliderDolce hotelSlider">
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-001-1.webp?1" alt="ドルチェ_キッチン"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-002.webp?1" alt="ドルチェ_キッチン"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-003.webp?1" alt="ドルチェ_キッチン" loading="lazy"></p></li>
@@ -569,7 +569,7 @@
                                                             <!-- <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-010.webp" alt="ドルチェ_リビング" loading="lazy"></p></li> -->
                                                             <li><p class="listImg"><img src="assets/images/camp/dolce/room-imgD-011.webp?1" alt="ドルチェ_寝室" loading="lazy"></p></li>
                                                         </ul>
-                                                        <ul class="thumb2">
+                                                        <ul class="thumb2 hotelThumb">
                                                               <li><img src="assets/images/camp/dolce/room-imgD-001-1.webp?1" alt="ドルチェ_キッチン"></li>
                                                               <li><img src="assets/images/camp/dolce/room-imgD-002.webp?1" alt="ドルチェ_キッチン"></li>
                                                               <li><img src="assets/images/camp/dolce/room-imgD-003.webp?1" alt="ドルチェ_キッチン"></li>
@@ -613,7 +613,7 @@
                                             <a class="popupHotelLink3" href="javascript:void(0)">詳しくはこちら</a>
                                         </li>
                                     </ul>
-                                    <div class="popupFlowOriginal popupHotel3">
+                                    <div class="popupFlowOriginal popupHotel3 hotelPopup">
                                         <div class="wrapFlowOriginal">
                                             <div class="boxOriginal">
                                                 <div class="closePopup">
@@ -625,7 +625,7 @@
                                                     <p class="storeOriPhoto"><img src="assets/images/camp/leopa.webp" alt="レオパレス外観"></p>
                                                     
                                                     <div class="slideArea">
-                                                        <ul class="sliderLeo">
+                                                        <ul class="sliderLeo hotelSlider">
                                                             <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-001.webp?1" alt="レオパレス写真"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-002.webp?1" alt="レオパレス写真"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-003.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
@@ -633,13 +633,13 @@
                                                             <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-005.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
                                                             <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-006.webp?1" alt="レオパレス写真" loading="lazy"></p></li>
                                                         </ul>
-                                                        <ul class="thumb2">
-                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-001.webp?1" alt="レオパレス写真"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-002.webp?1" alt="レオパレス写真"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-003.webp?1" alt="レオパレス写真"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-004.webp?1" alt="レオパレス写真"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-005.webp?1" alt="レオパレス写真"></p></li>
-                                                            <li><p class="listImg"><img src="assets/images/camp/leo/room-imgL-006.webp?1" alt="レオパレス写真"></p></li>
+                                                        <ul class="thumb3 hotelThumb">
+                                                            <li><img src="assets/images/camp/leo/room-imgL-001.webp?1" alt="レオパレス写真"></li>
+                                                            <li><img src="assets/images/camp/leo/room-imgL-002.webp?1" alt="レオパレス写真"></li>
+                                                            <li><img src="assets/images/camp/leo/room-imgL-003.webp?1" alt="レオパレス写真"></li>
+                                                            <li><img src="assets/images/camp/leo/room-imgL-004.webp?1" alt="レオパレス写真"></li>
+                                                            <li><img src="assets/images/camp/leo/room-imgL-005.webp?1" alt="レオパレス写真"></li>
+                                                            <li><img src="assets/images/camp/leo/room-imgL-006.webp?1" alt="レオパレス写真"></li>
                                                         </ul>
                                                     </div>
                                                 </div>
