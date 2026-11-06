@@ -312,7 +312,7 @@
                                                     <tr>
                                                         <th rowspan="2">車種</th>
                                                         <th rowspan="2">入学金</th>
-                                                        <th colspan="4"><span class="tableBg">諸経費</span></th>
+                                                        <th colspan="3"><span class="tableBg">諸経費</span></th>
                                                         <th colspan="2" class="nextSpace"><span class="tableBg">その他</span></th>
                                                         <th rowspan="2" class="space"></th>
                                                         <th colspan="2" class="fs14 nextSpace">教習料<br>（１時間当たり）</th>
