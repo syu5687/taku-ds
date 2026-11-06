@@ -1,4 +1,5 @@
 <?php include 'header.php'; ?>
+<?php include __DIR__ . '/inc/news-top.php'; ?>
     <div class="main">
         <p class="mainPhoto">
             <img src="assets/images/index/main-top-photo.webp" alt="多久自動車学校教習車イメージ" loading="eager" fetchpriority="high">
@@ -17,45 +18,16 @@
                         <h2 class="titleTop">NEWS</h2>
                         <p class="subTitleTop">お知らせ</p>
                     </div>
+                    <?php $topNews = getTopNews(3); ?>
                     <ul class="listNewsTop">
+                        <?php foreach ($topNews as $i => $news): ?>
                         <li>
-                            <a href="/news#noticeNews000">
-                                <p class="timeNewsTop">2026.11.05</p>
-                                <h3 class="titleNewsTop"><span style="color:#EF5350;">NEW!!</span>10月から入校される高校生の皆様へご案内！</h3>
+                            <a href="/news#<?php echo htmlspecialchars($news['id'], ENT_QUOTES, 'UTF-8'); ?>">
+                                <p class="timeNewsTop"><?php echo htmlspecialchars($news['date'], ENT_QUOTES, 'UTF-8'); ?></p>
+                                <h3 class="titleNewsTop"><?php if ($i === 0): ?><span style="color:#EF5350;">NEW!!</span><?php endif; ?><?php echo htmlspecialchars($news['title'], ENT_QUOTES, 'UTF-8'); ?></h3>
                             </a>
                         </li>
-
-                        <li>
-                            <a href="/news#noticeNews001">
-                                <p class="timeNewsTop">2026.08.31</p>
-                                <h3 class="titleNewsTop">高齢者講習のご案内</h3>
-                            </a>
-                        </li>
-
-                        <!-- <li>
-                            <a href="/news#noticeNews001">
-                                <p class="timeNewsTop">2026.06.24</p>
-                            <h3 class="titleNewsTop">2026年夏休み運転免許取得のためのご案内</h3>
-                            </a>
-                        </li> -->
-                        <li>
-                            <a href="/news#noticeNewsChange">
-                                <p class="timeNewsTop">2025.08.01</p>
-                                <h3 class="titleNewsTop">教習スケジュール制度導入のお知らせ</h3>
-                            </a>
-                        </li>
-                        <!-- <li>
-                            <a href="/news#noticeNews003">
-                                <p class="timeNewsTop">25.08.01</p>
-                                <h3 class="titleNewsTop">仮免申請料等の料金改定について</h3>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/news#noticeNews004">
-                                <p class="timeNewsTop">25.08.01</p>
-                                <h3 class="titleNewsTop">令和6年度　優良教習所の表彰について</h3>
-                            </a>
-                        </li> -->
+                        <?php endforeach; ?>
                     </ul>
                 </div>
                 
