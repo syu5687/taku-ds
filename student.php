@@ -11,7 +11,7 @@
                     <li class="active"><a href="#notice" data-tab="notice">お知らせ</a></li>
                     <li><a href="#schedule" data-tab="schedule">スケジュール</a></li>
                     <li><a href="#bus" data-tab="bus">送迎バス</a></li>
-                    <li><a href="#notes" data-tab="notes">オンライン学科受講の注意事項</a></li>
+                    <!-- <li><a href="#notes" data-tab="notes">オンライン学科受講の注意事項</a></li> -->
                 </ul>
                 <div class="contentTab">
                     <div class="itemTab" id="notice">
@@ -251,7 +251,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="itemTab" id="notes">
+                    <!-- <div class="itemTab" id="notes">
                         <div class="wrapBasicPlan">
                             <h3 class="titleItemContent">オンライン学科受講の注意事項</h3>
                             <div class="contentItem">
@@ -366,7 +366,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
